@@ -1,7 +1,6 @@
 import json
 from nltk_utils import bag_of_words, tokenize, stem
 import numpy as np
-
 from torch.utils.data import Dataset, DataLoader
 
 with open('intents.json', 'r') as f:
