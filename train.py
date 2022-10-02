@@ -53,9 +53,12 @@ class ChatDataset(Dataset):
  
 # Hyper Params
 batch_size = 8
-input_size = len(all_words) 
+input_size = len(X_train[0]) 
 hidden_size = 8
 output_size = len(tags)
+
+print(input_size, len(all_words))
+print(output_size, len(tags))
   
 dataset = ChatDataset()
 train_loader = DataLoader(dataset=dataset, batch_size=batch_size, shuffle=True, num_workers=2)
