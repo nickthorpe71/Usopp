@@ -1,7 +1,9 @@
 import json
-from nltk_utils import bag_of_words, tokenize, stem
 import numpy as np
 from torch.utils.data import Dataset, DataLoader
+from nltk_utils import bag_of_words, tokenize, stem
+from model import NeuralNet
+
 
 with open('intents.json', 'r') as f:
   intents = json.load(f)
@@ -51,7 +53,12 @@ class ChatDataset(Dataset):
  
 # Hyper Params
 batch_size = 8
+input_size = len(all_words) 
+hidden_size = 8
+output_size = len(tags)
   
 dataset = ChatDataset()
 train_loader = DataLoader(dataset=dataset, batch_size=batch_size, shuffle=True, num_workers=2)
 
+
+model = NeuralNet(input_size, hidden_size, output_size)
