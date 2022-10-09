@@ -790,7 +790,6 @@ Poshul:
  System:
    x button to jump.
    
- Opassa Beach (Home):
 
  Leena:
    There you are!
@@ -969,7 +968,6 @@ Leena:
 Leena:
    Serge?
    
- Opassa Beach (Another):
  
  Old Man:
    What are you doing there,
@@ -1021,7 +1019,6 @@ Poshul:
 Arni Village -
 Nothing has changed but everything!
 
- Serge's House, Arni (Another):
  
 Poshul:
    PO-SHU?
@@ -1089,7 +1086,6 @@ Poshul:
    Just get outta
    my house, will ya?
    
- Pier, Arni (Another):
  
 Poshul:
    Leena! Tho thith
@@ -1267,7 +1263,6 @@ Leena:
 Cape Howl -
 A reminder of one's former self...
    
- Cape Howl (Another):
  
  Tombstone:
    There's some writing
@@ -1416,7 +1411,6 @@ Karsh:
    magic when they can
    fight with their might!
    
- Cape Howl (Another):
 
  Solt:
    ...It's no use.
@@ -1643,7 +1637,6 @@ Poshul:
 The Port Town of Termina -
 The pride of the Acacia Dragoons...
 
- Cape Howl (Another):
  
 Kid:
    Is this yer grave, mate!?
@@ -1703,7 +1696,6 @@ Kid:
    I don't go down that
    easy, ya know?
 
- Serge's House, Arni (Another):
  
 Leena:
    Rise and shine!
@@ -1790,7 +1782,6 @@ Kid:
    Serge received
    Tele-Porter!
    
- Kiki's House, Arni (Another):
  
  Mojo:
    Boogum!
@@ -1855,7 +1846,6 @@ Mojo:
    of love and courage,
    call-om on me any time!
    
- Leena's House, Arni (Another):
  
  Leena's Grandma:
    Why, Leena.
@@ -1870,7 +1860,6 @@ Leena:
    It's not like
    that at all!
 
- Fossil Valley (Another):
  
  Skelly:
    ~!!!~
@@ -2049,14 +2038,12 @@ Peppor:
    L-Let's shake it on
    outta here!
  
- Shadow Forest (Another):
    
 Dragoon:
    WE CANNOT ALLOW YOU TO
    GO BEYOND THIS POINT.
    I ASK THAT YOU TURN BACK.
    
- Termina (Another):
  
  Woman:
    Sorry, I'm totally
@@ -2556,7 +2543,6 @@ Poshul:
    You've rucked out
    for today!!!
 
- The Dragon's Tail, Termina (Another):
  
 Guile:
    My name is Guile.
@@ -2629,7 +2615,6 @@ Guile:
    Call me if you
    change your mind.
  
- Termina (Another):
  
  Fortune Teller:
    Grin...
@@ -2694,7 +2679,6 @@ Kid:
    Ha, I don't give a damn.
    Let's go Serge.
 
- Shrine Area, Termina (Another):
  
 Young lady:
    So, she was out of
@@ -3012,7 +2996,6 @@ Korcha:
    listen to me!
    Geez...
    
- Viper Manor Bluffs (Another):
  
 Korcha:
    Don'tCHA think it's
@@ -3110,7 +3093,6 @@ Member:
    Let's wait here
    until nightfall.
  
- Magical Dreamers Ship, Termina (Another):
  
  Roadie:
    This is my first time
@@ -3194,7 +3176,6 @@ Miki:
    But if you change your mind,
    please let me know!
    
- Zappa's Smithy, Termina (Another):
  
 Zippa:
    Welcome!!! This here's the
@@ -3331,7 +3312,6 @@ Pierre:
    Sacré bleu!
    What is a hero like moi to do?
  
- Termina (Another):
    
 Mojo:
    B-Brother...?
@@ -3449,7 +3429,6 @@ Pierre:
    I shall pay you double...
    once I make it to stardom!
    
- Termina (Another):
    
  John:
    Huff, huff.
@@ -3473,7 +3452,6 @@ Pierre:
    So that's why my
    big sis is so strong!
    
- Van's House, Termina (Another):
  
 Van:
    Bother! That is not it.
@@ -3550,7 +3528,6 @@ Van:
    a painter in his youth...
    It is rather hard to believe.
  
- Termina (Another):
  
  Portrait Artist:
    Huh? You've met the
@@ -3584,7 +3561,6 @@ Van:
 Nikki:
    ......
    
- Skelly's House, Termina (Another):
  
  Grandma:
    What is this
@@ -3615,7 +3591,6 @@ Skelly:
 Skelly:
    ......!!!
  
- Lisa's Shop, Termina (Another):
 
 Lisa:
    Well, Leena!!!
@@ -3716,7 +3691,6 @@ Lisa:
    some Elements as a
    souvenir of Termina?
    
- Shadow Forest (Another):
  
 Man:
    Listen to my song!
@@ -4116,16 +4090,11 @@ Solt:
    knows that!
 
 Peppor:
-   ...............
-   ...............
    Oh my god, Solt!
    Can't you ever do
    anything right?
 
 ZOAH:
-   ...............
-   ...............
-   ...............
    ARE YOU CLOWNS
    FINISHED WITH YOUR
    COMEDY ACT YET?
@@ -4167,7 +4136,6 @@ Member:
    Let's wait here
    until nightfall.
  
- Termina (Another):
  
  Roadie:
    Nikki!
@@ -4175,7 +4143,6 @@ Member:
    Come on, you're going
    back to the dressing room.
  
- Magical Dreamers Ship, Termina (Another):
 
  Roadie:
    Nikki!!!
@@ -4221,7 +4188,6 @@ Nikki:
 Viper Manor -
 Where lies the key to the past...
    
- Viper Manor (Another):
  
 Pierre:
    Yoo-hoo, there!
@@ -4559,7 +4525,6 @@ Solt:
    exhausted like that!
   
 Peppor:
-   .........
    Have you got your
    priorities straight!?
    Doesn't that defeat
@@ -4586,7 +4551,6 @@ Peppor:
    Wwaaaaaaah!?!
    What are you doing?
    
- Viper Manor (Another):
 
 Pierre:
    Excusez-moi, but
@@ -4655,7 +4619,6 @@ Member:
  System:
    It leads down.
 
- Viper Manor Stable (Another):
  
  Stablekeeper:
    Who are you?
@@ -4865,7 +4828,6 @@ Member:
    Member: found
    Manor Key!
    
- Viper Manor (Another):
  
 Kid:
    I'm glad I followed 'em.
@@ -5015,7 +4977,6 @@ Mojo:
 Member:
    No kidding...
   
- Viper Manor (Another):
  
  Acacia Dragoon:
    Time for the next shift already?
@@ -5046,14 +5007,12 @@ Member:
    (It's too embarrassing to
    say it was a girl...)
  
- Stable, Viper Manor (Another):
  
  Stablekeeper:
    Huh?
    Oh, it's you.
    So you were dragoons.
    
- Treasure Vault, Viper Manor (Another):
  
  Battle:
    
@@ -5072,7 +5031,6 @@ The Boxer Boys:
    You had to pick one of us!
    We don't reward CHEATERS!!!
  
- Treasure Vault, Viper Manor (Another):
    
    Kid:
       Heheh!
@@ -5198,7 +5156,6 @@ Luccia:
    
    Weeeeed
    
- Luccia's Lab, Viper Manor (Another):
  
 Luccia:
    No.
@@ -5292,7 +5249,6 @@ Luccia:
    Kom back later.
    I'll be vaiting...
  
- Vault, Viper Manor (Another):
  
 Kid:
    So the Frozen Flame
@@ -5304,7 +5260,6 @@ Kid:
 Kid:
    Move it!
    
- Mess Hall, Viper Manor (Another):
  
  Glenn:
    What!?
@@ -5352,12 +5307,10 @@ Dishwasher:
    I'm sorry, but
    I'm quite busy here.
    
- Viper Manor (Another):
  
 Glenn:
    Please, I am busy.
    
- Barracks, Viper Manor (Another):
  
 Glenn:
    I'd better write that down.
@@ -5372,13 +5325,11 @@ Glenn:
    If only I could consult my
    brother about this...
    
- Room, Viper Manor (Another):
    
 Harlequin:
    Se taire...
    Pleaze, shut up...
    
- Karsh's Room, Viper Manor (Another):
  
 Karsh:
    Yeah?
@@ -5497,7 +5448,6 @@ Karsh:
    If you want it that
    badly, take it.
    
- ZOAH'S ROOM, VIPER MANOR (ANOTHER):
  
 Zoah:
    WHAT?
@@ -5586,7 +5536,6 @@ Zoah:
 Zoah:
    ONLY I CAN OPEN THAT.
    
- Library, Viper Manor (Another):
  
 Girl:
    So, like...
@@ -5958,7 +5907,6 @@ Prophet:
 Prophet:
    Good luck to you.
    
- Viper Manor (Another):
    
 Kid:
    Huh!?
@@ -6097,7 +6045,6 @@ Kid:
 
    Where do you think you're going!?
    
- Viper's Quarters, Viper Manor (Another):
  
 Kid:
    What?
@@ -6318,7 +6265,6 @@ Kid:
    C'mon, let's bust
    outta here!
    
- Viper Manor (Another):
  
 Viper:
    Don't be foolish!
@@ -6345,7 +6291,6 @@ Kid:
    Serge,
    this way.
    
- Roof Terrace, Viper Manor (Another):
  
 Lynx:
    We have you now, you vermin.
@@ -6406,7 +6351,6 @@ Lynx:
 Guldove -
 Where ripples become waves...
 
- Macha's House, Guldove (Another):
  
 Lady:
    You're finally awake?
@@ -6427,7 +6371,6 @@ Lady:
    Oi, Serge!
    Ya finally woke up, eh?
 
- Guldove (Another):
  
 Kid:
    Give yer thanks to Korcha.
@@ -6480,7 +6423,6 @@ Korcha:
    We should take her there.
    C'mon, I need your help, too!
    
- Doctor's House, Guldove (Another):
    
 Doctor:
    It seems the patient has been
@@ -6872,7 +6814,6 @@ Skelly:
    Termina's famous
    squid gut pasta!
    
- Orlha's Pub, Guldove (Another):
  
 Doc:
    ...Another life is about
@@ -6930,7 +6871,6 @@ Orlha:
    It's a small shop,
    but feel free to relax.
  
- Doc's Clinic, Guldove (Another):
  
 Doc:
    This is the best I can do
@@ -6945,7 +6885,6 @@ Doc:
    Please don't give up hope.
    We will do best that we can...
    
- Dragon Shrine, Guldove (Another):
  
 Shrine Maiden:
    Welcome to the Dragon Shrine.
@@ -7355,7 +7294,6 @@ Steena:
    with the guidance of the 6 great
    Dragon Gods...
    
- Korcha's House, Guldove (Another):
  
 Korcha's ma:
    Oh, hi there.
@@ -7367,7 +7305,6 @@ Mel:
    I've got to concentrate
    and concentrate!
    
- Guldove (Another):
    
 Korcha:
    Are you ready to go?
@@ -7416,7 +7353,6 @@ Korcha:
    Alright, we're off.
    All of you get in the boat.
    
- Termina (Another):
    
  Overseer:
    HEY!!!
@@ -7558,7 +7494,6 @@ Korcha:
    I gotta do some
    research on that...
  
- The Dragon's Tail, Termina (Another):
  
 Guile:
    At the manor, I have learned
@@ -7573,7 +7508,6 @@ Guile:
    will come in contact with such
    undiscovered enigmas...
    
- Shrine Area, Termina (Another):
    
 Greco:
    ...Oh, blessed child,
@@ -7633,7 +7567,6 @@ Greco:
    soul a small prayer to guide
    him on his path...
    
- Greco's House, Termina (Another):
  
 Greco:
    Those damn dragoons...
@@ -7728,7 +7661,6 @@ Romana:
    I...
    ...Nevermind.
    
- Termina (Another):
  
  Man:
    Y-Yipe!
@@ -7764,7 +7696,6 @@ Greco:
    May the holy light
    shine upon you, amigo...
    
- Zappa's Smithy, Termina (Another):
  
 Zippa:
    Do ye know about this?
@@ -7818,7 +7749,6 @@ Zappa:
    I've still got so much
    to learn.
    
- Van's House, Termina (Another):
    
 Van:
    Oh, bother. It appears that
@@ -7829,7 +7759,6 @@ Van:
    balcony like I did last year...
    Ho-hum...
    
- Magical Dreamers Ship, Termina (Another):
    
 Miki:
    Sigh...
@@ -7839,7 +7768,6 @@ Miki:
    hurry out of Termina, for
    crying out loud.
    
- Sick Girl's House, Termina (Another):
  
  Girl:
    I thought Korcha was
@@ -7851,7 +7779,6 @@ Korcha:
  Girl:
    Who could it be then?
  
- Cafe de Fleur, Arni (Another):
  
  Old Woman:
    Th-Th-This can't be...!?
@@ -7869,14 +7796,12 @@ Nikki:
    I'll scream my lungs
    out cheering you on!
    
- Mess Hall, Viper Manor (Another):
  
 Orcha:
    Now where did that
    slacker go? Can't let
    him outta my sight...
    
- Luccia's Lab, Viper Manor (Another):
  
 Dishwasher:
    Luccia isn't here.
@@ -7888,7 +7813,6 @@ Dishwasher:
    Could you let me
    out of here?
    
- Roof Terrace, Viper Manor (Another):
    
 Luccia:
    Dis Homosap flower
@@ -7930,7 +7854,6 @@ Luccia:
    I suggest you stay avay from
    dat marsh if you vish to live...
    
- Riddel's Room, Viper Manor (Another):
  
 Riddel:
    Oh my goodness...
@@ -7953,7 +7876,6 @@ Riddel:
    except pray for
    their safety.
    
- Library, Viper Manor (Another):
  
 Prophet:
    General Viper has headed
@@ -7968,14 +7890,12 @@ Prophet:
    difficult facing the
    Porre military here.
    
- Neo Epoch Room, Viper Manor (Another):
  
 Member:
    What is this?
    some kind of
    transport?
    
- Luccia's Lab, Viper Manor (Another):
  
 Luccia:
    Vot are you doing?
@@ -8035,7 +7955,6 @@ Luccia:
    Please call me anytime.
    I vill be vaiting.
    
- Hydra Marshes (Another):
  
  SnobGoblin:
    Muah-hah-hah!!!
@@ -8054,7 +7973,6 @@ Luccia:
    This forest be belongin' to us!
 
 Member:
-   .........
    (what are those two
     talking about...?)
 
@@ -8100,7 +8018,6 @@ Skelly:
    doin'...?
    I bet she's worried sick...
    
- Roof Terrace, Viper Manor (Another):
  
 Luccia:
    I suggest you stay
@@ -8153,7 +8070,6 @@ Luccia:
    You...
    Kom to my lab later.
    
- Opassa Beach (Another):
    
    Korcha:
    Is this the place?
@@ -8362,7 +8278,6 @@ Member:
    wormhole that connects
    the two worlds...
  
- Opassa Beach (Home):
  
 Member:
    It felt like my
@@ -8391,7 +8306,6 @@ Member:
    believe
    it, though.
  
- Cape Howl (Home):
  
 Leena:
    ......
@@ -8431,7 +8345,6 @@ Leena:
    Come on!
    Tell me!
  
- Arni (Home):
  
 Leena:
    Heeey!?
@@ -8467,8 +8380,6 @@ Leena:
    Don't even think about
    pulling that one again.
    Once is enough for me.
-
-Hydra Marshes (Home):
 
  Man:
    Oh, you're with Leena.
@@ -8615,7 +8526,6 @@ Member:
    avoid passing through
    the middle.
    
- Cave, Hydra Marshes (Home):
 
 Member:
    Who would have thought
@@ -8640,7 +8550,6 @@ Member:
    while we still can!
 
 Encaged Fairy:
-   ............
 
 Member:
    Hey, Serge!
@@ -8807,7 +8716,6 @@ Razzly:
    Sergey!
    
 Razzly:
-   ............And......
    ...thank......you...for...coming...
 
 Member:
@@ -8820,7 +8728,6 @@ Member:
    going before this
    thing wakes up.
 
- Hydra Marshes (Home):
  
 Poshul:
    The Hydra mutht
@@ -8980,7 +8887,6 @@ Member:
 Member:
    ...Let's hurry.
    
- Termina (Another):
  
 Korcha:
    That's the stuff we needed to
@@ -8990,7 +8896,6 @@ Korcha:
    ~~~Return to Guldove
    ~~~Wait just a minute
    
- Guldove (Another):
  
 Korcha:
    Let's rush that over to the
@@ -9002,7 +8907,6 @@ Korcha:
    ~~~Return to Guldove
    ~~~Wait a minute
    
- Doc's House, Guldove (Another):
  
 Korcha:
    Hey, Serge..
@@ -9168,7 +9072,6 @@ Korcha:
    It'll just make you tired, OK?
    
 Poshul:
-   .........
 
 Doc:
    Another world...
@@ -9458,7 +9361,6 @@ Doc:
    One must live strongly
    because life is limited!
  
- Orlha's Restaurant, Guldove (Another):
  
 Orlha:
    Yes? Mel?
@@ -9473,7 +9375,6 @@ Korcha:
    Well, it's nothing big;
    if she isn't here, that's OK.
    
- Guldove (Another):
  
  Man:
    Chief Direa is in prayer.
@@ -9563,7 +9464,6 @@ Korcha:
 Korcha:
    Let's do it!
    
- Residential Tower, Guldove (Another):
  
  Mel:
    Waaaah...
@@ -9689,7 +9589,6 @@ Korcha:
    OK, then, come and find me
    when you're ready to go.
 
- Termina (Another):
  
 Korcha:
    Here we are in Termina.
@@ -9987,7 +9886,6 @@ Kid:
    
  Branch: Answering No. For Yes, search Branch: Answering Yes.:
  
- Doc's House, Guldove (Another):
  
 Korcha:
    Hey, wait a minute!
@@ -10023,7 +9921,6 @@ Korcha:
    ...It's turnin' out to be a
    baaad day.
    
- Residential Tower, Guldove (Another):
  
 Korcha:
    What do you want?
@@ -10212,7 +10109,6 @@ Korcha:
    I'm only lending you the boat
    because ma said to.
    
- Guldove (Another):
  
 Macha:
    Serge, you haven't
@@ -10242,7 +10138,6 @@ Macha:
    Alright boys and girls,
    all of you get on the boat!
 
- Termina (Another):
  
  Overseer: 
    HEY!!!
@@ -10644,7 +10539,6 @@ Guile:
  Fortune Teller:
    You bet!
  
- Magical Dreamers Ship (Another):
    
 Nikki:
    I'll be gone for a while...
@@ -10665,7 +10559,6 @@ Nikki:
    The concert's postponed
    indefinitely anyway.
  
- Glenn and Dario's House, Termina (Another):
  
  Trophy:
    ~~Viper Cup
@@ -10911,7 +10804,7 @@ Glenn:
    Call me whenever you need
    help!
    
-   Residential Tower, Guldove (Another):
+
    
 Macha:
    Welcome, Serge..
@@ -10942,7 +10835,6 @@ Korcha:
    Didja come by to laugh at me?
    Ha, what losers...
    
- Isle of the Damned (Another):
  
 Skelly:
    Oh man...!
@@ -10951,7 +10843,6 @@ Skelly:
    Ahh, I'll just connect
    whatever!
    
- Water Dragon Isle (Another):
  
  Explorer:
    I found this thing at the dried up
@@ -10997,7 +10888,6 @@ Skelly:
 Hermit's Hideaway -
 Meeting with the 'other' swordsman...
  
- Hermit's Hideaway (Another):
  
    Glenn:
    What on earth happened!?
@@ -11106,7 +10996,6 @@ Harle:
    Mon Dieu!
    Moi iz défaited!
    
- Hermit's Hideaway (Another):
  
 Harle:
    Ooh lah lah...
@@ -11177,7 +11066,6 @@ Radius:
    standing out here.
    Please, come in.
    
- Haven, Hermit's Hideaway (Another):
  
 Radius:
    I see...
@@ -11297,7 +11185,6 @@ Radius:
    believe in your friends,
    no matter what...
  
- Skelly's House, Termina (Another):
  
  Grandma:
    Strange?
@@ -11407,7 +11294,6 @@ Skelly:
 From Pirate Ship to Ghost Ship -
 A mariner's worst nightmare...
 
- SS Invincible (Another):
  
 Member:
    Could this be...
@@ -11749,7 +11635,6 @@ Fargo:
 Fargo:
    Now that smarts...!
    
- SS Invincible (Another):
  
 Fargo:
    Not bad...
@@ -11778,7 +11663,6 @@ Fargo:
    Arg! Stick these land-
    lubbers in the hold!
    
- Hold, SS Invincible (Another):
  
 Member:
    Are you alright,
@@ -11790,7 +11674,6 @@ Member:
    There's something
    going on outside.
    
- SS Invincible (Another):
  
  Pirate:
    Huaaah...
@@ -11803,13 +11686,11 @@ Member:
    the water out there...
 
    ......
-   ............
 
    I-I-I ain't scared...
 
    Aghhhhhhhhhhhh!!!
    
- Hold, SS Invincible (Another)}
  
 Member:
    Something's up...
@@ -12192,7 +12073,6 @@ Member:
  System:
    Used '"key!"'
    
- Outside, SS Invincible (Another):
  
  Pirate:
    In the name of Davy Jones...!
@@ -12535,11 +12415,9 @@ Pip:
 Pip:
    I'm bored!
  
- Guldove (Another):
  
  Girl:
    
- Doc's House, Guldove (Another):
  
 Member: 
    ...What's going on?
@@ -13009,7 +12887,6 @@ Doc:
    companion on a journey, but
    please keep your heads up...
    
- Opassa Beach (Another):
  
 Member:
    So this is
@@ -13046,7 +12923,6 @@ Kid:
    The world's callin' the lost
    piece of the puzzle...
 
- Opassa Beach (Home):
 
 Kid:
    Hah!
@@ -13058,7 +12934,6 @@ Kid:
    That wasn't such
    a big deal.
    
- Arni (Home):
  
  Old Man:
    Uhhh...
@@ -13229,7 +13104,6 @@ Razzly:
    We have to save
    the fairies!
 
- Water Dragon Isle Sanctum (Home):
  
 Dwarf Chieftain:
    I will not tolerate any humans
@@ -13585,7 +13459,6 @@ Water Dragon:
    Or wilt thou turn thy back on the
    planet and tread another path?
    
- Water Dragon Isle (Home):
  
  Fairy:
    They said that they
@@ -13800,7 +13673,6 @@ Kid:
    I will get even...!
    No matter what it takes!!!
    
- Water Dragon Isle (Home):
  
 Member:
    Huh?
@@ -13842,7 +13714,6 @@ Rosetta:
    Please take care of Razzly.
    Do be careful...
    
- Barracks, Viper Manor (Another):
  
 Acacia Dragoon:
    Our orders were to
@@ -13862,8 +13733,7 @@ Glenn:
    Hmmm...
    Well, fine...
    Good luck.
- 
- Doc's Clinic, Guldove (Another) - If you didn't pick her up:
+ - If you didn't pick her up:
  
 Doc:
    ...Hola, dudes.
@@ -13937,7 +13807,6 @@ Doc:
    Good luck and try not to
    take too many risks.
    
- Mount Pyre (Another):
  
 Solt:
    AHHHHHH!
@@ -14112,7 +13981,6 @@ Solt:
    Please don't hit me...
    too hard!
    
- Mount Pyre (Another):
  
 Solt:
    They ran away, Peppor!
@@ -14332,7 +14200,6 @@ Karsh:
 
    Why you!!!
    
- Mount Pyre (Another):
  
 Karsh:
    I-Impossible...
@@ -14378,7 +14245,6 @@ Harle:
 Fort Dragonia -
 Ancient dragons' dream in ruins...
    
- Fort Dragonia (Another):
  
 Kid:
    C'mon, mate!!!
@@ -14420,7 +14286,6 @@ General Viper:
 General Viper:
    Hah-hah-hah!!!
    
- Fort Dragonia (Another):
       
 Viper:
    There is nowhere to run!!!
@@ -14432,7 +14297,7 @@ Viper:
    I shall give it my all...
 
 Viper:
-   L-Lynx.........
+   L
    You......traitor......!
 
 Lynx:
@@ -14450,7 +14315,7 @@ Lynx:
 
 Viper:
    D-Damn...!
-   Forgive...me.........
+   Forgive
    Riddel......
 
 Lynx:
@@ -14905,7 +14770,6 @@ Harle:
  System:
    Harle joined your partie!
    
- Hydra Marshes (Home):
  
 Harle:
    We are back to réalité.
@@ -14971,7 +14835,7 @@ Harle:
    '"Where Angelz Lose Zeir Way"'...
 
 Sprigg:
-   Where Angels......... WHATEVER!
+   
    It has a bad ring to it.
    So wot exactly is it?
    
@@ -15004,7 +14868,6 @@ Sprigg:
 The Lost Portal -
 Isolation of people from the world...
 
- Serge's House, Arni (Home):
  
 Marge:
    I wonder where
@@ -15024,7 +14887,6 @@ Marge:
    don't take too kindly
    to demi-humans.
 
- Opassa Beach (Home):
  
 Sprigg:
    Wot's wrong, Lynx?
@@ -15059,7 +14921,6 @@ Sprigg:
    We may be able to find
    somethin' out.
    
- Arni (Home):
  
  Old Man:
    ......!?
@@ -15111,7 +14972,6 @@ Leena:
    will change my mind.
    Sorry.
  
- Arni (Home):
  
 Una:
    W-W-Who or what
@@ -15207,7 +15067,6 @@ Harle:
    if I accept stuff
    from strangers!
    
- Serge's House, Arni (Home):
  
 Marge:
    Who might you be?
@@ -15266,7 +15125,6 @@ Marge:
    the '"Sea of Eden"'...
    That was 14 years ago.
  
- Serge's House, Arni (Home):
  
  Radius:
    Are you the ones everybody
@@ -15317,7 +15175,6 @@ Radius:
 Radius:
    I stand defeated!
    
- Serge's House, Arni (Home):
  
 Radius:
    Hmmm...!?
@@ -15386,7 +15243,6 @@ Marge:
 Termina - 
 Knight or day...?
    
- Fossil Valley (Home):
  
  Porre Soldier:
    Y-Yo...
@@ -15401,14 +15257,12 @@ Knight or day...?
    I wanna go back
    to Porre!!!
   
- Lisa's Element Shop, Termina (Another):
  
  Lisa's Dad:
    I'll have to postpone mushroom
    gathering until those Porre
    guys stop snooping around... 
  
- Shadow Forest (Home):
  
  Funguy:
    Don't even dare!
@@ -15560,7 +15414,6 @@ Funguy:
    I'm too ashamed to
    face my family...
   
- Termina (Home):
  
  Porre Soldier:
    !!!
@@ -15674,7 +15527,6 @@ Mojo:
    Big brother,
    let-om us booth be strong!
    
- Van's House, Termina (Home):
  
  Van:
    ~!!!~
@@ -16110,7 +15962,6 @@ Gogh:
    Take good care,
    Van.
    
- Zappa's Smithy, Termina (Home):
  
 Zappa:
    Aye,
@@ -16255,7 +16106,6 @@ Zippa:
    Dear...
    Just be careful out there.
  
- Viper Manor (Home):
  
 Radius:
    I believe it has been
@@ -16301,7 +16151,6 @@ Harle:
    I do not find
    it amuzing!
    
- Basement, Viper Manor (Home):
  
 Norris:
    Sir Lynx!
@@ -16514,7 +16363,6 @@ Norris:
    How go the battle preparations?
    Do you have room for me, sir?
    
- The Dragon's Tail, Termina (Home):
  
  Porre Soldier:
    That guy Norris
@@ -16544,8 +16392,7 @@ Norris:
 
  Porre Soldier:
    Yes sir!  Affirmative sir!
- 
- Water Dragon Isle (Home) - If you never visited, don't have Razzly):
+ - If you never visited, don't have Razzly):
  
 Member:
    A monster!?
@@ -16556,7 +16403,6 @@ Member:
    have been...by them...?
    Heaven forbid!
    
- Guldove (Home):
    
 Korcha:
    Huh? Who are you guys? Don'tCHA
@@ -16584,14 +16430,12 @@ Macha:
    right at home. My son's
    upstairs if you need him.
    
- Orcha's Diner, Guldove (Home):
  
 Orcha:
    Yo, it's a mighty small shop,
    but ain't it a great place to
    kick back?
    
- Doc's Clinic, Guldove (Home):
  
 Doc:
    Medical science has its limits.
@@ -16614,7 +16458,6 @@ Doc:
 Marbule -
 The village of the demi-humans...
 
- Marbule (Home):
  
 Ash:
    Hey?
@@ -16840,7 +16683,6 @@ Member:
    
    W-what's that...?
    
- Sky Dragon Isle (Home):
  
 Member:
    What
@@ -16918,7 +16760,6 @@ Starky:
    Starky noo moore
    goo hoome.
  
- Neo Epoch Room, Viper Manor (Another):
  
 Luccia:
    Vot is dis?
@@ -16961,7 +16802,6 @@ Starky:
    EEven our technology
    hasn't advanced this far...
    
- Captain's Quarters, SS Zelbess (Home):
  
 Fargo:
    It's been quite some
@@ -17103,7 +16943,6 @@ Fargo:
    Stay as long as
    you like.
  
- Restaraunt, SS Zelbess (Home):
    
 Miki:
    Nikki...!!!
@@ -17146,7 +16985,6 @@ Miki:
    We're not all about looks.
    I hope you understand that.
    
- Hold, SS Zelbess (Home):
  
 Old Man:
    Excuse me, but I need
@@ -17169,7 +17007,6 @@ Old Man:
    Now please, I have
    to get to work.
    
- SS Zelbess (Home):
  
 Old Man:
    I have to mop the floors.
@@ -17342,7 +17179,6 @@ Sneff:
    today...
    Until next time!
    
- Captain's Quarters, SS Zelbess (Home):
  
 Member:
    We'd like to
@@ -17422,7 +17258,6 @@ Fargo:
    ~~~Let's do it!
    ~~~No, thanks
    
- Casino, SS Zelbess (Home):
  
 Sneff:
    Noooooo...!
@@ -17529,7 +17364,6 @@ Fargo:
    have to swim back!
    Hah hahahaha!
  
- Inn, SS Zelbess (Home):
  
  Demi-human:
    Ohhh... Sorry about that!
@@ -17555,7 +17389,6 @@ Member:
    around freely, like
    that cat...
    
- Bar, SS Zelbess (Home):
  
 Sneff:
    Ladies and gentlemen,
@@ -17640,7 +17473,6 @@ Sneff:
    Abracadabra...
    Zzzzzzz...
    
- Captain's Quarters, SS Zelbess (Home):
  
 Fargo:
    Now why is that threesome
@@ -17680,13 +17512,11 @@ Fargo:
    Without you here,
    everything is meaningless...
    
- Restaurant, SS Zelbess (Home):
  
 Young Woman:
    Nikki...
    Nikki...!!!
  
- Magical Dreamers Ship (Home):
  
 Nikki:
    The song of the demi-humans...?
@@ -17761,7 +17591,6 @@ Nikki:
    Are you without a family?
    Oh, then you're just like me.
    
- Inn, SS Zelbess (Home):
  
  Demi-human:
    Hehehe...
@@ -17807,7 +17636,6 @@ Sneff:
    Lynx received
    Handle!
    
- Bar, SS Zelbess (Home):
  
 Sneff:
    Ffinally...
@@ -17862,7 +17690,6 @@ Sneff:
    The least I can do is
    offfer you a cup of tea...
    
- Captain's Quarters, SS Zelbess (Home):
  
 Fargo:
    I can't allow you to
@@ -17965,7 +17792,6 @@ Fargo:
 Fargo:
    Hehehe... That's smart.
    
- Casino, SS Zelbess (Home):
  
 Fargo:
    I thought you might
@@ -18011,7 +17837,6 @@ Fargo:
    But how did you get
    a hold of that handle?
  
- Captain's Quarters, SS Zelbess (Home):
  
 Fargo:
    You win.
@@ -18019,7 +17844,6 @@ Fargo:
    the Grand Slam, right?
    Be my guest.
    
- SS Zelbess (Home):
  
  Crewman:
    The captain gave me the
@@ -18113,7 +17937,6 @@ Janice:
  System:
    Whoo-hoo! Janice joined your party!
    
- SS Zelbess (Home):
  
 Old Man:
    Yes, what is it?
@@ -18358,7 +18181,6 @@ Nikki:
    if we could talk inside
    my ship.
    
- Captain's Quarters, SS Zelbess (Home):
 
 Fargo:
    Oh...
@@ -18368,7 +18190,6 @@ Fargo:
    You got what you wanted.
    Now it's about time you left.
    
- Casino, SS Zelbess (Home):
  
  Man:
    What's goin' on!?
@@ -18398,7 +18219,6 @@ Sneff:
    my debt and get the
    hell offa this ship!
    
- Bar, SS Zelbess (Home):
  
  Crewman:
    Hey, Pops, I heard
@@ -18529,7 +18349,6 @@ Sneff:
 Sneff:
    Anytime, young lady!
    
- Captain's Quarters, SS Zelbess (Home):
  
 Fargo:
    Sneff...
@@ -18554,7 +18373,6 @@ Sneff:
 Fargo:
    ......
    
- Magical Dreamers Ship (Home):
  
 Nikki:
    Rockin'!
@@ -18735,7 +18553,6 @@ Irenes:
    Ist there änyone öut there
    who cän cönvince Fargo...?
   
- The Dragon's Tail, Termina (Another):
  
 Sneff:
    This can't be...!
@@ -18758,7 +18575,6 @@ Sneff:
    Every magic has a trick! That's
    what makes it interesting!
  
- Shadow Forest (Home):
  
  System:
    There's a small mushroom growing.
@@ -18771,7 +18587,6 @@ Funguy:
    It's still too
    small to eat.
  
- Death's Door (Home):
    
 Radius:
    Hmmm...
@@ -19072,7 +18887,6 @@ Radius:
 The Masamune -
 The blood-stained sword of evil...
 
- Isle of the Damned (Home):
  
 Radius:
    I know I lost my sanity
@@ -19142,7 +18956,6 @@ Radius:
    Please wait a little longer.
    Garai... Forgive me, my friend...
    
- Death's Door (Home):
  
 Radius:
    Come, Serge.
@@ -19178,7 +18991,6 @@ Radius:
 The Dead Sea -
 A place forsaken by the gods...
  
- Dead Sea (Home):
  
 Member:
    This is...
@@ -19267,7 +19079,6 @@ Norris:
  System:
    No power...
  
- Tower of Geddon, Dead Sea (Home):
    
 Norris:
    This must be the center
@@ -19322,7 +19133,6 @@ Member:
    Member: found
    Station Pass.
  
- Theatre, Dead Sea (Home):
  
  System:
    Member: received
@@ -19510,7 +19320,6 @@ Member:
    We must keep going,
    Serge.
  
- Leene's Square, Ruined Future (Home):
  
 Member:
    ...A sunset!?
@@ -19546,7 +19355,6 @@ Member:
 
    But you're still hungry...
  
- Nadia's Bell, Ruined Future (Home):
  
  Engraving:
    ~~~~ A.D. 1000 ~~~~
@@ -19673,7 +19481,6 @@ Miguel:
    No! Wait!
    WAZUKI!!!
    
- Nadia's Bell, Ruined Future (Home):
  
 Miguel:
    Yes... I've been here
@@ -19993,7 +19800,6 @@ Sky Dragon:
   Grab hold...
   sons of man!
 
- Marbule Beach (Home):
  
 Member:
    Why did you
@@ -20049,7 +19855,6 @@ Member:
    But the amulet
    isn't responding.
    
- Opassa Beach (Home):
    
 Member:
    So this is
@@ -20060,7 +19865,6 @@ Member:
    Then let's
    get going!
 
- Opassa Beach (Another):
  
  Boy:
    A-Ahhh...
@@ -20189,7 +19993,6 @@ Member:
    Is Serge siding
    against the people?
  
- Kiki's House, Arni (Another):
  
 Mojo:
    ......?
@@ -20199,7 +20002,6 @@ Mojo:
    into jelly if I doon't
    start-om working out.
  
- The Dragon's Tail (Another):
  
 
 Guile:
@@ -20215,7 +20017,6 @@ Guile:
    you before...? Sorry, but
    I cannot remember.
   
- Magical Dreamers Ship (Another):
  
 Nikki:
    Serge....!!!
@@ -20232,7 +20033,6 @@ Nikki:
 Nikki:
    Who are you?
    
- Shrine Area, Termina (Another):
  
 Greco:
    Who might you be...?
@@ -20251,7 +20051,6 @@ Greco:
    enough to help you.
    Forgive me, amigo...
 
- Glenn and Dario's House, Termina (Another):
  
 Glenn:
    You are...!?
@@ -20261,7 +20060,6 @@ Glenn:
    I do not want to see that
    face of yours for now.
   
- Van's House, Termina (Another):
  
 Van:
    The soldiers are all dawdling
@@ -20317,7 +20115,6 @@ Van:
    Let's both try to live
    up to our best!
  
- Zappa's Smithy, Termina (Another):
  
  Porre Officer:
    We have information that
@@ -20459,7 +20256,6 @@ Pierre:
    you can never trust those
    silent types...!
    
- Skelly's House, Termina (Another):
    
 Skelly:
    Nyak-nyak-nyak!
@@ -20468,7 +20264,6 @@ Skelly:
    spearhead shark soup in
    the world!
  
- The Dragon's Tail, Termina (Another):
     
  Barkeep:
    W-Who is it?
@@ -20488,7 +20283,6 @@ Skelly:
    Here, go in from
    the left side!
    
- Hideout, Termina (Another):
  
 Zoah:
    WE MEET AGAIN...
@@ -20562,7 +20356,6 @@ Karsh:
    Marcy, you pick up
    those broken pieces!
  
- Hideout, Termina (Another):
  
 Karsh:
    We brought the general to
@@ -20692,7 +20485,6 @@ Zappa:
  Barkeep:
    Be careful!
  
- Zappa's Smithy, Termina (Another)}
  
 Zippa:
    Karsh, come back to yir home
@@ -20732,7 +20524,6 @@ Pierre:
 Karsh:
    Arrgh, this guy's useless!
  
- Termina (Another):
  
 Norris:
    Then bring this boy
@@ -20843,7 +20634,6 @@ Norris:
 Back to Viper Manor -
 A captive audience awaits...
 
- Viper Manor (Another):
  
  Porre Soldier:
    Sir Lynx,
@@ -20851,7 +20641,6 @@ A captive audience awaits...
    
    Please go on through.
  
- Riddel's Room, Viper Manor (Another):
    
 Porre Officer:
    Being stubborn, eh?
@@ -20961,14 +20750,12 @@ Porre Officer:
  Porre Soldier:
    Yes, sir!
  
- Mess Hall, Viper Manor (Another):
  
 Orcha:
    WhatCHA makin' me
    cook the Porre
    soldiers food for!?
  
- Library, Viper Manor (Another):
 
 Prophet:
    Hmmm...
@@ -20996,7 +20783,6 @@ Prophet:
    He should be in the parlor
    on the first floor.
    
- Parlor, Viper Manor (Another):
    
 Norris:
    Sir Lynx!
@@ -21135,7 +20921,6 @@ Norris:
    1F main hall after you
    rescue Riddel.
    
- Kitchen, Viper Manor (Another):
 
  Porre Soldier:
    Hi, Orcha.
@@ -21161,7 +20946,6 @@ Hell Orcha:
 Hell Orcha:
    ACHA!
  
- Library, Viper Manor (Another):
  
 Prophet:
    Go down to the sewer
@@ -21173,7 +20957,6 @@ Prophet:
    come to me if you have
    any questions.
    
- Luccia's Lab, Viper Manor (Another):
  
 Luccia:
    Vot is it you vant?
@@ -21186,7 +20969,6 @@ Luccia:
 Luccia:
    Dä?
  
- Basement, Viper Manor (Another):
  
 Member:
    The water's flow
@@ -21194,7 +20976,6 @@ Member:
    We should be able to
    stop it somewhere.
  
- Cells, Viper Manor (Another):
  
 Fargo:
    Arg...!
@@ -21293,7 +21074,6 @@ Fargo:
    others and make me escape.
    Good luck to ya.
 
- Dungeon, Viper Manor (Another):
  
 Porre Officer:
    This man is our secret
@@ -21578,7 +21358,6 @@ Member:
    It must be
    a new type...
  
- Library, Viper Manor (Another):
  
 Member:
    It's right behind us!
@@ -21634,7 +21413,6 @@ Prophet:
    Break through the window!
    Do it, now!
    
- Stable, Viper Manor (Another):
  
  Stablekeeper:
    What the...!?
@@ -21661,7 +21439,6 @@ Prophet:
    This should be interesting...
    OK, leave it to me.
  
- Viper Manor (Another):
  
  Porre Soldier:
    Over here!
@@ -21711,7 +21488,6 @@ Member:
    Let's head to
    Hermit's Hideaway.
   
- Viper Manor (Another):
 
 Norris:
    ......!!!
@@ -21767,7 +21543,6 @@ Norris:
 Norris:
    I must be off.
  
- Luccia's Lab, Viper Manor (Another):
  
 Luccia:
    You are not Lynx, but
@@ -21784,7 +21559,6 @@ Luccia:
    find something out
    in Guldove.
 
- Right Tower, Viper Manor (Another):
  
  System:
    It says,
@@ -21809,7 +21583,6 @@ Karsh:
    What are those
    idiots up to!?
  
- Library, Viper Manor (Another):
    
 Prophet:
    The Porre soldiers
@@ -21826,7 +21599,6 @@ Prophet:
    you may be able to
    regain your true form.
 
- Luccia's Lab, Viper Manor (Another):
  
 Grobyc:
    The-lab-puts
@@ -21836,7 +21608,6 @@ Grobyc:
    Take-Grobyc-with-you.
    Grobyc-will-get-rusty.
  
- Roof Terrace, Viper Manor (Another):
  
 NeoFio:
    Ragweeeeeed!
@@ -21846,7 +21617,6 @@ NeoFio:
 Surprise Attack!!! -
 Pursuers with heavy-hearts...
 
- Hermit's Hideaway (Another):
  
 Radius:
    Halt.
@@ -22106,7 +21876,6 @@ Serge:
    this is only the beginning...
    of everything...
  
- SS Invincible (Another):
  
 Fargo:
    Good work, Polly.
@@ -22268,7 +22037,6 @@ Viper:
    Shall we be on
    our way, Serge?
 
- Pearly Gates (Another):
  
 Member:
    A dead end?
@@ -22385,7 +22153,6 @@ Harle:
    I t'ought Monsieur Lynx
    would say.
  
- SS Invincible (Another):
  
 Fargo:
    You go, sea-dog!
@@ -22504,7 +22271,6 @@ Marcy:
    I wanna beat up Lynx
    real bad!
 
- Fate Distortion (Home):
  
 Member:
    What is it?
@@ -22525,7 +22291,6 @@ Member:
    what Harle was
    talking about.
 
- Guldove (Home):
 
 Member:
    What should we
@@ -22546,7 +22311,6 @@ Member:
    world might be able to
    help us somehow.
  
- Termina (Another):
  
  Old Man:
    M-M-Master Viper!?
@@ -22567,7 +22331,6 @@ Viper:
    Oh, precious words for 
    such an unworthy old soul...!
  
- Viper Manor (Another):
  
  System:
    It won't open!
@@ -22576,7 +22339,6 @@ Viper:
    Received Zoah's
    Toss&Spike!
  
- Vault, Viper Manor (Another):
  
 Viper:
    A trap...!
@@ -22592,7 +22354,6 @@ Viper:
    ~~~Push it
    ~~~Leave it alone
  
- Mess Hall, SS Invincible (Another):
  
 Orcha:
    Yo!
@@ -22614,7 +22375,6 @@ Orcha:
    As you can tell,
    I need the exercise.
  
- SS Invincible (Another):
  
 Marcy:
    I swear, I'm gonna
@@ -22624,13 +22384,11 @@ Marcy:
    he'll be beggin' for
    9 more lives!
    
- Riddel's Room, SS Invincible (Another):
  
 Riddel:
    Where might we be
    drifting to, now?
  
- Viper's Room, SS Invincible (Another):
  
 Viper:
    First, we must
@@ -22640,7 +22398,6 @@ Viper:
    Let us head to the
    Sea of Eden.
  
- Karsh's Room, SS Invincible (Another):
    
 Karsh:
    Tch...!
@@ -22667,7 +22424,6 @@ Zoah:
 Zoah:
    THAT WAS YUMMY...
  
- Hold, SS Invincible (Another):
    
 Pip:
    Hm?
@@ -22689,7 +22445,6 @@ Pip:
 Pip:
    I'm bored!
   
- Hydra Marshes (Another):
  
 Member:
    Doens't that seem
@@ -22784,7 +22539,6 @@ BubbaBeeba:
    Oh well...
    That beeba no business of mine.
  
- Empty Tree, Hydra Marshes (Another):
  
  Dwarf:
    Humans...mankind...
@@ -22816,7 +22570,6 @@ Member:
    Member: received
    HydraShadow.
 
- Guldove (Another):
  
 Member:
    Serge, isn't there
@@ -22938,7 +22691,6 @@ Member:
    and head back to headquarters
    at once, sir!
  
- Doc's House, Guldove (Another):
  
 Doc:
    I cannot believe it...
@@ -23001,7 +22753,6 @@ Doc:
    I would be just a burden to
    you in this state, man.
 
- Orlha's Bar, Guldove (Another):
  
 Orlha:
    I have a twin sister.
@@ -23066,7 +22817,6 @@ Orlha:
    my sister, Tia...
    Somewhere, somehow...
  
- Chief's Tent, Guldove (Another):
  
 Direa:
    How can this be?
@@ -23092,7 +22842,6 @@ Direa:
    Make haste to the
    alternate world.
  
- Isle of the Damned (Another):
  
 Peppor:
    I-If you want to
@@ -23149,7 +22898,6 @@ Peppor:
 Karsh:
    Dario...
  
- Flashback, Termina (Another):
    
 Riddel:
    How is your training going,
@@ -23272,7 +23020,6 @@ Dario:
    ......
    Yes, very well.
  
- Flashback Two, Termina (Another):
  
 Dario:
    ...Karsh?
@@ -23348,7 +23095,6 @@ Dario:
    ...Thank you,
    Karsh.
  
- Flashback Three, Isle of the Damned (Another):
  
 Karsh:
    This must be it!
@@ -23389,7 +23135,6 @@ Karsh:
 Dario:
    Fine...
    
- Flashback Four, Termina (Another):
  
 Karsh:
    Is that...
@@ -23424,7 +23169,6 @@ Karsh:
  Glenn:
    ......
    
- Isle of the Damned (Another):
  
 Peppor:
    S-So you do know
@@ -23509,7 +23253,6 @@ Karsh:
    tell you guys the truth...
    Take care.
  
- Belcha's Kitchen, Arni (Home):
  
  Belcha:
    Yo, bro!
@@ -23556,7 +23299,6 @@ Orcha:
    I wantCHA to come back and try
    some more when I'm ready.
  
- Arni (Home):
  
 Starky:
    Where did youu
@@ -23617,7 +23359,6 @@ Starky:
    But who cares?
    Right...?
  
- Shadow Forest (Home):
  
  System:
    There's a mushroom growing
@@ -23668,8 +23409,7 @@ Funguy:
  System:
    Received Funguy's
    Myconoids!
-  
- SS Zelbess (Home) - If you didn't do it:
+  - If you didn't do it:
  
 Sage:
    Everything...
@@ -23719,8 +23459,7 @@ Fargo:
    Everything will cease to exist...
    Only the beautiful memories
    will remain.
- 
- Marbule (Another) - If you didn't do the sidequest:
+ - If you didn't do the sidequest:
    
 Black Dragon:
    ......
@@ -23732,7 +23471,6 @@ Black Dragon:
    Black Relic.
  
  
- Magical Dreamers Ship (Home):
  
 Nikki:
    Oh, it's you!
@@ -23820,7 +23558,6 @@ Irenes:
 Marcy:
    ...... 
    
- Hold, SS Zelbess (Home):
  
  Demi-human:
    Irenes!
@@ -23864,7 +23601,6 @@ Irenes:
    But we can't all
    be like you.
 
- Captain's Quarters, SS Zelbess (Home):
  
 Fargo:
    Aye, land-lubber...!
@@ -23917,7 +23653,6 @@ Fargo:
 Fargo:
    We'll see about that!
  
- SS Zelbess (Home):
 
  Demi-humans:
    C'mon everyone!
@@ -23933,7 +23668,6 @@ Fargo:
 
    Heave! Hooo!
    
- Captain's Quarters, SS Zelbess (Home):
  
 Fargo:
    H-How the...!?
@@ -23957,7 +23691,6 @@ Fargo:
    I've come to me senses.
    It's time you did the same.
  
- Magical Dreamers Ship (Home):
  
 Sage:
    Heh heh...
@@ -24361,7 +24094,6 @@ Sage:
    Come my maiden,
    come...!
    
- Captain's Quarters, SS Zelbess (Home):
   
 Fargo:
    ......
@@ -24384,7 +24116,6 @@ Fargo:
 Fargo:
    So you're happy for me, too...
  
- SS Zelbess (Home):
  
 Fargo:
    Even though she
@@ -24423,7 +24154,6 @@ Fargo:
    ~~~Yes
    ~~~No
  
- Marbule (Home):
    
 The Great Explorer Toma:
    Y-Yo, guys...!!!
@@ -24465,7 +24195,6 @@ The Great Explorer Toma:
    A dragon's cry was heard
    in the far-off distance...
  
- Magical Dreamers Ship (Home):
  
 Nikki:
    Thank you...
@@ -24533,7 +24262,6 @@ Nikki:
    There will always be a place
    in my heart for that song.
  
- Restaurant, SS Zelbess (Home):
  
 Miki:
    Oh, it's you...
@@ -24567,7 +24295,6 @@ Miki:
    better than yourself.
    Just remember that.
  
- Bar, SS Zelbess (Home):
  
 Sneff:
    What do you want!?
@@ -24579,7 +24306,6 @@ Fargo:
    Arg...
    Who's this old-timer?
  
- SS Zelbess (Home):
  
  Peppor:
    I-I've seen him before!
@@ -24600,7 +24326,6 @@ Karsh:
    I do not think he'll be
    one of our apprentices!
  
- Belcha's Kitchen, Arni (Home):
  
  Old Man:
    Th-Th-This can't be...!?
@@ -24618,7 +24343,6 @@ Miki:
    I'll scream my lungs
    out cheering you on!
  
- Guldove (Home):
 
 Member:
    If we show him that
@@ -24675,7 +24399,6 @@ Steena:
    road ahead...
    Chief, please be careful.
  
- Restaurant, Guldove (Home):
  
 Orcha:
    Er? Err??
@@ -24716,7 +24439,6 @@ Orcha:
    That's beyond my imagination.
    Hmmm...
  
- Glenn and Dario's House, Termina (Another):
 
 Glenn:
    Sir Lynx...?
@@ -24807,7 +24529,6 @@ Radius:
    Believe in yourself and do what
    you believe.
  
- Forbidden Island (Home):
  
 Man:
    Yes?
@@ -25245,7 +24966,6 @@ Radius:
 Karsh:
    Actually...
  
- Flashback, Isle of the Damned (Another):
  
 Karsh:
    Is that...
@@ -25364,7 +25084,6 @@ Lynx:
  Karsh:
    Dario...
  
- Forbidden Island (Home):
  
 Radius:
    Now I understand...
@@ -25531,7 +25250,6 @@ Riddel:
    into something bigger...
    Something more...gentle...
  
- Viper Manor (Home):
  
 Dario:
    My goodness...
@@ -25729,7 +25447,6 @@ Viper:
    Who are you calling
    Headmaster!?
 
- Water Dragon Isle (Home):
  
 Member:
    Serge.
@@ -25819,12 +25536,11 @@ Water Dragon:
    gathered, the Sea of Eden
    shall open its gates.
  
- Hydra Marshes (Home):
  
 BubbaBeeba:
    How did you get that flute...?
    It beeba handed down in Beeba family...
-   That beeba mine, too.........!!!
+   That beeba mine
 
 BubbaBeeba:
    BEEBA-BAH-BAH-BAH!!!
@@ -25951,7 +25667,6 @@ BubbaBeeba:
    You beeba not blow flute!
    Wingapede will attack even me!
  
- Gaea's Navel (Home):
  
 Member:
    We'll be able to make
@@ -26031,13 +25746,11 @@ Leah:
    score with him.
    Bye-um!
  
- Hydra Marshes (Home):
  
  System:
    You used up the
    Ancient Fruit...
  
- Gaea's Navel (Home):
  
 Leah:
    Serge!
@@ -26119,7 +25832,6 @@ Leah:
    Oooga-Booga!!!
    Let's go-um!!!
  
- Earth Dragon Isle (Home):
 
 Captain:
    We've searched every square inch
@@ -26362,7 +26074,6 @@ Member:
    ~~~Yes
    ~~~No
  
- Mount Pyre (Another):
  
 Fire Dragon:
    Hey, hey, lad!
@@ -26386,7 +26097,6 @@ Fire Dragon:
    Member: received the
    Red Relic.
  
- Marbule (Another):
  
 Black Dragon:
    It hath been a long sleep,
@@ -26403,7 +26113,6 @@ Black Dragon:
    Member received the
    Black Relic.
 
- Sky Dragon Isle (Another):
 
 Sky Dragon:
    Welcome, humans.
@@ -26449,7 +26158,6 @@ Sky Dragon:
    Venture deep beyond the Pearly
    Gates, across the dimensions.
  
- Guldove (Home):
  
 Steena:
    As promised, I will lend you the
@@ -26470,7 +26178,6 @@ Steena:
    with you...to the '"Room of
    Rituals"' in Fort Dragonia.
  
- Guldove (Another):
  
 Steena:
    ...Chief Direa,
@@ -26538,7 +26245,6 @@ Direa:
    all is not lost, as long
    as its sparkle does not fade...
  
- Isle of the Damned (Home):
  
  Grave:
    ~~Here lies Garai...
@@ -26572,7 +26278,6 @@ Member:
    has to return
    to his human form.
    
- Fort Dragonia (Home):
  
 Steena:
    Place the Dragon Tear here...
@@ -26610,7 +26315,6 @@ Serge:
    ~~~Go down
    ~~~Stay
  
- Incubators, Fort Dragonia (Home):
  
  System:
    It's some kind of device.
@@ -26683,7 +26387,6 @@ Draggy:
    ~~~Go Up
    ~~~Stay
 
- Tower, Fort Dragonia (Home):
    
 Steena:
    Serge...
@@ -26802,7 +26505,6 @@ Steena:
    The Dragon Tear shattered
    but transformed into the Tear of Love!
  
- Doc's Clinic, Guldove (Another):
    
 Doc:
    ...You want me to
@@ -26846,7 +26548,6 @@ Doc:
    Doc has learned
    HangTen!
  
- Termina (Another):
  
 Korcha:
    Hey you,
@@ -26864,7 +26565,6 @@ Korcha:
    Don't try pulling any
    funny ideas, Korcha!
  
- Shrine Area, Termina (Another):
  
  Mermaid:
    Sir Korcha...
@@ -26935,7 +26635,6 @@ Korcha:
    But, just remember,
    I'm NOT a maniac!
  
- Termina (Another):
  
  Strange Woman:
    Korcha!
@@ -26954,7 +26653,6 @@ Korcha:
    There's no one
    inside...
  
- Fossil Valley (Home):
  
 Draggy:
    !!!~
@@ -27003,7 +26701,6 @@ Draggy:
    Draggy learned
    BigBreath!
  
- Residential Tower, Guldove (Home):
  
 Macha:
    My, my, what's this!?
@@ -27076,7 +26773,6 @@ Korcha:
    Who knows whether
    that's true...
  
- Hermit's Hideaway (Home):
  
 Draggy:
    Sniff...
@@ -27136,7 +26832,6 @@ Turnip:
 Turnip:
    Thou need-eth mine help?
  
- Roof Terrace, Viper Manor (Another):
  
 Turnip:
    Hey, NeoFio!
@@ -27163,7 +26858,6 @@ Turnip:
    Incredibly, Turnip mastered
    VegOut!
    
- Zappa's Smithy, Termina (Another):
  
 Pierre:
    I always believed that moi
@@ -27213,7 +26907,6 @@ Karsh:
    the past.
    We gotta get a move on it!
  
- The Dragon's Tail, Termina (Home):
  
  Barkeep:
    I tell you, this town's really
@@ -27346,7 +27039,6 @@ Viper:
    with a green cape gracing
    his shoulders...
 
- Shrine House, Termina (Home):
  
  Old Woman:
    ......
@@ -27436,7 +27128,6 @@ Greco:
    Just remember that when you
    feel you're about to lose.
   
- Greco's House, Termina (Another):
  
 Greco:
    Romana, you might not
@@ -27466,7 +27157,6 @@ Romana:
    thank you, Greco.
    Be careful...
 
- Witch Doctor's House, Marbule (Home):
  
 Witch Doctor:
    Oh, Irenes...
@@ -27500,7 +27190,6 @@ Irenes:
    Irenes received
    SirenSong.
  
- Sage's House, Marbule (Home):
  
 Irenes:
    Hee!
@@ -27541,7 +27230,7 @@ Sage:
    Oh yes...
    I remember that one.
    But remember when you...
-   ......, .........
+
    
 Fargo:
    Oh yeah!
@@ -27558,7 +27247,6 @@ Fargo:
    tell anyone!
    Harharharhar!
  
- Black Dragon Cave, Marbule (Home):
  
 Ash:
    Oh man...
@@ -27589,7 +27277,6 @@ Toma:
    
 Toma:
    Ahhh...ummm...thanks...
-   ............
    Ahahah hahaha
    You caught me in an
    embarrassing situation.
@@ -27634,7 +27321,6 @@ Ash:
    hanging out with
    those two!
  
- Leena's House, Arni (Home):
  
  Leena's Grandma:
    Oh, Leena...
@@ -27711,7 +27397,6 @@ Leena:
    I'll be careful,
    grandma!
  
- Arni (Home):
  
 Leena:
    Serge...
@@ -27740,7 +27425,6 @@ Poshul:
    Poshul received
    Unleashed!
  
- Sky Dragon Isle (Home):
  
  Monster:
    Aiiiiiii!
@@ -27764,7 +27448,6 @@ Poshul:
    
    Bye-bye.
  
- Orlha's Restaurant, Guldove (Another):
  
 Orlha:
    This blue gem... Looks like you've
@@ -27800,7 +27483,6 @@ Orlha:
    Hmmm, oh well.
    You've got a deal!
  
- Zappa's Smithy, Termina (Another):
  
 Zappa:
    Sounds interesting...
@@ -27831,7 +27513,6 @@ Zappa:
    Zappa learned how to
    forge the rainbow material!
  
- Van's House, Termina (Another):
 
  Woman:
    Young master!
@@ -27920,7 +27601,6 @@ Van's father, Gogh:
    along with this cracked
    seashell...
  
- Termina (Another):
 
 Viper:
    ......
@@ -27951,7 +27631,6 @@ Radius:
    Being able to regret is proof
    that you are still young.
  
- Basements, Viper Manor (Another):
  
 Luccia:
    Vonderful!
@@ -27967,7 +27646,6 @@ Luccia:
    Received Luccia's
    TestAmeba!
  
- Kiki's House, Arni (Home):
  
  System:
    Member's prayers
@@ -28079,7 +27757,6 @@ Mojo:
    Can't have Mojoy
    walking all over me!
  
- Gaea's Navel (Another):
  
  System:
    Prehysteric dropped something...
@@ -28087,7 +27764,6 @@ Mojo:
    Member: received the
    '"Snakes & Orbs"' frame!
  
- Divine Dragon Falls (Another):
  
 Member:
    If this is an altar
@@ -28154,7 +27830,6 @@ Steena:
    It seems that you
    cannot do it yet.
  
- Doc's Clinic, Guldove (Home):
  
 Orlha:
    Doc,
@@ -28424,7 +28099,6 @@ Doc:
    But, because life has limits,
    one can live strongly.
    
- Dario and Glenn's House, Termina (Another):
  
  Porre Soldier:
    This knight Glenn
@@ -28449,7 +28123,6 @@ Glenn:
 Glenn:
    Tsk!
  
- Shrine Area, Termina (Another):
  
 Glenn:
    ......?
@@ -28505,7 +28178,6 @@ Member:
    
    Clotho has stopped functioning.
  
- Chronopolis (Another):
  
  Plaque:
    Chronopolis Military Research Center
@@ -28595,7 +28267,6 @@ Member:
    ~~~Yes
    ~~~No
  
- Level 1 Lobby, Chronopolis (Another):
  
  Elevator:
    ~~~4F
@@ -28607,7 +28278,6 @@ Member:
    Security Level 2 locked.
    Please release the lock.
 
- Docks, Chronopolis (Another):
  
  Chief:
    Perhaps what we are
@@ -28628,7 +28298,6 @@ Member:
    Who knows what the
    consequences may be?
  
- Level 2 Lobby, Chronopolis (Another):
  
  Elevator:
    Security Level 2 locked.
@@ -28640,7 +28309,6 @@ Member:
    ~~~B1
    ~~~Quit
  
- Level 2 Lab, Chronopolis (Another):
 
  Computer:
    Security Level 2 locked.
@@ -28696,7 +28364,6 @@ Member:
    when a boy came into contact with 
    the Flame on the night of the storm.
  
- Lockers, Level 2, Chronopolis (Another):
  
  Grobyc:
    This-cannot-be...
@@ -28767,7 +28434,6 @@ Member:
    Member: found
    Recharge!
  
- Level 3 Lobby, Chronopolis (Another):
  
  Elevator:
    ~~~4F
@@ -28776,7 +28442,6 @@ Member:
    ~~~B1
    ~~~Quit
  
- Level 3 East Lab, Chronopolis (Another):
  
  Computer Models:
    Model of brain analysis
@@ -28877,7 +28542,6 @@ Member:
    and a cursed, yet perhaps
    pathetic, blight on the world.
  
- Level 3 West Lab, Chronopolis (Another):
  
  Ghost:
    The DNA records are
@@ -29018,7 +28682,6 @@ Member:
    life-forms take on differing
    forms with variable abilities.
  
- Level 4 Lounge, Chronopolis (Another):
  
  Elevator:
    ~~~3F
@@ -29041,7 +28704,6 @@ Member:
    We will do the same in
    the case of an emergency.
  
- Level 4 East Lab, Chronopolis (Another):
  
  Ghost:
    Everyone gather around.
@@ -29154,7 +28816,6 @@ Member:
    but we're actually conducting
    research on '"time."'
    
- Docks, Chronopolis (Another):
  
  Chief:
    The Time Research Lab, which
@@ -29174,13 +28835,11 @@ Member:
    The experiment's about
    to begin...
  
- Level 4 Lobby, Chronopolis (Another):
  
  Door:
    The experiment is under way.
    Access denied.
  
- Level 4 West Lab, Chronopolis (Another):
  
  Ghost:
    FATE is a large-scale
@@ -29380,7 +29039,6 @@ Member:
    other worlds and times
    may also exist...
  
- Level 4 Lobby, Chronopolis (Another):
  
  Elevator:
    Please present the Central
@@ -29389,7 +29047,6 @@ Member:
    ...Confirming...
    Access granted.
  
- Basement, Chronopolis (Another):
  
  Computer:
    Only personnel registered
@@ -29411,7 +29068,6 @@ Member:
    Analyzing...
    Please stand by.
    
-   ............
    Analysis complete.
    Fingerprints, retina, and
    C class DNA all clear.
@@ -29447,7 +29103,6 @@ Member:
    '"Arbiter"' confirmed.
    Access granted.
  
- Project Kid, Chronopolis (Another):
  
 Member:
    Where are we...!?
@@ -29686,7 +29341,6 @@ Lynx:
 
    ~~~~~~~~0~~~~~~~~
  
- Project Kid, Chronopolis (Another):
  
  Lynx:
    Nooo!
@@ -29745,42 +29399,35 @@ Kid:
    There's no turnin'
    back now!
  
- Water Dragon Isle (Home):
  
 Water Dragon:
    FATE has fallen...
    Fate has died...
  
- Mount Pyre (Another):
  
 Fire Dragon:
    Finally, the time has come...
  
- Gaea's Navel (Home):
  
 Green Dragon:
    Indeed... The long, endless night
    shall finally come to an end.
  
- Earth Dragon Isle (Home):
  
 Earth Dragon:
    Now...
    For mankind...
  
- Marbule (Another):
 
 Black Dragon:
    I shall make
    you bleed!!!
  
- Sky Dragon Isle (Another):
  
  Sky Dragon:
    Feel a million years of this planet's
    agony, pain, and suffering...!!!
    
- Project Kid, Chronopolis (Another):
  
 Kid:
    Terra Tower...
@@ -29849,7 +29496,6 @@ Harle:
    Adieu, Serge!
    Adieu!
  
- SS Invincible (Another):
  
 Karsh:
    Give me a frickin' break!
@@ -29954,7 +29600,6 @@ Everyone:
 Terra Tower -
 Caught in an echo of time...
  
- Divine Dragon Falls (Another):
  
  System:
    A piece of the Dragon Tear
@@ -30007,7 +29652,6 @@ Sprigg:
    ~~~Yes
    ~~~Not yet
  
- Water Dragon Isle (Home):
  
 Razzly:
    ...This tree had been withered.
@@ -30033,14 +29677,12 @@ Razzly:
    Razzly has learned
    Raz-Flower!
   
- SS Invincible (Another):
  
 Marcy:
    Hey, Serge..
    How's Kid? Has she
    snapped out of it yet?
  
- Hermit's Hideaway (Home):
  
 Radius:
    Kid is resting
@@ -30138,7 +29780,6 @@ Doreen:
 
    '"Mastermune!!!"'
  
- Lucca's House, 1015 A.D. (Another):
  
 Gato:
    Miss Kid and Mistress Lucca
@@ -30290,7 +29931,6 @@ Mune:
    expanses of...space!?
  
  Girl:
-   .........
    Th-Th-Thank y-y-you!
    Umm... Err...
    H-H-Here take this...
@@ -30442,7 +30082,6 @@ Masa:
 
    ......!!!
  
- Hermit's Hideaway (Another):
    
    Kid:
    Serge...
@@ -30516,7 +30155,6 @@ Luccia:
    you somet'ing.
    Kom to my lab later.
  
- Mount Pyre (Home):
  
  System (If you try to freeze with Ice Gun:
    Not enough power...
@@ -30524,7 +30162,6 @@ Luccia:
  System (If a chest has been frozen):
    The ice is in the way...
  
- Zappa's Smithy, Termina (Home):
  
 Zappa:
    Karsh!!!
@@ -30678,7 +30315,6 @@ Zippa:
    That's all ah ever
    hoped for...
 
- Sick Girl's House, Termina (Another):
  
  Girl:
    Mama, it's Serge!!!
@@ -30697,7 +30333,6 @@ Zippa:
 Korcha:
    ......
    
- Barracks, Viper Manor (Another):
  
 Turnip:
    I know-eth this man.
@@ -30717,7 +30352,6 @@ Turnip:
    disappear-eth when
    this man wake-eth up.
  
- Luccia's Lab, Viper Manor (Another):
  
 Luccia:
    Dere is something
@@ -30911,7 +30545,6 @@ Luccia:
    occured, I am sure Lucca
    vould have surpassed me...
  
- SS Zelbess (Home):
  
 Kid:
    ......?
@@ -30999,13 +30632,11 @@ Kid:
    let me hear some of
    yer old songs.
  
- SS Invincible (Another):
  
 Karsh:
    We gotta find a way into
    that tower, fast!
  
- Riddel's Room, SS Invincible (Another):
 
 Marcy:
    Hmph...!
@@ -31021,7 +30652,6 @@ Riddel:
    Perhaps you should
    head down there?
    
- Viper's Room, SS Invincible (Another):
    
 Viper:
    I will not stand for this.
@@ -31109,7 +30739,6 @@ Starky:
    Yeah!
    It oopened!
  
- Starky's UFO, El Nido Triangle (Another):
  
 Starky:
    Yeah!
@@ -31182,7 +30811,6 @@ Starky:
    on our waay to
    Chroonopoolis.
  
- Docks, Chronopolis (Another):
  
 Starky:
    Let's seee.
@@ -31291,19 +30919,16 @@ Kid:
 Chrono Cross -
 The point where destinies meet...
  
- Riddel's Room, Viper Manor (Another):
  
  Nurse:
    Miss Riddel!!!
    You're safe!
 
- Library, Viper Manor (Another):
  
 Prophet:
    What do you plan
    to do now?
  
- Terra Tower (Another):
 
 Kid:
    C'mon!
@@ -31401,7 +31026,6 @@ Prophet:
    must explain to you!
 
 Member:
-   .........
    Who are you?
 
 Prophet:
@@ -31941,7 +31565,6 @@ Member:
    This place is going
    to crumble to pieces!
  
- Sea (Another):
  
 Kid:
    So that's Terra Tower's
@@ -32028,7 +31651,6 @@ Kid:
 For all the Dreamers -
 Our planet's dream is not over yet...
 
- Termina (Home):
  
  Landlady:
    Ahahaha!
@@ -32072,7 +31694,6 @@ Van:
    borrowed money in
    the first place!
 
- Arni (Another):
  
  Man:
    Hey, man, sorry.
@@ -32096,7 +31717,6 @@ Leena:
    maybe I can let you in...
    I'm sorry.
    
- Kiki's House, Arni (Another):
  
 Mojoy:
    Boogum, Serge!
@@ -32105,12 +31725,10 @@ Mojoy:
    into jelly if I doon't
    start-om working out.
  
- The Dragon's Tail, Termina (Another):
    
 Guile:
    Guide me to the enigma...
  
- Lisa's Element Shop, Termina (Another):
  
 Lisa:
    Father suddenly got sick
@@ -32175,7 +31793,6 @@ Lisa:
    buy it from me.
    It would really help me out.
  
- Forbidden Island (Another):
  
 Peppor:
    I-It's not like
@@ -32200,7 +31817,6 @@ Solt:
    Once the dragoon forces
    reorganize, we will rejoin you!
  
- Chief's Tent, Guldove (Another):
    
 Steena:
    May the blessing of the
@@ -32216,7 +31832,6 @@ Direa:
    That is the question being
    asked of us now.
  
- El Nido Triangle (Another):
  
 Starky:
    Starky wonder if
@@ -32236,7 +31851,6 @@ Starky:
    Received Starky's
    StarStruck!
  
- SS Invincible (Another):
  
 Fargo:
    Ahoy, mateys!
@@ -32248,7 +31862,6 @@ Karsh:
    OHHH YEAHHH!
    Let's get it on!!!
  
- Riddel's Room, SS Invincible (Another):
  
  Marcy:
    Hey, Serge..
@@ -32262,7 +31875,6 @@ Riddel:
    Please call upon me, should
    you need my assistance.
    
- Viper's Room, SS Invincible (Another):
  
 Viper:
    The time has come.
@@ -32270,7 +31882,6 @@ Viper:
    once and for all.
    I am more than ready.
  
- Magical Dreamers Ship, Termina (Another):
  
 Nikki:
    Swing by anytime.
@@ -32303,7 +31914,6 @@ Fargo:
 Nikki:
    ......
  
- Van's House, Termina (Home):
  
 Van's father, Gogh:
    Van,
@@ -32327,7 +31937,6 @@ Van:
    It's someone that
    you know well, dad...
  
- Lisa's Element Shop, Termina (Home):
  
 Funguy:
    ......
@@ -32358,7 +31967,6 @@ Lisa:
 Leena:
    Ohh, never mind!
  
- Shrine Area, Termina (Home):
  
  System:
    ~Beneath the Sacred Sword,
@@ -32379,7 +31987,6 @@ Radius:
    Garai...
    Forgive me...
  
- Chief's Tent, Guldove (Home):
  
 Steena:
    Liberation from the
@@ -32392,7 +31999,6 @@ Steena:
    the '"Devourer of Time,"'
    and we children of the planet...
  
- Arni (Home):
    
 Marge:
    What in heaven's name
@@ -32404,7 +32010,6 @@ Marge:
    will work out fine.
    Now off you go.
  
- Opassa Beach (Home):
  
  Lucca:
    So you finally made it,
@@ -33334,8 +32939,7 @@ Kid:
    No beginning and no end...
    ~~~To the darkness of time!
    ~~~No way! Not yet!
- 
- Game Over, Ending Savepoint:
+
    
  System: 
    Save game?
@@ -33353,11 +32957,7 @@ Kid:
    to be born into this world.
    Fate has no forgiveness for
    those who dare stand against it...
--------------------------------------------------------------------------------
-4.) Appendices
--------------------------------------------------------------------------------
- 
- Ending Lines:
+
  
  Schala:
    I have been waiting an eternity...
@@ -34395,7 +33995,6 @@ Ryosuke Aiba:
    They didn't do anything wrong.
    Don't tell me you...
    Nah, you wouldn't do such a terrible thing.
-   ..................
    You didn't...did you...?
 
 Touru Ooshita:
@@ -34423,15 +34022,8 @@ Tomoko Murakami:
    What?
    He's too hairy?
    He's bald under that hat!?
-   ..................Heee!
    That's what I like about him!
 
- System:
-   It's completely locked.
-   
-   (Editor's note: There's nothing behind it.)
- 
- Room:
 
 Ryo Inakura:
    Call me Funky.
@@ -34710,59 +34302,6 @@ Kid:
    Here's a special treat...
    I'll change the characters' names for ya.
    Whose name do you wanna change?
-   
-   ~~~Actually, forget it
-   ~~~Serge
-   ~~~Kid
-   ~~~Guile
-   ~~~Norris
-   ~~~Nikki
-   ~~~Viper
-   ~~~Riddel
-   ~~~Karsh
-   ~~~Zoah
-   ~~~Marcy
-   ~~~Next page
-   
-   ~~~Quit
-   ~~~Korcha
-   ~~~Luccia
-   ~~~Poshul
-   ~~~Razzly
-   ~~~Zappa
-   ~~~Orcha
-   ~~~Radius
-   ~~~Fargo
-   ~~~Macha
-   ~~~Glenn
-   ~~~Next page
-   ~~~Previous page
-   
-   ~~~Quit
-   ~~~Leena
-   ~~~Miki
-   ~~~Harle
-   ~~~Janice
-   ~~~Pierre
-   ~~~Starky
-   ~~~Sprigg
-   ~~~Mojo
-   ~~~Turnip
-   ~~~NeoFio
-   ~~~Next page
-   ~~~Previous page
-
-   ~~~Quit
-   ~~~Greco
-   ~~~Skelly
-   ~~~Grobyc
-   ~~~Irenes
-   ~~~Mel
-   ~~~Leah
-   ~~~Van
-   ~~~Sneff
-   ~~~Steena
-   ~~~Previous page
 
 Kid:
    Hah! Have it yer way.
@@ -34776,10 +34315,6 @@ Kid:
 Kid:
    Fine.
    Be my guest.
- 
- Ending 2 - General Kid :
- 
- Arni:
 
 Leena:
    Oh, he's back!
@@ -35009,10 +34544,6 @@ ZOAH:
    General Kid's throne...
 
    was the Frozen Flame...
- 
- Ending 3 - The True Hero (Without Kid):
- 
- Mess Hall, Viper Manor:
    
 Kid:
    Why the bloody hell do
@@ -35507,8 +35038,6 @@ Lisa:
    bustle outside... Is there
    something going on today?
  
- Termina:
- 
  Announcer:
    Ladies and gentlemen,
    the moment we've all
@@ -35520,8 +35049,6 @@ Lisa:
    moment to extend my apologies
    for the unforeseen delay.
    Please enjoy the show!
-
- Magical Dreamers Ship, Termina:
  
 Nikki:
    To all you rockers
@@ -35917,7 +35444,6 @@ Harle:
    a bit longuer...
    
 Harle:
-   ............Well zen.
 
 Harle:
    Time for dinner, non?
@@ -36082,7 +35608,6 @@ Kid:
  Old Man:
    Let's see now...
 
-   .....................!
    H-Holy cow...!
 
    A-A-Ahhh
@@ -37876,843 +37401,11 @@ Criosphinx:
    Thy way of life intrigues me!
    To conquer all obstacles with
    brawn rather than by brain!?
-   .........
    But I warn ye, woes shall
    surely befall ones such
    as thee!
 
    Vale!
- 
- Game Credits:
- 
- =CHRONO CROSS=
- 
- Director
-    Masato Kato
-    
- Art Director
-    Yasuyuki Honne
-    
- Main Programmer
-    Kiyoshi Yoshii
-    
- Music
-    Yasunori Mitsuda
-    
- Player Character Design
-    Nobuteru Yuuki
-    
- =FIELD SECTION=
- 
- Scenario Writer
-    Masato Kato
- 
- Even System Program
- Map Program
- Movie Program
-    Kiyoshi Yoshii
-    
- Even Planning & Staging
-    Masato Kato
-    Ryoji Uchimichi
-    Yuusuke Kigoshi
-    Yoshitsugu Saito
-    Hiroki Chiba
- 
- Field Map ID Data
-    Ryoji Uchimichi
-    Ryo Tsurumaki
- 
- Art Conceptualization
-    Yasuyuki Honne
- 
- Field Map Design
-    Kou Arai
-    Masahiro Kabe
-    Tomoki Chiba
-    Tsuguharu Aoki
-  
- 3D Map Graphics
-    Yoshinori Ogura
-    Takata Io
-    Yukio Nakatani
-    Tohru Ohshita
- 
- Field Map Artwork
-    Yasayuki Honne
-    Kiyoshi Tsuchiya
-    Takuji Anai
-    Tetsuo Yokota
-    Mizushi Sugawara
-    Takashi Wakou
- 
- World Map Graphics
-    Eiichi Hama
- 
- Map Effects Graphics
-    Daisuki Komatsu
- 
- Map Objects
-    Tomoki Chiba
- 
- CD BIOS Porgram
-    Masaki Kobayashi
-    
-=BATTLE SECTION=
-
- System Design
-    Heromichi Tanaka
- 
- Battle Program
- Data Design
- Monster Logic Data
-    Katsuhisa Higuchi
-  
- Playable Character Data
- Character Sequence Data
- Element Data
- Database Design
-    Toshiaki Suzuki
- 
- Element Planning
- Monster Data
-    Masanori Hoshino
- 
- Monster Planning
- Monster Sequence Data
-    Tetsunobu Tsunoda
- 
- Effects Programming
- Camera Work Programming
- Particle Generator
-    Yoshiyuki Miyagawa
- 
- Polygon Model Programming
- Sequence Programming
- Polygon Sequence Data
-    Kazumi Kobayashi
- 
- Special Effects Programming
-    Koji Ohno
- 
- Battle Effects Graphics
-    Yoshimasa Furukawa
-    Yufuko Hatac
-    Sentaro Hotta
-    Shuichi Sato
-    Hideki Kato
- 
- Battle Map Graphics
-    Mikiharu Ohiwa
-    Seiji Kai
-
-=MENU SYSTEM=
-
- Menu Program
-    Koji Ohno
-    
- Menu System Design
- Menu Graphics
-    Hiromichi Tanaka
-    Tomoki Chiba
- 
- Event Items Graphics
-    Mizushi Sugawara
-
-=CHARACTERS=
-
- Character Modeling
- Monster Modeling
-    Hiroshi Uchiyama
-    Norikazo Sato
- 
- Player Concept Design
- Sub Character Design
-    Mika Nunokawa
-    Yasuhiro Akiyama
-    Hitoshi Oguchi
-    Yufuko Hatac
- 
- Character Textures
-    Yasuhiro Akiyama
-    Mika Nunokawa
- 
- Face Graphics
-    Nobuteru Yuuki
-    Futoshi Fujikawa
-    Kiyofumi Kato
- 
- Monster Designs
- Monster Textures
-    Ryosuke Aiba
- 
- Motice Design
-    Jun Kusaka
-    Yoshiyuki Oku
-    Hitoshi Oguchi
-    Yuuki Hata
-    Kenji Ito
-    Takanori Ogura
-    Youichirou Hori
-    Takeo Suzuki
-    Masaki Ito
-    Yoshiaki Izaba
-    Ikuya Kato
-    Takumi Tamura
- 
-=FMV MOVIES=
-
- Storyboards
-    Masato Kato
- 
- CG Designers
-    Tomoko Murakami
-    Takashi Kimura
-    Yoshihiro Takeshita
-    Hikaru Anzai
-    Reina Ikeda
-    
- Outsourcing Coordination
- CG Storyboards
-    Tatsuya Yabuta
- 
- Movie Conversion
- Vibration Effects
-    Hiromichi Tanaka
-
-SQUARE VISUAL WORKS
-
- Movie Director
-    Norihiro Takami
- 
- CG Designers
-    Takuji Yasuda
-    Sanae Nakanishi
-    Akihiro Tsuchiya
-    Hideaki Takeda
-    Masanori Yoshida
-    Kenichi Someya
-    Shinya Senzaki
-    Kohichiro Shiratori
-    Tadahiro Inouc
-    Tetsu Naito
- 
- CG Engineers
-    Masashi Nakata
-    Kengo Takeuchi
- 
- Digital Recording Engineers
-    Keita Takagi
-    Teruaki Shiraishi
-    
- CG Superviser
-    Satoshi Tsukamoto
- 
- Production Manager
-    Norimichi Kurosawa
- 
- Production Coordinators
-    Noriko Abe
-    Hisako Sakurai
- 
-SPICE, INC.
-
- CG Director
-    Joji Hayashi
- 
- CG Designers
-    Tetsuichirou Kitagawa
-    Yasuhiro Kawada
-    Eriko Yamada
- 
-DIGITAL MEDIA LAB, INC.
-
- Producer
-    Keisuki Toyoshima
- 
- Director
-    Junichi Kanzaki
- 
- Production Manager
-    Masatoshi Kobayashi
- 
- CG Animators
-    Satoshi Maruyama
-    Takamasa Namiki
-    Manabu Takahashi
-    Shuichi Murata
- 
- Visual Effects
-    Youichi Iwada
-    Kenji Isobe
-    Kei Watanabe
-    Hiroki Morikawa
-    Mizuki Nakamura
-
-=SOUND EFFECTS=
-
-SQUARE SOUNDS
-
- Sound FX Supervisor
-    Chiharu Minekawa
- 
- Sound Program
-    Minoru Akao
-    
- Synthesizer Program
-    Ryo Yamazaki
- 
-<Game Section>
-
- Game Sound Editor
-    Yasuhiro Yamamoto
- 
- Game Sound FX
-    Yoshitaka Hirota
-    Ryo Inakura
-    Kyouji Magoshi
- 
-<Movie Section>
- 
- Sound Editing Supervisor
-    Tak Ogawa
-    Richard Frankling
- 
-Ground Control Studio
-    
- Re-recording Mixer
-    Jonathan Wales
- 
- Recordist
-    Angie Stanghetti
-
-Warner Hollywood
-   Dubbing Stage D
-
- Re-recording Mixer
-    Chris Minkler
- 
- Engineer
-    Mike Curry
-
-Warner Hollywood
-   Foley Stage
- 
- Foley Artist
-    John Roesh
-    David Fein
- 
- Foley Mixer
-    Mary Jolang
- 
- Foley Recordist
-    Sandy Garcia
-    Carolyn Tapp
- 
- Foley Editor
-    Eiji Nakamura
- 
- Coordinator (USA)
-    Peter Smolian
- 
- Coordinator (Japan)
-    Naoto Echizen
- 
- Production Manager
-    Kensuke Matsushita
-
-=ENDING MOVIE LIVE FOOTAGE=
-
-VACANCES, Inc.
-
- Producer
-    Kunikazu Mori
- 
- Director
-    Nobuyuki Takaishi
- 
- Production Manager
-    Shiro Ataka
- 
- Photographer
-    Hisashi Hoshiko (PRE-X)
- 
- Lighting Director
-    Masaaki Uchida (PRE-X)
- 
- Camera Assistant
-    Takayuki Hirota
- 
- Lighting Assistant
-    Tomohide Iijima
- 
- Video Engineer
-    Akihiko Ozawa
-    (VIDEO ADVANCE)
-    
- Location Coordinator
-    Daisuke Shimoyama
-    (STEERING, Inc.)
- 
- Hairmake & Stylist
-    Kyoko Asano (BEANS)
- 
- Model
-    RANDI
-    (Cinq Deux Un)
- 
- Casting
-    Mariko Kawamura
-    (Sal International, Co.)
- 
- Art Director
-    Jun Shimazaki
-    (Cinq Art, Co.)
- 
- Dentsu, Co.
-    Kentaro Kawai
-    Takuya Nashimoto
-
-=NORTH AMERICAN PUBLISHER=
-
-Square Electronic Arts L.L.C.
-
- President
-    Jun Iwasaki
- 
-=LOCALIZATION=
-
-SQUARE CO., LTD.
-
- Localization Director
- English Auto-Accent System
- Localization Programmer
- Localization Specialist
-    Richard Mark
-       Honeywood
-
-SQUARE SOFT, INC.
-
- Localization Specialists
-    Yutaka Sano (Lead)
-    Shigeto "Sammy" Matsushima
-
- Editors
-    Rich Amtower
-    Brian bell
-    
-=OPENING THEME=
-CHRONO CROSS
--Scars of Time-
-
- Composed & Arranged by
-    Yasunori Mitsuda
- 
- Acoustic Guitar & Bouzouki
-    Tomohika Kira (ZABADAK)
- 
- Shinobue & Shakuhachi
-    Kinya Sugawa
- 
- Percussion
-    Tamao Fujii
- 
- Electric Upright Bass
-    Hiroshi Watanabe
- 
- String Quarter
-    1st Violin Hijiri Kuwano
-    2nd Violin Izumiko Fujiie
-    Viola Jun Yamamoto
-    Cello Haruki Matsuba
- 
- Recorded & Mixed by
-    Kenji Nagashima
- 
- Assistant Engineer
-    Ken Hirauchi
- 
- Recording Coordinator
-    Kenichi Funayama
- 
-Recorded at Studio Greenbird
-
-=ENDING THEME=
-RADICAL DREAMERS
--Le Trésor Interdit-
-
- Composed & Arranged by
-    Yasunori Mitsuda
- 
- Words by
-    Noriko Mitose (Kirche)
- 
- Acoustic Guitar
-    Tomohiko Kira (ZABADAK)
- 
- Vocal
-    Noriko Mitose (Kirche)
- 
- Recorded & Mixed by
-    Kenji Nagashima
- 
- Assistant Engineer
-    Ken Hirauchi
- 
- Recording Coordinator
-    Kenichi Funayama
-
-Recorded at Studio Greenbird
-
-=TESTING & DEBUGGING=
-
-SQUARTZ
-
- Executive Director
-    Hiromi Masuda
- 
- Chief Coordinator
-    Yoshia Shibano
- 
- Administration Staff
-    Shingo Kamata
-    Hirotsugu Shirosugi
-    Tetsuya Hiraoka
- 
- Message Check
-    Reiko Kondo
- 
-=QUALITY ASSURANCE=
-
-SQUARE SOFT, INC.
- 
- Lead Product Analyst
-    Derek C. Smith
- 
- Assistant Lead Analysts
-    Troy A. Boren
-    Ben E. Norman
- 
- Product Analysts
-    Aaron J. Adams
-    Jesse Check
-    Bryan D. Chen
-    Michael D. Christoffers
-    Jonathan Domasig
-    Drew Jennings
-    Jonathan Mankin
-    Mike Nguyen
-    Tam Nguyen
-    Nick Pisani
-    Jason Wheeler
- 
- QA Translation
-    Dana J. Kwon
- 
- =LOGOS=
-    Motokazu Ishii (Mellow)
-    Yukihiko Kouno (Keiz)
- 
- =NETWORK ADMINISTRATION=
-    Yasunaga Kobari
-    Yasnori Orikasa
-    Masanori Nakaura
-    Masako Takita
-    Shin Yamamoto
-    Masahiko Fujimori
- 
-=DEVELOPMENT SUPPORT=
- 
- Management
-    Kenji Takemoto
-    Naoko Kanai
- 
- Equipment Support
-    Yasuyuki Shimizu
-    Nobuyuki Mori
- 
- Facilities Management
-    Risa Uchima
-    Ryoichi Murakawa
- 
- Purchasing Management
-    Takayuki K omine
-    Yukinari Nishiyama
-    Yukiko Mori
-    Makiko Yasuda
-    Emiko Aoike
- 
- Assets Management
-    Shoko Yoshida
-    Yuko Suzuki
- 
-=PRODUCTION STAFF=
-
- Production Manager
-    Kazuhiro Hasegawa
- 
- Production Assistant
-    Miyuki Miyazaki
- 
- Production Support
-    Kimie Inagi
-    Yuki Nishimura
-    Mie Mizushima
-    Noriko Saito
- 
- Staff Coordinator
-    Akira Kashiwagi
- 
-DOLBY SURROUND
-
-Maya Alias | wavefront
-
-RENDERMAN
-ARTIST TOOLS
-PIXAR
-
-SOFTIMAGE|3D
-
-LIGHTWAVE 3D
-
-OPTPiX iMage Studio
- 
- Producer
-    Hiromichi Tanaka
-  
- World Map Lines:
- 
- Main Island:
-   Arni Village
-
-   Cape Howl
-   
-   Shadow Forest
-
-   Viper Manor
-
-   Termina
-
-   Opassa Beach
-
-   Lizard Rock
-    - North -
-
-   Lizard Rock
-    - South -
-
-   Fossil Valley
-     - North -
-
-   Fossil Valley
-     - South -
-
-   Mount Pyre
-     - East -
-
-   Mount Pyre
-     - West -
-
-   Hydra Marshes
-   
-   Fort Dragonia
-
-   Divine Dragon Falls
- 
- Home World:
-   Gaea's Navel
-
-   The Sky Above
-   Hydra Marshes
-
-    Marbule
-   - Shore -
-
-   Hermit's Hideaway
-   ~   - Shore -
-
-   Isle of the Damned
-   ~~- Shore -
-
-   Earth Dragon Isle
-   ~~- Shore -
-   
-   Water Dragon Isle
-   ~~- Shore -
-
-   Sky Dragon Isle
-       - Shore -
-
-   Arni Village
-
-   Termina
-   
-   Guldove
-
-      Cruise Ship
-   - S.S. Zelbess -
-
-   Viper Manor
-        Bluffs
-
-   Pyre Shore
-
-   El Nido Triangle
-
-   Dead Sea Ruins
-
-   Death's Door
-
-   Marbule
-   
-   Hermit's Hideaway
-   
-   Isle of the Damned
-
-   Earth Dragon Isle
-
-   Water Dragon Isle
-
-   Sky Dragon Isle
-
-   The Bend of Time
-   
-   Forbidden Island
-   
-   Gaea's Navel
-
-   Dead Sea
- 
- Another World:
-   Gaea's Navel
-
-   The Sky Above
-   Hydra Marshes
-   
-    Marbule
-   - Shore -
-
-   Hermit's Hideaway
-   ~   - Shore -
-
-   Isle of the Damned
-   ~~- Shore -
-
-   Earth Dragon Isle
-   ~~- Shore -
-
-   Water Dragon Isle
-   ~~- Shore -
-
-   Sky Dragon Isle
-   ~ - Shore -
-
-   The thick fog makes
-   visibility near zero...
-   ~~~Pull back for now
-   ~~~Head into fog
-
-   Arni Village
-
-   Termina
-
-   Guldove
-
-   Viper Manor
-   ~ Bluffs
-
-   Pyre Shore
-
-   El Nido Triangle
-
-   Dead Sea Ruins
-
-   ~ Pirate Ship
-   - S.S. Invincible -
-   
-    Terra Tower
-   - Final Form -
-
-   Terra Tower
-
-   Marbule
-
-       Burned-out
-   Hermit's Hideout
-
-   Isle of the Damned
-   
-   Earth Dragon Isle
-
-   Water Dragon Isle
-
-   Sky Dragon Isle
-
-   The Bend of Time
-   
-   Forbidden Island
-
-   Gaea's Navel
-
-   Sea of Eden
- 
- Dead Sea:
-   Death's Door
-
-   Highway Ruins
-      - South -
-
-   Highway Ruins
-      - North -
-
-   City Ruins
-   - North -
-
-   City Ruins
-   - South -
-
-   Tower of Geddon
-   
-   Fate Distortion
-   
-   World Map
- 
- Sea of Eden:
-   -Present-
-
-   -Future-
-   
-   -Past-
-
-   -Future Ruins-
-
-   Present Fate
-     - Clotho -
-   
-   Future Fate
-   - Lachesis -
-
-     Past Fate
-   - Atropos -
-   
-   Time Fortress
-   - Chronopolis -
-
-   Fate Distortion
- 
- Lost / Unused Lines:
- 
- Chapter Title, unused:
- 
-Back from the Darkness -
-And on with a new journey...
-
- Arni (Another), with the boy who's romancing Kiki lines:
- 
- ?:
-   Hey...
-
- Arni (Another), Old woman dialogue with extraneous comma:
  
  Old Woman:
    Looks like it's gonna be
@@ -38722,8 +37415,7 @@ And on with a new journey...
    I don't know how much
    longer us, old-timers
    can stand this heat...
- 
- Arni (Another), Una doesn't respond to Key Items:
+  Una doesn't respond to Key Items:
  
 Una:
    A Komodo dragon scale...?
@@ -38737,11 +37429,7 @@ Una:
    You're not planning
    to give that to
    Leena, are you?
-   .........
-   .........
    You're a dead man.
- 
- Alternate Kid dialogue on Cape Howl; beauty/great, cuz/coz, yer/your:
  
 Kid:
    Great!
@@ -38781,8 +37469,7 @@ Poshul:
 
  Mojo:
    ...I hate-om yoou.
- 
- Serge's House, Arni (Another); this never takes place:
+  this never takes place:
  
    Time to get up-om, everyone!
    The early bird gets the worm!
@@ -38827,7 +37514,6 @@ Poshul:
    
 Poshul:
    ......
-   ............
    Thorry I athked...
    
 Mojo:
@@ -38847,8 +37533,7 @@ Mojo:
 
 Mojo:
    Let's get go.ingsuffixe!
- 
- Doc's Clinic (Another), pre-Kid Debug Menu:
+  pre-Kid Debug Menu:
 
 --------DUMMY START--------
 
@@ -38863,8 +37548,7 @@ Mojo:
 --------DUMMY END--------
 
 Dummy Message
- 
- Termina (Another), choosing to save Kid, appears with Glenn dialogue:
+  choosing to save Kid, appears with Glenn dialogue:
  
 Member:
    Hey, don't you
@@ -38882,8 +37566,7 @@ Member:
 
    The event is temporary
    until map is final.
-   
- Water Dragon Isle (Another), Debug Menu:
+    Debug Menu:
 
 --------DUMMY START--------
 
@@ -38901,14 +37584,12 @@ Rect Off
 Rect On
 
 --------DUMMY END--------
- 
- Water Dragon Isle (Home), Weird Message:
+  Weird Message:
  
  System:
    Member found
    Item!4)Item!ARTY0% found
- 
- Water Dragon Isle (Home), Debug Menu:
+  Debug Menu:
 
 --------DUMMY START--------
 
@@ -38964,8 +37645,7 @@ Rect On
    Even if it is a lie
    That angels unseen
    Watch over the works of men. 
- 
- Hydra Marshes (Home), debug menu with strage dwarve lines:
+  debug menu with strage dwarve lines:
   
 --------DUMMY START--------
 
@@ -39102,7 +37782,6 @@ Press button for next action
    ~
    ~
  
- Marbule (Another):
  
  Bro of G:
    HEY!
@@ -39290,8 +37969,7 @@ Kid:
    Now...
 
    For mankind...
- 
- Kiki's House, Arni (Another); the villagers are hiding from Serge now:
+  the villagers are hiding from Serge now:
  
  Kiki's Grandpa:
    WHAT!? My son got
@@ -39600,7 +38278,6 @@ Kid:
  
  Villager Dialogue:
  
- Arni (Home):
 
  Old Man:
    Well now...
@@ -40241,7 +38918,6 @@ Poshul:
    for that Item:!
    Hwa-fah-fah-fah-fah!
    
- Chief's Hut, Arni (Home):
 
  System:
    Member: found
@@ -40346,7 +39022,6 @@ Poshul:
    Keep your hands
    to yourself, PU-LEASE!!!
    
- Eatery, Arni (Home):
  
  Old Man:
    Humina, humina, humina...!
@@ -40495,7 +39170,6 @@ Poshul:
    Waitressing in this run-dow...
    
  Belcha:
-   .........
    You're fired.
  
  Poet Girl:
@@ -40508,8 +39182,6 @@ Poshul:
  
  Belcha:
    ......
-   ............
-   ..................
  
  Poet Girl:
    
@@ -40622,7 +39294,6 @@ Poshul:
    But it's just a '"barrel"'...
    Probably...
  
- Kiki's House, Arni (Home):
  
  Old Man:
    Hello there, Serge.
@@ -40955,7 +39626,6 @@ Poshul:
    '"This ith my houthe!
     Enter at own rithk!"'
  
- Fossil Valley (Home):
  
  Porre Soldier:
    The Porre Army is currently
@@ -40971,7 +39641,6 @@ Poshul:
    There's nothing
    to see here.
 
- Hydra Marshes (Home):
    
  Man:
    Why, if it isn't
@@ -40980,7 +39649,6 @@ Poshul:
    elders tell you not
    to come near here!
  
- Cape Howl (Home):
  
  Rock:
    ~~Serge
@@ -40990,20 +39658,17 @@ Poshul:
    ~~~
    ~~forever...
  
- Lizard Rock (Another):
    
  Sign:
    Danger!!!
    Opassa Beach
    Keep out!!!
  
- Cape Howl (Another):
  
  Tombstone:
    There's some writing
    on the tombstone.
  
- Fossil Valley (Another):
    
  Acacia Dragoon:
    The Acacia Dragoons are
@@ -41019,7 +39684,6 @@ Poshul:
    There's nothing
    to see here.
  
- Divine Dragon Falls (Another):
  
  Demi-human Man:
    Years ago, these falls were
@@ -41058,7 +39722,6 @@ Poshul:
    Finders, keepers...
    We were here first!
    
- Hydra Marshes (Another):
  
  Explorer:
    Several years ago, when all
@@ -41212,7 +39875,6 @@ Captain:
    The surface of this slope
    is too slippery to climb!
  
- Arni (Another):
  
  Old Man:
    Well now, you're in Arni.
@@ -41445,7 +40107,6 @@ Una:
    Oh...boy...!
    What am I gonna do!?
  
- Chief's Hut, Arni (Another):
  
  Young Woman:
    Just between you and me,
@@ -41554,7 +40215,6 @@ Una:
    entertainment, but make
    yourself at home.
    
- Cafe Fleur, Arni (Another):
  
  Old Woman:
    Humina, humina, humina...!
@@ -41729,7 +40389,6 @@ Una:
    No answer...
    It's just a '"pot"'...
    
- Kiki's House, Arni (Another):
    
  Kiki's Grandpa:
    I can't comprehend
@@ -41949,7 +40608,6 @@ Una:
    to say.
    Now, please leave!
    
- Leena's House, Arni (Another):
  
  Leena's Grandma:
    Greetings, sonny.
@@ -42064,7 +40722,6 @@ Una:
    know any Serge
    or Marge.
    
- Pier, Arni (Another):
  
  Boy:
    Yippieee!!!
@@ -42090,7 +40747,6 @@ Una:
    will also come to return
    to the sea, young man...
    
- Arni (Another):
    
 Una:
    Hey, newbie!
@@ -42099,7 +40755,6 @@ Una:
    You look like you've
    just seen a ghost!
    
- Kiki's House (Another):
 
  Kiki's Dad:
    ......
@@ -42116,7 +40771,6 @@ Una:
    What are you trying to do
    by showing me that amulet?
    
- Fossil Valley (Another):
  
  Acacia Dragoon:
    Our excavation is
@@ -42263,7 +40917,6 @@ Una:
    Anyway, thank you very much
    for a job well done!
   
- Viper Manor (Another):
  
  Acacia Dragoon:
    Authorization is required
@@ -42278,7 +40931,6 @@ Una:
  Acacia Dragoon:
    This is Viper Manor.
    
- Termina (Another):
  
  Woman:
    Huh?
@@ -42580,7 +41232,6 @@ Una:
    Those not paying respects,
    please refrain from entering.
    
- Shrine Area, Termina (Another):
   
  Old Woman:
    What business brings you here?
@@ -42607,7 +41258,6 @@ Una:
     ~~14th Acacia Dragoon
     ~~ Grandmaster Dario
     
- Greco's House, Termina (Another):
  
  Romana:
    I'm sorry,
@@ -42617,7 +41267,6 @@ Una:
    Please come back
    a little later.
 
- Magical Dreamers Ship, Termina (Another):
  
  Roadie:
    What the bloody hell is
@@ -42674,7 +41323,6 @@ Yu:
    All non-staff members
    keep out!
    
- Termina (Another):
 
  Man:
    I should just jump into
@@ -42826,7 +41474,6 @@ Yu:
    Excuse me, but I need to be
    alone right now...
    
- Zappa's Smithy, Termina (Another):
  
  Apprentice:
    What do you want,
@@ -42847,7 +41494,6 @@ Yu:
    ~~Youth Division
    Second Place~Sir Karsh
    
- Termina (Another):
  
  Girl:
    That Pierre staying at
@@ -42870,7 +41516,6 @@ Yu:
    I can become a hero
    without a medal, right?
    
- Glenn/Dario's House, Termina (Another):
  
  Girl:
    It is just hopeless.
@@ -42901,7 +41546,6 @@ Yu:
    I'm not talking
    to him ever again.
  
- Van's House, Termina (Another):
  
  Maid:
    Are you the young master's friend?
@@ -42986,7 +41630,6 @@ Gogh:
    just keep holding on to
    my treasures.
    
- Termina (Another):
    
  Man:
    Looks like this
@@ -43004,7 +41647,6 @@ Gogh:
    Not bad...
    And it even revitalizes you!
  
- Inn, Termina (Another):
  
  Innkeeper:
    Welcome!!!
@@ -43059,7 +41701,6 @@ Gogh:
    We've only got good things
    to say about this place!
    
- Skelly's House, Termina (Another):
  
  Grandma:
    Yes?
@@ -43139,7 +41780,6 @@ Gogh:
    I just can't wait 'til it's
    done cooking...
  
- Sick Child's House, Termina (Another):
  
  Mother:
    ...And that is how the
@@ -43218,7 +41858,6 @@ Gogh:
    What story should I
    tell next?
    
- Lisa's Shop, Termina (Another):
  
 Lisa:
    That's the rockin' bard,
@@ -43331,7 +41970,6 @@ Lisa's Dad:
    to appreciate good mushrooms...
    What a wonderful lord he is.
  
- The Dragon's Tail, Termina (Another):
  
  Man:
    Sigh...I've been fired from
@@ -43470,7 +42108,6 @@ Lisa's Dad:
  System:
    It's locked...
  
- Shadow Forest (Another):
  
  System:
    There's an old notebook.
@@ -43515,7 +42152,6 @@ Lisa's Dad:
    
    Looks like you can push it.
    
- Viper Manor (Another):
  
  Acacia Dragoon:
    Yo, man...
@@ -43604,7 +42240,6 @@ The Boxer Boys:
    You had to pick one of us!
    We don't reward CHEATERS!!!
  
- Viper Manor (Another):
    
  System:
    It's locked from
@@ -43661,7 +42296,6 @@ The Boxer Boys:
    
    Don't touch anything.
    
- Treasure Vault, Viper Manor (Another):
  
  System:
    The vase is actually
@@ -43680,7 +42314,6 @@ The Boxer Boys:
    ~~~Take it
    ~~~Leave it alone
  
- Viper Manor (Another):
  
  Cybot:
    GI-GI...
@@ -43696,7 +42329,6 @@ The Boxer Boys:
  System:
    It's locked.
    
- Armory, Viper Manor (Another):
  
  Acacia Dragoon:
    Watch out for traps.
@@ -43739,7 +42371,6 @@ The Boxer Boys:
    You need to bring the
    general here to get to it.
    
- Mess Hall, Viper Manor (Another):
  
  Acacia Dragoon:
    The code for the trap door
@@ -43780,7 +42411,6 @@ The Boxer Boys:
  System:
    Nothing...
  
- Barracks, Viper Manor (Another):
  
  System:
    There's a message on the wall.
@@ -43859,7 +42489,6 @@ The Boxer Boys:
    in his dream, and that he's
    living a different life.
  
- Viper Manor (Another):
  
  System:
    It's locked.
@@ -43879,7 +42508,6 @@ The Boxer Boys:
    GI-GI...
    GA-PIPI...
  
- Library, Viper Manor (Another):
  
  System:
    There's a switch.
@@ -43887,7 +42515,6 @@ The Boxer Boys:
    ~~~Push it
    ~~~Don't push it
    
- Viper Manor (Another):
  
  Acacia Sergeant:
    Quarters for the general and
@@ -43918,12 +42545,10 @@ The Boxer Boys:
    It's locked from
    the inside.
    
- Viper's Quarters, Viper Manor (Another):
  
  System:
    There's some kind of device.
    
- Guldove (Another):
  
  Doc's Assistant:
    Don't give up hope.
@@ -44164,7 +42789,6 @@ The Boxer Boys:
    guidance from the Records of
    Fate, you may enter this tower.
    
- Shop, Guldove (Another):
  
  Man:
    As a man of the sea, you gotta
@@ -44202,7 +42826,6 @@ The Boxer Boys:
    you visit the village.
    ...Have a safe voyage.
    
- Orlha's Pub, Guldove (Another):
  
  Woman:
    For crying out loud, how many
@@ -44260,7 +42883,6 @@ The Boxer Boys:
    
  Branch: Answering Yes. For No, search Branch: Answering No.:
 
- Termina (Another):
  
  Overseer:
    Mmm, I wanna get this
@@ -44361,7 +42983,6 @@ The Boxer Boys:
    we had peace, I couldn't wish
    for anything more.
    
- Shrine Area, Termina (Another):
  
  Woman:
    Sob...sob...
@@ -44372,14 +42993,12 @@ The Boxer Boys:
    Sob...sob...
    I-I can't believe...
    
- Greco's House, Termina (Another):
  
  Romana:
    Please take any of
    your inquiries to
    Greco over there.
    
- Termina (Another):
  
  Man:
    Wow, big bro's got a great
@@ -44391,7 +43010,6 @@ The Boxer Boys:
    Please come back a
    little later.
    
- Van's House, Termina (Another):
  
  Maid:
    Are you the young master's friend?
@@ -44409,7 +43027,6 @@ Gogh:
    they come to steal
    my treasure!
    
- Inn, Termina (Another):
  
  Innkeeper:
    Welcome!!! It is 100G per night.
@@ -44425,14 +43042,12 @@ Gogh:
    I see.
    Please come again!!!
    
- Lisa's Shop, Termina (Another):
  
  Poster:
    Viper Festival
    Nikki Concert
    <Postponed indefinitely>
    
- Dragon's Tail, Termina (Another):
  
  Man:
    I heard the Radical Dreamers
@@ -44466,7 +43081,6 @@ Gogh:
    is the number one suspect
    if you ask me.
    
- Sick Girl's House, Termina (Another):
  
  Mother:
    Hmmm......
@@ -44512,7 +43126,6 @@ Gogh:
    but who could be
    leaving it for us?
    
- Magical Dreamers Ship, Termina (Another):
  
  Girl:
    Rats,
@@ -44527,7 +43140,6 @@ Gogh:
    but something really
    shocked him.
    
- Viper Manor (Another):
  
  Cybot:
    GA-BI...
@@ -44548,7 +43160,6 @@ Gogh:
  System:
    The device is inactive.
  
- Barracks, Viper Manor (Another):
 
  Acacia Dragoon:
    Huh?
@@ -44558,19 +43169,16 @@ Gogh:
 
    Zzzz... Zzzz...
    
- Mess Hall, Viper Manor (Another):
  
  Acacia Dragoon:
    I'll wait 'til hell
    freezes over...!
    
- ZOAH'S ROOM, VIPER MANOR (ANOTHER):
  
  System:
    It won't open!
    There must be a way...
    
- Riddel's Room, Viper Manor (Another):
  
  Nurse:
    General Viper tried desperately
@@ -44580,7 +43188,6 @@ Gogh:
    for her in this manor...
    Fond memories of Dario...
  
- Library, Viper Manor (Another):
  
  System:
    You found a door that leads down.
@@ -44588,7 +43195,6 @@ Gogh:
    ~~~Go down
    ~~~Stay
  
- Neo-Epoch Room, Viper Manor (Another):
  
  Nu:
    W-W-Welcome.
@@ -44607,7 +43213,6 @@ Gogh:
    ~~~Yes
    ~~~No
  
- Hydra Marshes (Another):
  
  Explorer:
    Huh?
@@ -44647,7 +43252,6 @@ Gogh:
    This be fun...FUN!!!
    Now be prepared to die!
    
- Belcha's Kitchen, Arni (Home):
  
  Poet Girl:
    Hm?
@@ -44691,7 +43295,6 @@ Gogh:
    We just think that way
    because life is too short.
    
- Hydra Marshes (Home):
    
  Man:
    The dwarves who live in
@@ -44760,7 +43363,6 @@ Beeba:
    Beeba no friend left...
    I beebary lonely now...
    
- Hydra Marshes (Home):
  
 BubbaBeeba:
    I beeba-ry sorry!
@@ -44795,7 +43397,6 @@ BobbaBeeba:
 
    Let the challenge commence!
    
-   ...............
    Beeba gone!
    
    That beeba quite fun.
@@ -44861,7 +43462,6 @@ DaffyDwarf:
    The surface of this slope
    is too slippery to climb!
  
- Arni (Another):
  
  Woman:
    Hello!
@@ -44928,7 +43528,6 @@ DaffyDwarf:
    I don't know when,
    but I'll do my best.
    
- Doc's House, Guldove (Another):
  
  Nurse:
    Although she's still young,
@@ -44938,7 +43537,6 @@ DaffyDwarf:
    She's adopted, so doesn't have
    the best confidence, you know?
    
- Guldove (Another):
  
  Man:
    I don't know what's going
@@ -44948,7 +43546,6 @@ DaffyDwarf:
 
  Branch: Answering No. For Yes, search Branch: Answering Yes.:
  
- Termina (Another):
  
  Demi-human Man:
    Overseer take time off.
@@ -44979,7 +43576,6 @@ DaffyDwarf:
    best and fastest of them all.
    I wish I could build one like it...
  
- Glenn and Dario's House, Termina (Another):
  
  Girl:
    Looks like...
@@ -44996,14 +43592,12 @@ DaffyDwarf:
    Sniff...!
    Someday, I will win her heart!
    
- Termina (Another):
  
  System:
    Board the boat?
    ~~~OK, let's go!
    ~~~No, wait a minute
    
- Guldove (Another):
  
  Man:
    Those who die at sea with
@@ -45067,7 +43661,6 @@ DaffyDwarf:
    Oh, you're quitting!?
    Too bad...
    
- Marbule (Another):
  
  Demi-human:
    Get out,
@@ -45082,7 +43675,6 @@ DaffyDwarf:
    
  Demi-human:
    ......
-   .........
    
  Demi-human Man:
    We don't want any
@@ -45118,7 +43710,6 @@ Bro of G's Shop:
    
  Demi-human:
    ......
-   .........
 
    The sea is having
    a dream...
@@ -45144,7 +43735,6 @@ Bro of G's Shop:
  Demi-human Woman:
    ......
    
- Child's House, Marbule (Another):
  
  Demi-human:
    Stay away from me!!!
@@ -45154,7 +43744,6 @@ Bro of G's Shop:
    I don't want to
    talk to humans!!!
    
- Elder's Cave, Marbule (Another):
  
 Ruling Elder:
    Are you demi-humans?
@@ -45228,7 +43817,6 @@ Ruling Elder:
    it continues to wander..."'
    I know not what it means.
    
- Witch Doctor's House, Marbule (Another)}
    
 Witch Doctor:
    What is it, human?
@@ -45263,7 +43851,6 @@ Witch Doctor:
    My point is, humans are
    bad luck! Now leave!
    
- Sky Dragon Isle (Another):
  
  Explorer:
    This island is considered holy
@@ -45290,7 +43877,6 @@ Witch Doctor:
    This island is an ancient ruin
    of the Dragonians.
    
- Earth Dragon Isle (Another):
  
  Explorer:
    This big hole leads to
@@ -45321,7 +43907,6 @@ Captain:
    It's still a mystery how all
    that sand disappeared.
    
- Inner Earth Dragon Isle (Another):
  
  Explorer:
    I can't believe people would
@@ -45389,7 +43974,6 @@ Captain:
    Divine Dragon Falls.
    I wonder if it's still there?
    
- Water Dragon Isle (Another):
  
  Explorer Captain:
    It's hard to believe, but according
@@ -45507,13 +44091,11 @@ Rosetta:
    been completely sealed, and
    it is impossible to enter...
   
- Hermit's Hideaway (Another):
  
  System:
    The ground here is hot...
    Vegetation won't be able to grow here...
    
- Skelly's House, Termina (Another):
  
  Woman:
    Skelly has a somewhat
@@ -45522,7 +44104,6 @@ Rosetta:
    has come back! I've never
    seen grandma so happy!
    
- SS Invincible (Another):
  
  Pirate:
    Ahhh...
@@ -45564,7 +44145,6 @@ Rosetta:
    Well, then,
    take care.
  
- Guldove (Another):
  
  Demi-human Woman:
    We've changed some of our
@@ -45573,13 +44153,11 @@ Rosetta:
    ~~~I'll take a look
    ~~~Maybe next time
    
- Water Dragon Isle (Home):
  
  System:
    ...You can't enter
    Fairy-ville right now.
  
- Arni (Home):
  
  Old Man:
    Many say it's better
@@ -45597,19 +44175,16 @@ Rosetta:
    there for 100G.
    What do want to do?
    
- Water Dragon Isle (Home):
  
  Old Man:
    I'll be here waiting, so
    run along and hurry back.
    
- Hermit's Hideaway (Another):
    
  System:
    The ground has cooled down.
    Vegetation can grow here again.
  
- Hydra Marshes (Home):
  
 Dwarf Chieftain:
    We shall live quietly,
@@ -45627,7 +44202,6 @@ DaffyDwarf:
    In the meantime, the 3 of us
    will do what we can.
    
- Fort Dragonia (Another):
  
  Engraving:
    Only when you
@@ -45700,7 +44274,6 @@ DaffyDwarf:
    ~~~Yes
    ~~~No
  
- Hydra Marshes (Home):
  
  Explorer:
    After we defeated the Hydra,
@@ -45744,7 +44317,6 @@ DaffyDwarf:
    lead us to the Hydra.
    Who gives a crap about them, right?
    
- Fossil Valley (Home):
  
  Porre Soldier:
    ......!?
@@ -45773,7 +44345,6 @@ DaffyDwarf:
    Member: received the
    '"Infrared Vision"' frame!
    
- Arni (Home):
  
  Old Man:
    I have nothing
@@ -45959,7 +44530,6 @@ DaffyDwarf:
    How do you think I lived
    to be this old?
    
- Chief's Hut, Arni (Home):
  
  Man:
    Well, well, this is unusual.
@@ -45994,7 +44564,6 @@ DaffyDwarf:
    I thought you
    were Serge!
    
- Belcha's Kitchen, Arni (Home):
  
  Poet Girl:
    Oh, hi there.
@@ -46152,7 +44721,6 @@ DaffyDwarf:
    You haven't done anything
    to Serge, have you!?
  
- Leena's House, Arni (Home):
  
  Leena's Grandma:
    Look here! That cat
@@ -46175,7 +44743,6 @@ DaffyDwarf:
    bad happens...
    Hwa-Hwa-Hwa...
    
- Arni (Home):
  
 Gonji:
    Don't worry, Chief.
@@ -46209,7 +44776,6 @@ Gonji:
    Come back soon for
    story time, OK?
    
- Chief's Hut, Arni (Home):
  
  Old Man:
    Hello, Chief.
@@ -46244,7 +44810,6 @@ Gonji:
    Well, of course you have.
    You're the chief.
     
- Viper Manor (Home):
  
  Porre Soldier:
    I have orders not to let
@@ -46257,7 +44822,6 @@ Gonji:
    This area is off-limits
    until things clear up.
    
- Shadow Forest (Home):
  
  Porre Soldier:
    This area is under
@@ -46265,7 +44829,6 @@ Gonji:
    No admittance until the
    investigation is over.
    
- Termina (Home):
  
  Porre Soldier:
    I'm on patrol duty.
@@ -46341,7 +44904,6 @@ Gonji:
    '"I'll be your wind!"'
    Sigh...
    
- Van's House, Termina (Home):
  
  Gogh:
    Phew.
@@ -46366,7 +44928,6 @@ Gogh:
    Skip 3 and 4
    Step 5:  save more money
    
- Zappa's Smithy, Termina (Home):
  
  Apprentice:
    I can't bear
@@ -46391,7 +44952,6 @@ Gogh:
    Swing on by when you
    need something!
    
- Glenn and Dario's House, Termina (Home):
  
  Porre Soldier:
    From what I've heard,
@@ -46415,7 +44975,6 @@ Gogh:
    should enlist him into the
    '"Black Wind"'...
  
- Shrine Area, Termina (Home):
  
  Sword:
    ~Beneath the Sacred Sword,
@@ -46433,7 +44992,6 @@ Gogh:
    '"Sacred Sword"' in honor of
    a lost member...
     
- Shrine Shack, Termina (Home):
  
  Old Woman:
    What brings you here?
@@ -46455,7 +45013,6 @@ Gogh:
    concerning you.
    Now, run along and go home.
    
- Skelly's House, Termina (Home):
  
  Woman:
    Grandma's been worried sick
@@ -46464,7 +45021,6 @@ Gogh:
    She loved him so much...
    I just hope he's alright...
  
- Sick Girl's House, Termina (Home):
  
  Man:
    S-Sir Lynx!?
@@ -46514,7 +45070,6 @@ Gogh:
  Girl:
    ......
    
- The Dragon's Tail, Termina (Home):
  
  Porre Soldier:
    Even though I'm here relaxing,
@@ -46584,7 +45139,6 @@ Gogh:
    We don't serve
    your kind here!
  
- Lisa's Element Shop, Termina (Home):
  
 Lisa:
    Welcome...
@@ -46612,13 +45166,11 @@ Lisa:
    into a mushroom himself!
    Oh that...grumble grumble
    
- Inn, Termina (Home):
    We have closed our business operations.
    Visitors are welcome to stay for free...
    ~~~Stay
    ~~~Not now
    
- Viper Manor (Home):
  
  Porre Soldier:
    Sir Norris has arrived.
@@ -46651,7 +45203,6 @@ Lisa:
    ~~~Yes
    ~~~No
    
- Shadow Forest (Home):
  
  Porre Soldier:
    Sir Norris is in the basement.
@@ -46661,7 +45212,6 @@ Lisa:
    Please enter through here to get
    to the basement of Viper Manor.
    
- Basement, Viper Manor (Home):
  
  Porre Soldier:
    The ladder leading to the
@@ -46697,7 +45247,6 @@ Lisa:
    I don't believe there
    is much else here.
    
- Termina (Home):
  
  Porre Soldier:
    Nothing unusual, sir!
@@ -46764,7 +45313,6 @@ Lisa:
    ~~~OK, let's go!
    ~~~Wait a minute
    
- Shrine Area, Termina (Home):
  
  Porre Officer:
    I examined the sword in the
@@ -46774,7 +45322,6 @@ Lisa:
    '"Sacred Sword"' in honor of
    a lost loved one...
  
- The Dragon's Tail, Termina (Home):
  
  Porre Soldier:
    Commander Norris,
@@ -46814,7 +45361,6 @@ Lisa:
    Then I will keep
    this to myself.
    
- Shadow Forest (Home):
  
  Boy:
    Pa left again in
@@ -46823,7 +45369,6 @@ Lisa:
 
    Papa...!
    
- Viper Manor (Home):
  
  Porre Soldier:
    We have found an entrance
@@ -46857,7 +45402,6 @@ Lisa:
    do not know what caused
    the manor to collapse.
    
- Basement, Viper Manor (Home):
  
  System:
    There seems to be some
@@ -46899,7 +45443,6 @@ Lisa:
    It seems to be completely
    blocked off from here.
    
- Guldove (Home):
  
  Man:
    Ever since the merchant ships
@@ -47095,7 +45638,6 @@ Lisa:
    You don't even have 10G?
    Whoa...that's sad.
    
- Shop, Guldove (Home):
  
  Explorer:
    You're travelers, aren't you?
@@ -47188,7 +45730,6 @@ Then have you heard about that
    Oh, that's too bad.
    Have a safe voyage...
    
- Orcha's Diner, Guldove (Home):
  
  Explorer:
    Far east from here, there's
@@ -47218,19 +45759,16 @@ Then have you heard about that
    but in any case I'd love to see this
    Dragon Tear at least once!
    
- Hermit's Hideaway (Home):
  
  System:
    Impossible for a human to pull out...
    
- El Nido Triangle (Home):
  
  System:
    Go in?
    ~~~Yes
    ~~~No
 
- Water Dragon Isle (Home):
  
  Gold Fairy:
    I don't like people from outside.
@@ -47269,7 +45807,6 @@ Rosetta:
    my powers, return to this
    land. The time is not yet nigh.
    
- Sky Dragon Isle (Home):
  
  Explorer:
    We've been warned not to go
@@ -47328,12 +45865,10 @@ Rosetta:
    Hah, so the main body was
    just a little guy, eh?
    
- Forbidden Island (Home):
  
  System:
    It's locked.
    
- SS Zelbess (Home):
  
  Man:
    Ahhh...
@@ -47433,7 +45968,6 @@ Rosetta:
    without the captain's
    permission.
    
- Vegas Casino, SS Zelbess (Home):
  
  Man:
    Yes!
@@ -47563,7 +46097,6 @@ Rosetta:
    a rank Value: prize
    Item:!
    
- Restaurant, SS Zelbess (Home):
  
  Man:
    I'm very sorry, but
@@ -47602,7 +46135,6 @@ Rosetta:
    it when I see Nikki
    in person!
    
- Hold, SS Zelbess (Home):
  
  Demi-human Man:
    Please...don't make
@@ -47656,7 +46188,6 @@ Rosetta:
    humans did, isn't it!?
    I'm sorry, but I need to be alone!
    
- Inn, SS Zelbess (Home):
  
  Sign:
    Lady Luck Beckons!
@@ -47759,7 +46290,6 @@ Rosetta:
    Don't go anywhere
    I wouldn't go.
    
- Hold, SS Zelbess (Home):
  
  Demi-human Woman:
    I wonder if my pet
@@ -47773,13 +46303,11 @@ Rosetta:
    I wish I were a cat...
    Then I wouldn't have to work.
    
- Casino, SS Zelbess (Home):
  
  Operator:
    Shoo!
    Get outta here!
    
- Captain's Quarters, SS Zelbess (Home):
  
  Dog:
    Woof, you cats
@@ -47793,7 +46321,6 @@ Rosetta:
    Woof, I guess I should
    consider myself a lucky dog.
    
- Kitchen, SS Zelbess (Home):
  
  Cat:
    Oh, you're a new
@@ -47829,7 +46356,6 @@ Rosetta:
    Because I'm the happy cook
    Who feeds the people gook!
    
- Restaurant, SS Zelbess (Home):
  
  Poster:
    Magical Dreamers
@@ -47852,7 +46378,6 @@ Rosetta:
    I got nothin' to feed
    to you felines!
 
- SS Zelbess (Home):
  
  Crewman:
    Get outta here!
@@ -47905,7 +46430,6 @@ Rosetta:
    cats through.
    That's my policy!
  
- Magical Dreamers Ship (Home):
  
  Roadie:
    Can't you see
@@ -47920,7 +46444,6 @@ Rosetta:
    let me borrow
    that lipstick!
  
- SS Zelbess (Home):
  
  Cat:
    Who gives a meow about
@@ -47942,7 +46465,6 @@ Rosetta:
    He truly knows what it
    means to '"be alive,"' meow.
    
- Inn, SS Zelbess (Home):
  
  Cat:
    He always yells at me when
@@ -47957,7 +46479,6 @@ Rosetta:
    Mama...
    Zzzz... Zzzz...
  
- Bar, SS Zelbess (Home):
  
  Jill:
    I still can't believe
@@ -47971,7 +46492,6 @@ Rosetta:
    on a new career.
    I kind of like them.
  
- Grand Slam, SS Zelbess (Home):
  
  Woman:
    Yeah! Finish him!!!
@@ -48040,7 +46560,6 @@ Rosetta:
    You're just too good!
    Sorry!
  
- Bar, SS Zelbess (Home):
  
  Crewman:
    If only he didn't have
@@ -48059,7 +46578,6 @@ Rosetta:
    Why are they dressed up
    like knights...?
  
- Magical Dreamers Ship (Home):
  
  Roadie:
    The concert stage is actually
@@ -48071,7 +46589,6 @@ Rosetta:
    on how to convince Fargo,
    let me know...
    
- Arni (Another):
  
  Man:
    They're all taking refuge
@@ -48098,7 +46615,6 @@ Rosetta:
    Reality has finally
    caught up with me. 
  
- Serge's House, Arni (Another):
  
  Komodo:
    We sure seem to be living
@@ -48108,7 +46624,6 @@ Rosetta:
    I guess that's what they
    call, '"Dragon Spirit,"' man...
    
- Kiki's House, Arni (Another):
  
  Kiki's Dad:
    So what if Serge
@@ -48118,7 +46633,6 @@ Rosetta:
    True love and peace of mind
    are in our hearts.
  
- Viper Manor (Another):
  
  Porre Soldier:
    I have orders not to
@@ -48128,7 +46642,6 @@ Rosetta:
    This manor is now occupied
    by the Porre military.
  
- Divine Dragon Falls (Another):
  
  Explorer:
    There didn't seem to be
@@ -48175,7 +46688,6 @@ Rosetta:
    It seems that you
    cannot do it yet.
 
- Termina (Another):
  
  Porre Soldier:
    Commander Norris,
@@ -48302,9 +46814,7 @@ Rosetta:
 
    No trespassing.
  
- Sick Girl's House, Termina (Another):
    
- Van's House, Termina (Another):
  
  Maid:
    Sir Lynx!?
@@ -48325,7 +46835,6 @@ Gogh:
    an excellent, rare find!
    Hahaha!!!
    
- Inn, Termina (Another):
  
  Porre Soldier:
    The inn gets many visitors
@@ -48351,7 +46860,6 @@ Gogh:
    I see.
    Please come again!!!
  
- Sick Girl's House, Termina (Another):
    
  Kein:
    Oh!!!
@@ -48413,7 +46921,6 @@ Gogh:
    Papa's ship
    ~~~Mary
  
- Viper Manor (Another):
  
  Porre Soldier:
    The place was deserted
@@ -48469,14 +46976,12 @@ Gogh:
    but with no one here,
    what's the point?
  
- Riddel's Room, Viper Manor (Another):
  
  Nurse:
    Miss Riddel has been taken
    to the basement prison
    against her will...
  
- Viper's Room, Viper Manor (Another):
  
  Porre Soldier:
    I reckon there's a secret room
@@ -48508,7 +47013,6 @@ Gogh:
    Check the pillar
    in the armory!!!
  
- Roof Terrace, Viper Manor (Another):
    
  Porre Soldier:
    A living flower...
@@ -48530,7 +47034,6 @@ Gogh:
    A lot has changed, but
    the sea remains the same.
    
- Karsh's Room, Viper Manor (Another):
    
  Porre Soldier:
    Commander Norris had another
@@ -48538,20 +47041,17 @@ Gogh:
    and has been sent to the parlor
    on the other side.
  
- ZOAH'S ROOM, VIPER MANOR (ANOTHER):
  
  Porre Soldier:
    Nice and firm...
    But a bit smelly...
  
- Vault, Viper Manor (Another):
  
  Porre Soldier:
    I was convinced the
    Frozen Flame would be
    here, but I was wrong.
  
- Mess Hall, Viper Manor (Another):
  
  Porre Soldier:
    Commander Norris disguised
@@ -48591,7 +47091,6 @@ Gogh:
    He probably has another
    dirty job to take care of...
  
- Barracks, Viper Manor (Another):
  
  Porre Soldier:
    Commander Norris is
@@ -48619,7 +47118,6 @@ Gogh:
    Well, he's useless
    anyway.
  
- Basement, Viper Manor (Another):
  
  Porre Soldier:
    Under investigation, sir.
@@ -48665,7 +47163,6 @@ Gogh:
    valve to open the gate, and
    tighten it to close the gate.
  
- Cells, Viper Manor (Another):
  
  Man:
    Hey, man! Open up!
@@ -48691,7 +47188,6 @@ Gogh:
    Didn't expect they'd
    come from behind me...
  
- Viper Manor (Another):
  
  Porre Soldier:
    Commander Norris!
@@ -48709,7 +47205,6 @@ Gogh:
    Please, by all means...
    Go on through, sir!
    
- Stable, Viper Manor (Another):
  
  Stablekeeper:
    Those Porre soldiers
@@ -48719,19 +47214,16 @@ Gogh:
    If only our master
    would return...
  
- Barracks, Viper Manor (Another):
    
  Acacia Dragoon:
    Come back soon, everyone...
    Zzzz... Zzzz...
  
- Riddel's Room, Viper Manor (Another):
  
  Maid:
    Miss Riddel is safe!
    Thank goodness.
  
- Viper Manor (Another):
  
  Porre Soldier:
    Commander,
@@ -48744,13 +47236,11 @@ Gogh:
    Commander!
    Where are you going?
  
- The Dragon's Tail, Termina (Another):
  
  Barkeep:
    Oh, when will those
    Porre guys ever leave...
  
- Zappa's Smithy, Termina (Another):
  
  Apprentice:
    !!!
@@ -48774,7 +47264,6 @@ Gogh:
    how to make a quick getaway.
    That's what saved me.
  
- Marbule (Another):
  
  Demi-human Man:
    Yo!
@@ -48833,7 +47322,6 @@ Kid Bro of G's Shop:
    I've got stuff he don't
    got, baby!
  
- House, Marbule (Another):
  
  Demi-human Child:
    Who are you?
@@ -48847,7 +47335,6 @@ Kid Bro of G's Shop:
    I guess it doesn't
    concern you...
  
- Water Dragon Isle (Another):
  
  Explorer:
    This was a while back, but I
@@ -48863,7 +47350,6 @@ Kid Bro of G's Shop:
    ...I wonder if they'll ever
    come back here again?
  
- SS Invincible (Another):
  
  Pirate:
    Ly-Lynx!!!? Damn!
@@ -48871,7 +47357,6 @@ Kid Bro of G's Shop:
    so just leave!
    You lubber!
  
- SS Invincible (Another):
  
  Pirate:
    LYNX!!!
@@ -48912,7 +47397,6 @@ Kid Bro of G's Shop:
    Maybe I should start thinkin'
    'bout becomin' a cook.
  
- SS Invincible (Another):
  
  Pirate:
    Have you guys encountered
@@ -48929,7 +47413,6 @@ Riddel Groupie:
    Y-You scared me...
    Nice door knob, huh?
  
- Bunks, SS Invincible (Another):
   
  Pirate:
    Well, ya know...
@@ -48968,7 +47451,6 @@ Riddel Groupie:
    It's surrounded by bluffs
    and inaccessible by sea.
  
- Hydra Marshes (Another):
  
 Captain:
    All of a sudden, the ground
@@ -48984,7 +47466,6 @@ Captain:
    ~~~Go for it!
    ~~~Nah, too dangerous
  
- SS Zelbess (Home):
  
  Man:
    I'm gettin' kinda bored
@@ -49008,7 +47489,6 @@ Captain:
    ~~~Hop on
    ~~~Forget it
  
- Magical Dreamers Ship (Home):
  
  Demi-human Woman:
    It's hard to get back
@@ -49050,7 +47530,6 @@ Sage:
    members some time off.
    They must be quite tired...
  
- Restaurant, SS Zelbess (Home):
  
  Man:
    I was really blown away
@@ -49078,7 +47557,6 @@ Sage:
    Well, I'll be able to
    enjoy my daily latte now!
 
- Inn, SS Zelbess (Home):
  
  Note:
    Taking care of other business.
@@ -49086,7 +47564,6 @@ Sage:
    ~~~Stay
    ~~~Forget it
  
- Bar, SS Zelbess (Home):
  
  Crewman:
    Going from 2 swords to 4
@@ -49096,7 +47573,6 @@ Sage:
    I'm going to practice
    like crazy...!!!
  
- SS Zelbess (Home):
  
  Woman:
    The long-awaited Nikki
@@ -49137,7 +47613,6 @@ Sage:
    OH MY GAWD!!!
    Nikki!!!!!!
  
- Viper Manor (Home):
  
  Man:
    Move it!
@@ -49183,7 +47658,6 @@ Sage:
  Stablekeeper:
    Is the dragon stable ready yet?
    
- Earth Dragon Isle (Home):
  
  Explorer:
    The captain told me our next
@@ -49341,7 +47815,6 @@ Sage:
    Push it towards the cliff
    to stop the sand jet.
  
- Marbule (Another):
  
  Demi-human:
    Th-The Black Dragon...
@@ -49359,7 +47832,6 @@ Sage:
  Demi-human:
    The Black Dragon...?
  
- Witch Doctor's House, Marbule (Another):
  
 Witch Doctor:
    The Black Dragon
@@ -49369,7 +47841,6 @@ Witch Doctor:
    the dragon is finally awake!
    How did this happen!?
    
- Sage's House, Marbule (Another):
  
 Ruling Elder:
    The Black Dragon has awakened...
@@ -49381,7 +47852,6 @@ Ruling Elder:
    You are distrupting the peace
    in our village. Please leave.
  
- Marbule (Another):
  
  Demi-human:
    A-Ahhh!!!
@@ -49389,7 +47859,6 @@ Ruling Elder:
  
  Demi-human:
    ......
-   .........
  
  Demi-human:
    What in Marbule's name
@@ -49421,7 +47890,6 @@ Ruling Elder:
  Demi-human Man:
    W-Who are you guys...?
  
- Witch Doctor's House, Marbule (Another):
  
 Witch Doctor:
    Unbelievable!
@@ -49432,7 +47900,6 @@ Witch Doctor:
    Ah, NEVERMIND!
    I don't believe you!
    
- Sky Dragon Isle (Another):
  
  Explorer Captain:
    Something seems to be
@@ -49456,7 +47923,6 @@ Witch Doctor:
    Seems like the Sky Dragon
    has left this island.
  
- Forbidden Island (Home):
  
  Woman:
    Will that man
@@ -49464,7 +47930,6 @@ Witch Doctor:
 
    I shall wait...
  
- Marbule (Another):
  
  Frightened Girl:
    I can't hear the
@@ -49489,7 +47954,6 @@ Witch Doctor:
    Hi, just passin' through?
    You should rest up a bit.
  
- Kiki's House, Arni (Home):
  
  Kiki's Dad:
    Just between you and me,
@@ -49510,7 +47974,6 @@ Witch Doctor:
    Oh...man...
    Maybe I'm overworked.
  
- Hydra Marshes (Home):
  
  Explorer:
    Have you guys ever heard of
@@ -49546,7 +48009,6 @@ Witch Doctor:
    Anyway, my explorer instincts tell
    me they definitely know something!
  
- Viper Manor (Another):
  
  Porre Soldier:
    We have orders not
@@ -49567,7 +48029,6 @@ Witch Doctor:
  Porre Soldier:
    This place is closed down.
  
- Termina (Another):
 
  Man:
    Y-You are...!
@@ -49602,7 +48063,6 @@ Witch Doctor:
    eyes, as if he hated
    everything in the world...
  
- Marbule (Home):
  
  Demi-human:
    Welcome to Marbule!!!
@@ -49663,7 +48123,6 @@ Witch Doctor:
    Ohhh, it feels like
    love is in the air...!
  
- Child's House, Marbule (Home):
  
  Demi-human Child:
    Whoo-hoo!
@@ -49674,7 +48133,6 @@ Witch Doctor:
    sunroof and lighten it up.
    Then we can all live here happily!
  
- Strange House, Marbule (Home):
  
  Crewman:
    I'm the luckiest
@@ -49685,7 +48143,6 @@ Witch Doctor:
    Yes...
    Därling.
  
- Witch Doctor's House, Marbule (Home):
  
  Crewman:
    This doctor is great, man!
@@ -49737,7 +48194,6 @@ Witch Doctor:
    One of these days, I'll
    prove myself worthy.
  
- Bro of G's Shop, Marbule (Home):
  
  Bro of G:
    Bro of G's Shop:
@@ -49746,7 +48202,6 @@ Witch Doctor:
 
    Thanks, baby!!!
  
- Black Dragon Cave, Marbule (Home):
  
  Demi-human Man:
    HEY!!!
@@ -49776,7 +48231,6 @@ Witch Doctor:
    I'm planning to open up a
    smithy with my earnings.
  
- Sky Dragon Isle (Home):
  
  Explorer:
    That thing left this place.
@@ -49803,7 +48257,6 @@ Witch Doctor:
    Member: received the
    '"Our Favorite Martian"' frame!
  
- Termina (Another):
  
  Overseer:
    Hick...
@@ -49814,7 +48267,6 @@ Witch Doctor:
    Aha aha aha.
    Uh-huh, I feel good!
  
- Water Dragon Isle (Another):
  
  Explorer:
    ~!?~
@@ -49857,7 +48309,6 @@ Witch Doctor:
    Even though it's rare, the Rainbow
    wouldn't be of any use to me.
  
- Water Dragon Isle (Home):
  
  Fairy:
    Razzly has inherited the spirit
@@ -49888,7 +48339,6 @@ Witch Doctor:
    ...If you have no business
    here then please leave.
  
- Arni (Another):
  
  Man:
    Did you hear!?
@@ -49907,7 +48357,6 @@ Witch Doctor:
    If I were you, I'd try to
    find a safe place to hide.
  
- Termina (Another):
  
  Porre Soldier:
    I saw a mysterious light
@@ -49939,12 +48388,10 @@ Witch Doctor:
  Overseer:
    H-help...!
 
- Library, Viper Manor (Another):
  
  System:
    The door won't open.
  
- Guldove (Another):
  
  Boy:
    Wow, did you see that?
@@ -50016,7 +48463,6 @@ Witch Doctor:
    lifted off the ground!
    What has caused this catastrophe?
  
- SS Invincible (Another):
  
  Pirate:
    Life is but an empty dream...
@@ -50029,7 +48475,6 @@ X-Riddel Groupie:
    Sigh...
    Life sucks...
   
- Chief's Hut, Arni (Home):
  
  Woman:
    I don't care if you're
@@ -50044,7 +48489,6 @@ X-Riddel Groupie:
    Ah, excuse me Chief,
    but I was here first.
  
- Pearly Gates (Another):
  
  Explorer Captain:
    Legend has it that the people who
@@ -50075,7 +48519,6 @@ X-Riddel Groupie:
    I think it's impossible
    to get in from here.
  
- Black Dragon Cave, Marbule (Home):
  
    Hey, what'll it be!?
    The water quality here
@@ -50084,7 +48527,6 @@ X-Riddel Groupie:
    
    Thanks!!!
  
- Sick Girl's House, Termina (Home):
    That alley cat was just
    a Porre spy, wasn't it?
    How dare he have the
@@ -50092,7 +48534,6 @@ X-Riddel Groupie:
    house, gosh...!
    Argh, it makes me so mad!!!
  
- Inn, Termina (Another):
  
  Innkeeper:
    There's a soldier over
@@ -50102,7 +48543,6 @@ X-Riddel Groupie:
    They scared away a lot tourists,
    and it's hurting our business.
  
- Stable, Viper Manor (Another):
  
    Master!
    The Porre soldiers
@@ -50110,7 +48550,6 @@ X-Riddel Groupie:
    All that is left now
    is for you to return...
  
- Kiki's House, Arni (Home):
  
  Kiki's Dad:
    Hi there, Serge.
@@ -50137,7 +48576,6 @@ X-Riddel Groupie:
    thank you, Serge.
    That's a load off my mind.
    
- Doc's Clinic, Guldove (Another):
    
  Woman:
    With such a bizarre thing occuring,
