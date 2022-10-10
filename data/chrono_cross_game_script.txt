@@ -225,18 +225,18 @@ Radius:
    to join everyone
    for my lecture?
    Today's lecture is
-   '"The Fundamentals
+   'The Fundamentals
    of Attack and the
-   Art of Elements."'
+   Art of Elements.'
 
 Radius:
    How about it?
    Would you like to
    join my lecture?
    Today's lecture is
-   '"The Fundamentals
+   'The Fundamentals
    of Attack and the
-   Art of Elements."'
+   Art of Elements.'
 
    ~~~Sure
    ~~~Maybe next time
@@ -300,7 +300,7 @@ Radius:
    You know that the three different
    attack levels -- Weak, Strong,
    and Fierce -- each have differing
-   accuracy, or \'"\HIT%\"'\ values, don't you?
+   accuracy, or \'\HIT%\'\ values, don't you?
    Every time you hit your opponent,
    each of these values increase to
    make it easier for your next
@@ -342,7 +342,7 @@ Radius:
    When you use an Element, the
    color of that Element's attribute
    remains on the battlefield in
-   the form of the \'"\Field Effect!\"'\
+   the form of the \'\Field Effect!\'\
    Each time you consecutively use
    the same-colored Elements, the
    effectiveness of that colored
@@ -369,14 +369,14 @@ Radius:
    up, boy! It takes some explaining!
 
 Radius:
-   First, you've got to choose \'"\Attack\"'\
+   First, you've got to choose \'\Attack\'\
    to do some physical damage to your
    opponent in order to get started!
    Weak(1), Strong(2), and Fierce(3)
    attacks each add 1, 2, or 3 points
    to your Element Power Level.
    Your current level is the number
-   that appears above the \'"\Lv\"'\ symbol
+   that appears above the \'\Lv\'\ symbol
    under your name there, son!
    Oh, I nearly forgot to tell you!
    You won't accumulate any power
@@ -391,7 +391,7 @@ Radius:
    all about!
    Once you've built up some power,
    you will be able to choose the
-   \'"\Element\"'\ option from the battle
+   \'\Element\'\ option from the battle
    menu.
    When you select the Element option,
    gray-colored rectangular plates
@@ -426,10 +426,10 @@ Radius:
    There are some Elements that
    disappear in a puff of smoke each
    time you use them! The Element
-   \'"\Tablet\"'\ is just one example!
-   These are called \'"\Consumable
-   Elements,\"'\ and they have the symbol
-   \'"\\Object\\"'\ in front of their names. These
+   \'\Tablet\'\ is just one example!
+   These are called \'\Consumable
+   Elements,\'\ and they have the symbol
+   \'\\Object\\'\ in front of their names. These
    don't regenerate after each battle.
    However, the benefit of such
    Consumable Elements is that you
@@ -440,7 +440,7 @@ Radius:
    Basic Elements, which normally can
    only be used once in any one battle.
    That is why Consumable Elements also
-   have a number such as \'"\x5\"'\ after
+   have a number such as \'\x5\'\ after
    their names. That's the number you
    currently hold in that Grid position.
    This number will decrease as the
@@ -454,21 +454,21 @@ Radius:
    I'm sure you'll notice that each
    time you use an Element, your
    Element Power Level (as shown by
-   the \'"\Lv\"'\ number) will go down.
+   the \'\Lv\'\ number) will go down.
    It's just simple subtraction, really!
    For instance, say you're currently
-   at \'"\Lv 3\"'\ and you decide to use a
-   "\Tablet\"'\ Element allocated at
-   "\Lv 1\" in your Element Grid!
+   at \'\Lv 3\'\ and you decide to use a
+   \Tablet\'\ Element allocated at
+   \Lv 1\ in your Element Grid!
    In this case 3 minus 1 leaves 2.
    So your current Element Power Level
-   will now be changed to \'"\Lv 2\"'\!
+   will now be changed to \'\Lv 2\'\!
    You can use Elements anytime, so long
    as your Stamina value is above 1.0.
    So in this case, you'll still be
    able to use Elements with a Power 
-   Level of up to "Lv 2" right
-   after using the "Tablet" Element!
+   Level of up to Lv 2 right
+   after using the Tablet Element!
 
 Radius:
    Did you get the gist of it, sonny?
@@ -532,7 +532,7 @@ Radius:
  Toma:
    Yo, my name's Toma the 14th!
    But people usually put
-   '"The Great Explorer"'
+   'The Great Explorer'
    in front of my name!
 
 The Great Explorer Toma:
@@ -1002,7 +1002,7 @@ Poshul:
    Serge!
    You're finally up!
    Thomething went
-   '"whoosh,"' and
+   'whoosh,' and
    Me wath out cold, too.
 
 Poshul:
@@ -1312,7 +1312,7 @@ A reminder of one's former self...
 Karsh:
    That doesn't matter!
    We found the boy here,
-   just as '"he"' said we
+   just as 'he' said we
    would, didn't we?
 
 Karsh:
@@ -1488,7 +1488,7 @@ Girl:
    My name's...
 
 Kid:
-   Call me '"Kid."'
+   Call me 'Kid.'
    Nice to meet ya.
 
 Kid:
@@ -2791,7 +2791,7 @@ Riddel:
    Daddy's face shows such
    anguish, and even Karsh
    was saying he was sent
-   on a '"ghost-hunt"'...
+   on a 'ghost-hunt'...
 
  Glenn:
    Miss Riddel...
@@ -3185,7 +3185,7 @@ Zippa:
    Come and take a look.
    
 Zippa:
-   Do ye have any '"iron"'
+   Do ye have any 'iron'
    with ye? We've been out of
    it for the longest time...
    We could make stonger items
@@ -3696,8 +3696,8 @@ Man:
    Listen to my song!
 
 Man:
-   '"Ohhh oooh oooh...Ì
-    Sweet sister of mine...Ì"'
+   'Ohhh oooh oooh...Ì
+    Sweet sister of mine...Ì'
 
 Man:
    Dammit!
@@ -3981,7 +3981,7 @@ Member:
 
  System:
    Member: received the
-   '"Skullduggery"' frame!
+   'Skullduggery' frame!
 
  Monster:
    ByE-ByE... ByE-ByE...
@@ -4047,7 +4047,7 @@ Solt:
    brilliant Element
    this time, Peppor...
    It's a new...
-   \'"\Summoning Element!\"'\
+   \'\Summoning Element!\'\
 
 Peppor:
    Shaking!!!
@@ -4754,7 +4754,7 @@ Member:
    the dragons angry!
    You're disgracing
    the good name of
-   '"Master Dragon Feeder!"'
+   'Master Dragon Feeder!'
 
    No, no, no!
    You're making the
@@ -4774,7 +4774,7 @@ Member:
 
    As of today, you are
    now officially the
-   '"Master Dragon Feeder."'
+   'Master Dragon Feeder.'
 
    Excellent!
    A job well done.
@@ -5646,7 +5646,7 @@ Prophet:
    That is how you made it to
    the present point in time.
    However, here in this
-   '"alternate"' world,
+   'alternate' world,
    you are, in fact,
    very dead and buried.
    You died 10 years ago, but
@@ -5667,8 +5667,8 @@ Prophet:
    The locations where such
    divisions in the time-space
    continua occur are called,
-   '"ANGELUS ERRARE"' -
-   '"Where Angels Lose Their Way."'
+   'ANGELUS ERRARE' -
+   'Where Angels Lose Their Way.'
    It is said that, there, the
    borders of two dimensions
    fluctuate in such a way as to
@@ -6444,7 +6444,7 @@ Korcha:
    El Nido...
 
 Korcha:
-   What do you mean, '"extinct?"'
+   What do you mean, 'extinct?'
    What's goin' on!?
 
 Doc:
@@ -6924,7 +6924,7 @@ Direa:
    The key that connects
    your world, to this one.
    ...Shall we say, it is a
-   '"Dimensional Distortion"'
+   'Dimensional Distortion'
    of sorts?
 
 Steena:
@@ -6947,8 +6947,8 @@ Direa:
    
 Steena:
    El Nido has long been called
-   "'The Land Where the Dragons
-   Sleep."'
+   'The Land Where the Dragons
+   Sleep.'
    There are islands named
    after Dragons...and numerous
    Dragonian ruins and artifacts.
@@ -6958,7 +6958,7 @@ Steena:
    of the Sky Dragon, the Earth
    Dragon, and the Water Dragon.
    And the ancient ruin,
-   '"Fort Dragonia,"'
+   'Fort Dragonia,'
    that lies to the east.
    Of the many Dragonian ruins,
    Fort Dragonia is one of the few
@@ -6967,7 +6967,7 @@ Steena:
 Direa:
    The key to activate
    this ruin is the
-   '"Dragon Tear"'...
+   'Dragon Tear'...
    It was given to our ancestors
    by the extinct Dragonians as a
    symbol of our friendship.
@@ -7034,8 +7034,8 @@ Steena:
    I find that truly puzzling...
 
 Steena:
-   I believe that there is a '"key
-   item"' that you need to make
+   I believe that there is a 'key
+   item' that you need to make
    the jump between worlds.
    Something that matches the
    missing piece of the puzzle.
@@ -7068,7 +7068,7 @@ Steena:
 Direa:
    Nod... That is correct.
    This Dragonian ruin is a product
-   of their '"crystal of wisdom."'
+   of their 'crystal of wisdom.'
    Its power is unknown, yet much
    too powerful for any human.
    If the ruin were to be
@@ -7124,7 +7124,7 @@ Direa:
    Yet there is still one Dragon
    God that watches over us...
    The four-winged white dragon.
-   His name, '"Sky Dragon"'...
+   His name, 'Sky Dragon'...
    The pillar of the 6 Dragon Gods
    who has watched over El Nido
    through the ages.
@@ -7143,11 +7143,11 @@ Steena:
 Direa:
    The gods that represent
    each Element are called the
-   '"Dragon Gods."'
+   'Dragon Gods.'
    Since they symbolize the
    powers of nature, they are
    also commonly referred to
-   as the '"Gods of Nature."'
+   as the 'Gods of Nature.'
 
 Steena:
    If the sun is white,
@@ -7236,8 +7236,8 @@ Steena:
    a phrase that refers to the evil
    sealed away by the 6 Dragons.
    This phrase follows after it:
-   '"...the evil flame that sought to
-   engulf the world..."'
+   '...the evil flame that sought to
+   engulf the world...'
 
 Steena:
    ...An evil flame.
@@ -7271,7 +7271,7 @@ Direa:
 Direa:
    One such point is the
    place we call the
-   '"Divine Dragon Falls."'
+   'Divine Dragon Falls.'
    But its name has been
    all but forgotten on
    the main island.
@@ -7386,7 +7386,7 @@ Korcha:
    this subtle texture...!
    This must be the famous,
    rare drink of Dragonians,
-   the '"Dragon's Glory!"'
+   the 'Dragon's Glory!'
 
 Korcha:
    (I thought this might
@@ -7489,8 +7489,8 @@ Korcha:
    Really?
    That's weird...
    I wonder if the saying
-   '"Ships are not what 
-   they seem,"' is true...
+   'Ships are not what 
+   they seem,' is true...
    I gotta do some
    research on that...
  
@@ -7669,7 +7669,7 @@ Romana:
 
 Greco:
    Yes, I was once possessed
-   by the '"darkness"'...
+   by the 'darkness'...
    Back then, I entered the ring
    and did as I pleased to fulfill
    my appetite for destruction.
@@ -7700,7 +7700,7 @@ Greco:
 Zippa:
    Do ye know about this?
    There is an amazin' material
-   called the '"rainbow,"'
+   called the 'rainbow,'
    that can be forged into
    very fine items.
    When we were young, we went
@@ -7816,7 +7816,7 @@ Dishwasher:
    
 Luccia:
    Dis Homosap flower
-   is called '"NeoFio."'
+   is called 'NeoFio.'
    As it matures, it vill
    behave just like a human.
 
@@ -7835,7 +7835,7 @@ Luccia:
 Luccia:
    One is able to train it
    if it blossoms.
-   But a '"Life Sparkle"' is
+   But a 'Life Sparkle' is
    neccessary for dat.
 
 Luccia:
@@ -8422,7 +8422,7 @@ Korcha:
    I hate cold and clammy
    places! Besides, we ain't
    got time to sit and toast
-   '"marshmallows,"' man!
+   'marshmallows,' man!
 
 Member:
    Serge!
@@ -8469,7 +8469,7 @@ Member:
    
 BubbaBeeba:
    This beeba the wrong place!
-   This isn't the '"wide open space"'
+   This isn't the 'wide open space'
    I was talking about!
 
  Member:
@@ -9533,7 +9533,7 @@ Kid:
 Mel:
    Arrrgh... Ohhh,
    I said, don'tCHA call
-   me a '"little 'un!!!"'
+   me a 'little 'un!!!'
 
 Korcha:
    ...Hey,
@@ -9760,7 +9760,7 @@ Kid:
 
 Korcha:
    I said,
-   '"I WANTCHA TO BE MY WIFE!"'
+   'I WANTCHA TO BE MY WIFE!'
    
 Kid:
    ...!!!
@@ -10098,11 +10098,11 @@ Macha:
    You know what frames
    are, right?
    This frame is called
-   '"Tropical Paradise."'
+   'Tropical Paradise.'
  
  System:
    Member: received the
-   '"Tropical Paradise"' frame!
+   'Tropical Paradise' frame!
 
 Korcha:
    Don't get me wrong!
@@ -10530,7 +10530,7 @@ Guile:
 Guile:
    Ma'am, I have learned that
    the world is full of
-   '"enigma."'
+   'enigma.'
    I will be joining their journey
    for a while. Take care, and we
    might engage in another high-
@@ -11249,8 +11249,8 @@ Skelly:
    I'm sad. I'm crying
    because I'm so happy.
    You always told me,
-   '"Don't hold back tears
-   of joy."'
+   'Don't hold back tears
+   of joy.'
 
  Grandma:
    Skelly...
@@ -11599,9 +11599,9 @@ Fargo:
    Polly!!!
    
  Pirate:
-   '"You land-lubbers.
+   'You land-lubbers.
     You're a waste of
-    me time."'
+    me time.'
    ...Is what he said.
 
 Fargo:
@@ -11614,8 +11614,8 @@ Polly:
    Gya-Gya-Gya-Gya-Gya-Gya-Gya
    
  Pirate:
-   '"Not bad, mateys...
-    We'll meet again."'
+   'Not bad, mateys...
+    We'll meet again.'
    ...Is what he said.
 
    Fargo:
@@ -11874,8 +11874,8 @@ Member:
  
  System:
    There's a note...
-   '"Key duty is a
-    big responsibility!"'
+   'Key duty is a
+    big responsibility!'
  
  Pirate:
    You wanna know who's
@@ -11977,7 +11977,7 @@ Member:
 
  System:
    Serge borrowed
-   the '"key."'
+   the 'key.'
    
  Pirate:
    What the...
@@ -12002,7 +12002,7 @@ Member:
    
  System:
    Serge borrowed
-   the '"key."'
+   the 'key.'
 
  SS Invincible:
  
@@ -12030,7 +12030,7 @@ Member:
 
  System:
    Serge received
-   the '"key."'
+   the 'key.'
    
    Did ya find the key?
    Oh good.
@@ -12071,7 +12071,7 @@ Member:
    Please help out Cap'n Fargo.
    
  System:
-   Used '"key!"'
+   Used 'key!'
    
  
  Pirate:
@@ -12094,7 +12094,7 @@ Member:
    
    Status abnormalities removed!!!
 
-   Member: was '"Poisoned"'...
+   Member: was 'Poisoned'...
 
    Heh?
    Well, it's still in the testing phase.
@@ -12512,7 +12512,7 @@ Doc:
    I am sorry.
    I do not know...
    He only told me that he
-   '"came from the mainland."'
+   'came from the mainland.'
 
    Kid:
    ...Came from the mainland?
@@ -12618,7 +12618,7 @@ Kid:
    ruin that the Dragonians
    left on this planet.
    From what I hear, we
-   need the '"Dragon Tear"'
+   need the 'Dragon Tear'
    to activate the fort.
 
 Kid:
@@ -12758,7 +12758,7 @@ Kid:
    You heard the story from the
    village shaman, right?
    The story about the
-   '"Land of Genesis."'
+   'Land of Genesis.'
 
 Member:
    Kid, are you
@@ -12837,7 +12837,7 @@ Kid:
    The rest is up to you,
    Serge.
    We need to first get that
-   '"divine protection"' or
+   'divine protection' or
    whatever from the
    Water Dragon.
 
@@ -12851,7 +12851,7 @@ Kid:
 
 Kid:
    We gotta head to the
-   '"Land of Genesis."'
+   'Land of Genesis.'
    The place where this all began!
    Only you know where that is.
    Before we go, I'll leave this
@@ -12902,7 +12902,7 @@ Kid:
    Yeah, so this is it...
    The point of contact, and
    the starting point...
-   This is the '"Cross Point."'
+   This is the 'Cross Point.'
 
 Kid:
    What do you expect
@@ -13191,8 +13191,8 @@ Dwarf Chieftain:
    I told you, we will not let you go.
    The shot we just fired is our
    prized Element cannon.
-   Hehehe...causing '"physical
-   disabilities"' is just one of
+   Hehehe...causing 'physical
+   disabilities' is just one of
    its many features...
    If you wish, we can blow you to
    pieces!
@@ -13419,11 +13419,11 @@ Water Dragon:
 
 Water Dragon:
    It is but a trifle for we
-   '"Sleeping Dragons,"' who hath
+   'Sleeping Dragons,' who hath
    dwelt upon this land for ages...
    Mount Pyre, the land thou
    seeketh is home to the
-   '"Fire Dragon."'
+   'Fire Dragon.'
    Unless thou quench his red
    blazes, it will prove a
    difficult journey.
@@ -13462,8 +13462,8 @@ Water Dragon:
  
  Fairy:
    They said that they
-   '"were chased out of the
-   forest by the humans."'
+   'were chased out of the
+   forest by the humans.'
    And they drifted
    down to our island...
    so the humans are to blame!!!
@@ -13840,7 +13840,7 @@ Solt:
 
 Peppor:
    You mean one of those
-   \'"\Summoning Elements?\"'\
+   \'\Summoning Elements?\'\
    Now we're shaking!
 
 Solt:
@@ -13853,7 +13853,7 @@ Solt:
 
 Peppor:
    ......!?
-   What do you mean, you \'"\lost\"'\ it?
+   What do you mean, you \'\lost\'\ it?
    Don't tell me you dropped it or
    your dog ate it or some other
    stupid excuse like that!
@@ -13883,7 +13883,7 @@ Solt:
    mean he picked my pockets
    or anything like that!
    I mean he took it from me by
-   laying a \'"\Trap Element\"'\ in
+   laying a \'\Trap Element\'\ in
    which my Element got caught!
 
 Peppor:
@@ -13915,7 +13915,7 @@ Solt:
    Element there, Peppor?
    I used a Trap Element
    designed exclusively to
-   capture \'"\BlackHole\"'\ Elements!
+   capture \'\BlackHole\'\ Elements!
    You see...each Trap Element
    only works on one kind of
    Element.
@@ -14832,7 +14832,7 @@ Harle:
    zat Serge character.
    Do you still remember?
    Ze place where it all started...
-   '"Where Angelz Lose Zeir Way"'...
+   'Where Angelz Lose Zeir Way'...
 
 Sprigg:
    
@@ -15122,7 +15122,7 @@ Marge:
    wasn't called
    the Dead Sea...
    Yes, I believe they called it
-   the '"Sea of Eden"'...
+   the 'Sea of Eden'...
    That was 14 years ago.
  
  
@@ -16012,7 +16012,7 @@ Zappa:
    Ah'm guessin' ye're no
    from around here.
    Do ye ken a thing called
-   the '"rainbow"'?
+   the 'rainbow'?
    It's a superb material that
    can be forged into anythin'.
    Ah'm thinkin' of searchin'
@@ -16558,7 +16558,7 @@ The Great Explorer Toma:
    to get inside the Dead Sea?
    Rumor has it, there's only
    one way...
-   '"Death's Door"'...
+   'Death's Door'...
    The entrance is out there,
    somewhere...
    Unfortunately, even I don't
@@ -16588,7 +16588,7 @@ The Great Explorer Toma:
    they touch you. So there's no
    way to communicate.
    I think people call them
-   '"The Black Nightmare."'
+   'The Black Nightmare.'
    I guess they're like a
    bad dream. Maybe a song
    would wake them up?
@@ -16694,7 +16694,7 @@ Member:
    
 Member:
    So, the real body
-   of the "monster"
+   of the monster
    was this small?
    
  Starky:
@@ -16872,7 +16872,7 @@ Irenes:
    Ünderstood.
    Let me get to the pöint.
    Yoü have täken awäy the
-   '"söng"' of the demi-hümans.
+   'söng' of the demi-hümans.
    In ötter words, we would like
    yoü to free the säge...
 
@@ -17021,7 +17021,7 @@ Old Man:
    But now he's down in the dumps,
    moppin' the floors of the Zelbess.
    Through this door is the
-   '"Grand Slam,"' a world where
+   'Grand Slam,' a world where
    the weak are victims of the strong!
    Power is justice!
    Just what the captain preaches!
@@ -17153,7 +17153,7 @@ Sneff:
    I will turn you
    into a cat...!
    I call it...
-   '"Cat on a Hot Tin Rooff!"'
+   'Cat on a Hot Tin Rooff!'
 
 Sneff:
    So, what do you fink?
@@ -17326,7 +17326,7 @@ Fargo:
    The usual, Captain?
 
    Fargo:
-   Yes, '"Sudden Death."'
+   Yes, 'Sudden Death.'
    The rules are simple.
    Press the x Button after
    the dealer spins the compass.
@@ -17494,9 +17494,9 @@ Fargo:
 Fargo:
    You would look into
    the mirror and say...
-   '"How I pity you, mirror,
+   'How I pity you, mirror,
     for man does not see you
-    as the mirror that you are."'
+    as the mirror that you are.'
    Did I see you as who you
    were back then?
    And is that my true
@@ -17570,7 +17570,7 @@ Irenes:
    I am gläd yoü accept.
    I believe the säge can
    be. found outside a pläce
-   called the '"Grand Slam."'
+   called the 'Grand Slam.'
 
 Nikki:
    You know...
@@ -18471,7 +18471,7 @@ Nikki:
 Sage:
    Heh heh heh...
    I trust you will
-   put on a good '"gig!"'
+   put on a good 'gig!'
 
 Irenes:
    Excüse me...
@@ -18518,9 +18518,9 @@ Miki:
    Oh, and I have a message
    from the sage.
    It says...
-   '"Use the Fiddler Crab
+   'Use the Fiddler Crab
     where the tide around
-    the Dead Sea differs."'
+    the Dead Sea differs.'
    I have no idea what it means.
    I hope you do!
    
@@ -18669,7 +18669,7 @@ Member:
    
 Radius:
    We know it today as the
-   '"Isle of the Damned."'
+   'Isle of the Damned.'
    It used to be an ordinary cavern
    until it mutated into a nesting
    ground for demons...
@@ -18823,7 +18823,7 @@ Radius:
 
 Radius:
    Let us be off to the
-   '"Isle of the Damned."'
+   'Isle of the Damned.'
  
  Isle of the Damned:
    ~~~~Member:
@@ -18897,8 +18897,8 @@ Radius:
    I wanted to be the better
    swordsman.
    The once renowned Masamune...
-   '"The Holy Sword That
-   Conquered Darkness."'
+   'The Holy Sword That
+   Conquered Darkness.'
    Could it be merely a
    tool for murder...?
  
@@ -19043,7 +19043,7 @@ Norris:
    Unknown Life Force,
     Parasitic to the Planet:
    Geologic Stratum Result - 65,000,000 B.C.
-   Code - '"Lavos"'
+   Code - 'Lavos'
  
 Member:
    Norris?
@@ -19069,7 +19069,7 @@ Norris:
    to gather further information.
    Damn... We were so close
    to learning more about
-   '"Lavos"'...
+   'Lavos'...
    
 Norris:
    We will not be able to find
@@ -19341,9 +19341,9 @@ Member:
    That's good news for us.
  
  Enertron:
-   '"This is an Enertron.
+   'This is an Enertron.
     You get a full night's
-    sleep in a few seconds."'
+    sleep in a few seconds.'
 
    Will you rest in
    the Enertron?
@@ -19551,7 +19551,7 @@ Harle:
    ......
    
 Miguel:
-   '"Fate."'
+   'Fate.'
    Our lives are governed
    by fate.
    Fate knows all
@@ -19722,7 +19722,7 @@ Miguel:
    Perhaps, or perhaps not...
    Either way, it is all part of
    the grand game of the gods...
-   and '"goddesses!"'
+   and 'goddesses!'
    People are dragged into playing
    this game...forced to put their
    own lives on the line...without
@@ -19827,7 +19827,7 @@ Sky Dragon:
 
    Let the path to the Sea of Eden
    be known when all the powers of
-   the '"Sleeping Dragons"' are
+   the 'Sleeping Dragons' are
    brought together...
  
 Member: 
@@ -20094,7 +20094,7 @@ Van:
 Van:
    How dare you!
    What do you mean
-   '"BLOCKHEAD!?"'
+   'BLOCKHEAD!?'
 
 Van:
    Oh well, keep workin'
@@ -20500,7 +20500,7 @@ Karsh:
 
 Zippa:
    Don't worry.
-   Yir '"illustration books"'
+   Yir 'illustration books'
    are safely stored away.
 
 Karsh:
@@ -20745,7 +20745,7 @@ Porre Officer:
 
 Porre Officer:
    Call in the cook!
-   The '"hell"' one, of course...
+   The 'hell' one, of course...
 
  Porre Soldier:
    Yes, sir!
@@ -21562,7 +21562,7 @@ Luccia:
  
  System:
    It says,
-   '"Respect my behind."'
+   'Respect my behind.'
  
    There's a letter inside.
  
@@ -22509,7 +22509,7 @@ BubbaBeeba:
    You beeba brave.
    This beeba a token of
    my appreciation.
-   It beeba '"Ancient Fruit,"' which
+   It beeba 'Ancient Fruit,' which
    grows in Ancient Ground.
  
  System:
@@ -22760,7 +22760,7 @@ Orlha:
 
 Orlha:
    According to old legends,
-   '"Twins are signs of tragedy..."'
+   'Twins are signs of tragedy...'
    When I was a child, I was
    separated from my mother and
    sister, who left El Nido...
@@ -22800,7 +22800,7 @@ Orlha:
    This blue gem... This is the only
    one that exists in this world.
    That means it is proof
-   you are the real '"Serge."'
+   you are the real 'Serge.'
 
 Orlha:
    So, please keep it with you
@@ -23002,7 +23002,7 @@ Dario:
    could this be?
    
 Riddel:
-   It is a '"bellflower."'
+   It is a 'bellflower.'
    
 Dario:
    Miss Riddel, if you ever
@@ -23884,8 +23884,8 @@ Sage:
    I cannot do!
    
  Miki:
-   '"Cannot"' is different
-   from '"will not!"'
+   'Cannot' is different
+   from 'will not!'
    Please promise to grant
    this one petition!
    
@@ -24389,7 +24389,7 @@ Steena:
    Gods with your own eyes.
    I can sense that...
    I shall lend the Dragonian
-   artifact '"Dragon Tear"'
+   artifact 'Dragon Tear'
    to the one chosen by the 
    Dragon Gods...
  
@@ -25514,7 +25514,7 @@ Water Dragon:
    they are none other than the god
    who decides the world's fate,
    the god that rules mankind,
-   '"FATE."'
+   'FATE.'
    For mankind to be mankind...
    For the planet to be a planet...
    Thou who is bound by fate.
@@ -25605,13 +25605,13 @@ BubbaBeeba:
    ~~~What's a Wingapede?
    
 BubbaBeeba:
-   The legendary '"Ancient Ground"'
+   The legendary 'Ancient Ground'
    of us Beebas. You know it as
-   '"Gaea's Navel."'
+   'Gaea's Navel.'
    It beeba a remote island surrounded
    by cliffs, in the sea of El Nido.
    It beeba a mystical place where
-   a '"Primeval Forest"' may still exist.
+   a 'Primeval Forest' may still exist.
    
 BubbaBeeba:
    That beeba what elder said long ago.
@@ -25621,7 +25621,7 @@ BubbaBeeba:
 BubbaBeeba:
    With the flute alone, even
    we Beebas will get attacked.
-   You need '"Ancient Fruit."'
+   You need 'Ancient Fruit.'
    We Beebas grow this fruit.
    It beeba big, but so is Wingapede.
 
@@ -25655,7 +25655,7 @@ BubbaBeeba:
    
 BubbaBeeba:
    You want to go to
-   '"Ancient Ground?"'
+   'Ancient Ground?'
    Then call Wingapede here.
    You beeba use flute and
    Ancient Fruit.
@@ -25932,7 +25932,7 @@ Captain:
 Captain:
    ...This is totally off the subject,
    but have you heard of a raw
-   material called '"rainbow?"'
+   material called 'rainbow?'
    It's a fossil of a rainbow shell,
    which used to exist long, long ago.
    It's a very rare item these days.
@@ -25957,7 +25957,7 @@ Captain:
  Explorer:
    You see that monster over there,
    sitting as still as a rock?
-   It's called a '"Rockroach."'
+   It's called a 'Rockroach.'
    It won't attack you as long
    as you don't approach it.
    It's pretty much harmless.
@@ -25968,7 +25968,7 @@ Captain:
 
    You see that monster over there,
    sitting as still as a rock?
-   It's called a '"Rockroach."'
+   It's called a 'Rockroach.'
    It won't attack you as long
    as you don't approach it.
    It's pretty much harmless.
@@ -26175,8 +26175,8 @@ Steena:
    
 Steena:
    Now, take the Dragon Tear
-   with you...to the '"Room of
-   Rituals"' in Fort Dragonia.
+   with you...to the 'Room of
+   Rituals' in Fort Dragonia.
  
  
 Steena:
@@ -26437,7 +26437,7 @@ Steena:
    the heavens suddenly smashed
    their kingdom to pieces.
 
-   That one was known as '"Lavos!"'
+   That one was known as 'Lavos!'
    The great crimson flame......
    
    Wielding absolute power,
@@ -26445,24 +26445,24 @@ Steena:
    the kings of the land -
    in the space of a night.
 
-   However, the timid '"apes"'
+   However, the timid 'apes'
    who had lived hidden in
    the forests...
    
    ...came into contact with
    the crimsom flame
    that fell from the sky,
-   and evolved into '"humans."'
+   and evolved into 'humans.'
 
    Or perhaps it was
-   not '"evolution,"'
-   but '"transformation."'
+   not 'evolution,'
+   but 'transformation.'
    
    In this way, humans
    increased in number
    and filled the earth...
 
-   The fearsome '"progeny of Lavos"'
+   The fearsome 'progeny of Lavos'
    who, like their progenitor,
    began to devour our mother planet.
 
@@ -26533,7 +26533,7 @@ Doc:
 
 Doc:
    Should we say this medical book
-   is a '"legacy of the future"'
+   is a 'legacy of the future'
    ...per se?
    But, Serge.,
    are you sure you want
@@ -27171,10 +27171,10 @@ Irenes:
    From mötter and fätter!?
 
  Letter:
-   ~'"We präy dat you will
+   ~'We präy dat you will
    ~ find this üseful when yoü
    ~ find someone yoü wish to
-   ~ prötect."'
+   ~ prötect.'
    ~
     P.S.
     ~ Do not üse it to
@@ -27203,10 +27203,10 @@ Irenes:
    pärents!?
  
  Letter:
-   ~'"We präy dat you will
+   ~'We präy dat you will
    ~ find this üseful when yoü
    ~ find sömeone yoü wish to
-   ~ prötect."'
+   ~ prötect.'
     ~
      P.S.
      ~ Do not üse it to
@@ -27266,8 +27266,8 @@ Toma:
    Maybe it's about time for me 
    to settle down instead of going
    on these bogus expeditions?
-   Errr... I mean '"audacious
-   expeditions."'
+   Errr... I mean 'audacious
+   expeditions.'
    
  Toma's Wife:
    Hon-ëy!
@@ -27311,7 +27311,7 @@ Toma:
    I want you to have it now.
 
    Member received the
-   '"Quill and Papyrus"' frame!
+   'Quill and Papyrus' frame!
  
  Toma's Wife:
    Blush!
@@ -27351,8 +27351,8 @@ Leena:
    promise you two made.
    
    Something about
-   '"We'll never forget
-    this day!"'
+   'We'll never forget
+    this day!'
     
     I really don't know
     what's going on, but...
@@ -27379,8 +27379,8 @@ Leena:
    childhood.
 
    Something about
-   '"We'll forget it
-    eventually..."'
+   'We'll forget it
+    eventually...'
     
  Leena:
     And the first time
@@ -27748,7 +27748,7 @@ Mojo:
    I feel ashamed...
    
    So you're saying there's
-   another '"me"' who's
+   another 'me' who's
    a fisherman...?
    Sigh......
    Looks like the time
@@ -27762,7 +27762,7 @@ Mojo:
    Prehysteric dropped something...
 
    Member: received the
-   '"Snakes & Orbs"' frame!
+   'Snakes & Orbs' frame!
  
  
 Member:
@@ -27788,7 +27788,7 @@ Steena:
 Steena:
    Utilizing its power, we
    just may be able to create
-   the '"Chrono Cross"' here!
+   the 'Chrono Cross' here!
 
 Steena:
    Try placing the two
@@ -28181,8 +28181,8 @@ Member:
  
  Plaque:
    Chronopolis Military Research Center
-   '"May there be everlasting peace
-   ~for the children of the world."'
+   'May there be everlasting peace
+   ~for the children of the world.'
    ~~~~~2400 A.D.
    
  Ghost:
@@ -28467,7 +28467,7 @@ Member:
    The vessels of flesh can
    be reproduced through
    cloning...
-   And the '"soul"'
+   And the 'soul'
    stored within these
    fleshly vessels can
    be simulated as well...
@@ -28520,7 +28520,7 @@ Member:
    contamination caused by Lavos?
    That would mean that humans are
    really a heterogeneous life-form,
-   or '"foreign matter,"' as far as
+   or 'foreign matter,' as far as
    the planet is concerned.
    Humans are a sudden mutation
    caused by the contact with
@@ -28575,7 +28575,7 @@ Member:
    Sleeping and consuming the
    planet's energy up until the
    day of destruction known as
-   the '"Apocalypse."'
+   the 'Apocalypse.'
    There are those who believe
    that, 12 thousand years ago,
    the legendary ancient magical
@@ -28695,7 +28695,7 @@ Member:
  
  Ghost:
    Only personnel registered
-   as '"Arbiter"' may enter.
+   as 'Arbiter' may enter.
  
  Ghost:
    The experiment will begin soon.
@@ -28712,7 +28712,7 @@ Member:
    In the 11th Century, a scientist
    by the name of Lucca indicated the
    possibility of time travel through
-   the use of a '"Time Egg,"' which
+   the use of a 'Time Egg,' which
    utilizes miniature black holes.
    Whether this could actually be
    possible or not is still the
@@ -28814,7 +28814,7 @@ Member:
    We may appear to be a
    military research center,
    but we're actually conducting
-   research on '"time."'
+   research on 'time.'
    
  
  Chief:
@@ -28863,7 +28863,7 @@ Member:
  Ghost:
    The main computer
    of Chronopolis
-   is called '"FATE."'
+   is called 'FATE.'
 
  System:
    Member: found
@@ -28878,7 +28878,7 @@ Member:
    in different dimensions.
    Under the surveillance of the
    main computer of Chronopolis...
-   '"FATE."'
+   'FATE.'
    In other words, FATE, has
    always been observing the 2
    parallel worlds, and guiding them.
@@ -29050,7 +29050,7 @@ Member:
  
  Computer:
    Only personnel registered
-   as '"Arbiter"' may enter.
+   as 'Arbiter' may enter.
    Please conduct security
    check for verification.
    Unauthorized entry or
@@ -29100,7 +29100,7 @@ Member:
    the Frozen Flame.
  
  Computer:
-   '"Arbiter"' confirmed.
+   'Arbiter' confirmed.
    Access granted.
  
  
@@ -29214,7 +29214,7 @@ Lynx:
    Once the security card
    system was rebooted, it
    would only grant access
-   to you...the '"arbiter."'
+   to you...the 'arbiter.'
    You can't imagine the
    trouble this caused the
    FATE computer system in
@@ -29225,11 +29225,11 @@ Lynx:
    old Mother Brain generation.
    That circuit was designed to
    start a malfunction, or more
-   precisely, a '"rebellion."'
+   precisely, a 'rebellion.'
    
 Lynx:
    Who would have thought that
-   such a small bug, a '"traitor,"'
+   such a small bug, a 'traitor,'
    could exist inside of FATE?
    That hidden circuit was based
    on the initial Ashtear model
@@ -29316,7 +29316,7 @@ Lynx:
    Show me what the purpose of
    your life on this planet is...
    Teach me what it means to be
-   '"alive!!!"'
+   'alive!!!'
  
  Lynx:
    Is THAT the meaning
@@ -29778,7 +29778,7 @@ Masa:
 Doreen:
    Take care of the princess!
 
-   '"Mastermune!!!"'
+   'Mastermune!!!'
  
  
 Gato:
@@ -29898,13 +29898,13 @@ Mune:
    code for a new generation.
    It now replaces the old
    one my father once used...
-   Circle stands for '"O"'
-   Square stands for '"D"'
-   Triangle stands for '"A"'
-   Cross stands for '"X"'
+   Circle stands for 'O'
+   Square stands for 'D'
+   Triangle stands for 'A'
+   Cross stands for 'X'
    Using this, for example,
    the children will never
-   guess '"ROAD"' is spelt...
+   guess 'ROAD' is spelt...
    R-Circle-Triangle-Square
    My father, Taban, would
    be proud. Not to mention
@@ -29925,7 +29925,7 @@ Mune:
    It reads...
    Don't you children
    ever touch my
-   '"Space Capsule!"'
+   'Space Capsule!'
 
    A beautiful view of the
    expanses of...space!?
@@ -29992,7 +29992,7 @@ Mune:
    
    To put out the flames, you
    oughta try using
-   Lucca's '"Ice Gun"' invention!
+   Lucca's 'Ice Gun' invention!
    Sis said she keeps it on
    the wall in her room,
    up on the second floor!
@@ -30014,18 +30014,18 @@ Masa:
    A child's drawing
    hangs here...
      
-   '"robo made the desert green"'
+   'robo made the desert green'
    
-   '"Kid and auntie lucca...
-   oops, I mean Sis, hehe"'
+   'Kid and auntie lucca...
+   oops, I mean Sis, hehe'
 
-   '"ayla strong, grrr!"'
+   'ayla strong, grrr!'
 
-   '"crono is coool"'
+   'crono is coool'
 
-   '"call me Sis!"'
+   'call me Sis!'
 
-   '"princess marle to the rescue!"'
+   'princess marle to the rescue!'
  
  System:
    Dragon's power doesn't
@@ -30033,7 +30033,7 @@ Masa:
   
  Kid:
    It's burning...!
-   Our '"home"' is burning!
+   Our 'home' is burning!
    Lucca...
    All my friends...
    They're, they're...!!
@@ -30422,9 +30422,9 @@ Luccia:
    But sometimes I think of the darker
    side of what we did...
    What has become of the future that
-   was '"once"' supposed to have existed?
-   Where did the '"time"' that now is no
-   longer allowed to exist '"go?"'
+   was 'once' supposed to have existed?
+   Where did the 'time' that now is no
+   longer allowed to exist 'go?'
    
    It is true that, thanks to our
    altering the flow of history,
@@ -30484,7 +30484,7 @@ Luccia:
    I'm not the slightest bit
    worried about you, Kid!
    I know that, no matter what
-   happens, '"he"' will always be
+   happens, 'he' will always be
    there looking out for you!
 
    Or perhaps he has already
@@ -30492,7 +30492,7 @@ Luccia:
    your side as you read this?
    If so, hello, Janus!
    Please take good care of
-   my '"little sister"' for me!
+   my 'little sister' for me!
    
    There is so much more I want to
    to tell you, but I must leave it
@@ -30518,7 +30518,7 @@ Luccia:
    Cut out the tomboy act!
    Believe me! You'll become a
    beautiful young lady one day, or
-   my name isn't '"Lucca the Great!"'
+   my name isn't 'Lucca the Great!'
    
 Kid:
    Sorry, but...
@@ -30530,8 +30530,8 @@ Kid:
    Sis...
    You're the one who always
    laughed about how there's
-   nothin' '"definite"' or
-   '"certain"' in this world...
+   nothin' 'definite' or
+   'certain' in this world...
    Sis...
    
  System:
@@ -30591,15 +30591,15 @@ Nikki:
 Nikki:
    But one day, a woman stopped
    by my trailer and said...
-   '"Your songs sing of
+   'Your songs sing of
     magical dreams.
-    They're beautiful..."'
+    They're beautiful...'
    Those words made me
    so happy...
    That's when I decided that
    if I were ever to have my
    own band, I would name it
-   '"Magical Dreamers!!!"'
+   'Magical Dreamers!!!'
    
 Kid:
    Huh...
@@ -31070,7 +31070,7 @@ Belthasar:
 Belthasar:
    Anyway... I created a compact
    time machine that I dubbed
-   the '"Neo Epoch."'
+   the 'Neo Epoch.'
    I used it to time warp to this
    age to learn of Chronopolis and
    FATE's plans, and to see how
@@ -31083,7 +31083,7 @@ Belthasar:
 
 Belthasar:
    It was originally
-   '"Dinopolis"'...
+   'Dinopolis'...
    The castle of Azala's
    descendants, who achieved
    an evolution much more
@@ -31467,7 +31467,7 @@ Kid:
    
 Belthasar:
    That thing...
-   the '"Dragon God"'...
+   the 'Dragon God'...
    is only a quasi-existence...
    ...A temporary form that
    the real Dragon God uses
@@ -31499,7 +31499,7 @@ Belthasar:
    gain extraordinary powers!
    By binding with the new
    seed of destruction...
-   the '"Devourer of Time!"'
+   the 'Devourer of Time!'
 
 Kid:
    What in blazes is
@@ -31602,7 +31602,7 @@ Kid:
    Things won't ever go back
    to the way they were!
    Destiny...
-   '"Fate"'...
+   'Fate'...
    is dead!
    
 Kid:
@@ -31996,7 +31996,7 @@ Steena:
    This will be the last battle...
    The battle between the
    planet's guardian,
-   the '"Devourer of Time,"'
+   the 'Devourer of Time,'
    and we children of the planet...
  
    
@@ -32122,7 +32122,7 @@ Kid:
    ......
    
  Lucca:
-   And now, about '"Project Kid"'...
+   And now, about 'Project Kid'...
    the time control project
    Belthasar planned out.
    The whole project existed to
@@ -32183,7 +32183,7 @@ Kid:
    But of course you're
    beautiful! After all...
    you're the Great Lucca's
-   '"little sister!"'
+   'little sister!'
    
    Kid:
    ......
@@ -32217,7 +32217,7 @@ Kid:
    the two became one entity.
    It is now up to you, the one
    whom the Frozen Flame has
-   chosen as its '"arbiter"'...
+   chosen as its 'arbiter'...
    You alone can decide how
    the new Lavos, which has
    encaged Schala within it,
@@ -32239,7 +32239,7 @@ Kid:
    types of Elements produce!
    The melody and harmony that
    brim within all life-forms...
-   Use the '"song of life"' to heal
+   Use the 'song of life' to heal
    her enmity and suffering...
    We entreat you, Serge!
    Please save Schala...
@@ -32981,13 +32981,13 @@ Kid:
    Why do we die?
     
    Evolution?
-   The '"survival of the fittest?"'
+   The 'survival of the fittest?'
    What is there to be achieved from
    harming one another...
    killing one another...
 
-   The '"eggs"' that we call planets...
-   And the innumerable '"spermatozoa"'
+   The 'eggs' that we call planets...
+   And the innumerable 'spermatozoa'
    which gather around these
    that we call life-forms...
     
@@ -33016,7 +33016,7 @@ Kid:
    has a chance of becoming
    that one chosen life-form
    which inseminates a planet.
-   Yes, it could be '"you"'...
+   Yes, it could be 'you'...
    
    Genes and environment...
    Each of us tries to do his best
@@ -33040,7 +33040,7 @@ Kid:
    Every single thing
    in the whole of nature
    is perhaps just dreaming
-   a dream of '"life"'...
+   a dream of 'life'...
     
    All of them are also
    perhaps nothing more than
@@ -33421,10 +33421,10 @@ Pip:
    It was bloody good
    knowing ya, mate!
    Thanks for being born
-   '"you,"' Serge!
+   'you,' Serge!
    
    I guess now's the time to say,
-   '"see ya later, mate!"'
+   'see ya later, mate!'
    But...
     
    I'll find ya...
@@ -33503,7 +33503,7 @@ Leena:
    
    Forever yours,
    
-   Schala "Kid" Zeal
+   Schala Kid Zeal
  
  Ending Cutscene:
    
@@ -33536,7 +33536,7 @@ Leena:
 
 Peppor:
    W-Welcome to the
-   '"Development Room!"'
+   'Development Room!'
 
 Solt:
    Welcome!
@@ -33547,7 +33547,7 @@ Peppor:
    thanks? to the players.
    
 Solt:
-   What was that '"?"'
+   What was that '?'
    for, Peppor?
 
 Peppor:
@@ -33583,7 +33583,7 @@ Peppor:
 
 Peppor:
    A-Are you sure?
-   It's '"game over"' once you leave.
+   It's 'game over' once you leave.
    ~~~Yes
    ~~~Actually, I'll stay
 
@@ -33603,7 +33603,7 @@ Solt:
 
 Solt:
    Are you certainly certain!?
-   It will be '"game over"' if you leave!
+   It will be 'game over' if you leave!
    ~~~I'm certainly certain!
    ~~~Wait a momentous moment!
 
@@ -33689,7 +33689,7 @@ Richard Honeywood:
    
 Richard Honeywood:
    I work at SQUARE in
-   Tokyo where I "live"
+   Tokyo where I live
    with the Chrono Cross team.
    I was the Localization
    Director, the Localization
@@ -33709,7 +33709,7 @@ Richard Honeywood:
    translation and...
    leave it up to the program
    to convert it real-time into
-   the "voice" of whoever's
+   the voice of whoever's
    speaking at the time. So...
    I am also responsible
    for all those funny speech
@@ -33720,7 +33720,7 @@ Richard Honeywood:
    generated, right? Anyway,
    see you later, Serge!
    
-'"Sammy"' (Shigeto Matsushima):
+'Sammy' (Shigeto Matsushima):
    Hi! I'm one of the Localization
    Specialists at SQUARESOFT who worked
    on the US version of Chrono Cross.
@@ -33729,7 +33729,7 @@ Richard Honeywood:
    this room!
    I hope you've enjoyed the world
    of Chrono Cross and its strange...
-   (Ahem!)...'"unique"' inhabitants.
+   (Ahem!)...'unique' inhabitants.
    As our Localization Director,
    Richard, mentioned, this game
    would not have been possible
@@ -33754,7 +33754,7 @@ Richard Honeywood:
    them into the wonderful world of
    Chrono Cross! Thanks!
 
-'"Teddy"' (Yutaka Sano):
+'Teddy' (Yutaka Sano):
    Shake it, baby!!!
    Erk it!
  
@@ -33789,8 +33789,8 @@ Yoshiyuki Oku:
 Takashi Wakou:
    Many people come and go.
    Which brings me to the following:
-   '"As long as time and space is in
-   accord with me, then everything is fine."'
+   'As long as time and space is in
+   accord with me, then everything is fine.'
    This is what the other me is saying.
    That's how I felt about the project.
    I'm glad I was able to meet the other me.
@@ -33822,7 +33822,7 @@ Noriko Mitose:
    accomplish something.
    I hope to meet again.
    A message I leave behind...
-   '"Thank you."'
+   'Thank you.'
 
 Yoshitsugu Saito:
    The magnificent story of the planet
@@ -33913,7 +33913,7 @@ Yufuko Hatae:
    watching the sunrise and fireworks
    outside our office window,
    and a late night trip to the video
-   store in Ebisu to rent '"Flamenco."'
+   store in Ebisu to rent 'Flamenco.'
    I need to add variety to my daily routine.
    Do you think we'll meet again?
 
@@ -33979,9 +33979,9 @@ Kazuhiro Hasegawa:
    There are many people in various places.
    You act differently towards many.
    You're always searching for yourself.
-   What kind of '"you"' do you like?
-   And what kind of '"you"' do you want to be?
-   I hope you find the right '"you."'
+   What kind of 'you' do you like?
+   And what kind of 'you' do you want to be?
+   I hope you find the right 'you.'
    Good luck to you.
    ......
    This is according to specification!
@@ -34017,7 +34017,7 @@ Yukio Nakatani:
 
 Tomoko Murakami:
    Heee... I really like him...
-   That '"man with the goatee."'
+   That 'man with the goatee.'
    Dressed in black, on a southern island!
    What?
    He's too hairy?
@@ -34137,7 +34137,7 @@ Katsuhisa Higuchi:
    Kazumi...?
 
 Katsuhisa Higuchi:
-   That was "moving!"
+   That was moving!
    Who's next?
 
 Yoshiyuki Miyagawa:
@@ -34147,12 +34147,12 @@ Yoshiyuki Miyagawa:
 Katsuhisa Higuchi:
    Miya wrote the program
    sections that manipulate
-   "Effects"...
-   His "Effects" look like
+   Effects...
+   His Effects look like
    this...
 
 Katsuhisa Higuchi:
-   Mighty "effective,"
+   Mighty effective,
    don't you think?
    And lastly, but not
    leastly, we have...
@@ -34163,13 +34163,13 @@ Kohji Ohno:
    ...that's my name!
 
 Katsuhisa Higuchi:
-   He coded the "Special Effects"
+   He coded the Special Effects
    used in the battles, as well
    as the menu system's program.
    Go for it, Ohno!
 
 Katsuhisa Higuchi:
-   How "handy!"
+   How handy!
 
 Katsuhisa Higuchi:
    Oh, and as for me...
@@ -34217,8 +34217,8 @@ Ryo Tsurumaki:
    I was in charge of creating the field
    map ID data and mask processing.
    If you ever run into problems like
-   '"It's so hard to get around on this map!"',
-   or '"The character's clipping the chair!"'
+   'It's so hard to get around on this map!',
+   or 'The character's clipping the chair!'
    It's my fau... cough... It's a feature!
    Huh? ID data? Mask processing?
    Ohhh...
@@ -34551,7 +34551,7 @@ Kid:
 
 Norris:
    Stop complaining,
-   '"Bloody Rose."'
+   'Bloody Rose.'
    A spy must conduct
    field investigations.
   
@@ -34566,7 +34566,7 @@ Kid:
 Norris:
    You do not like it?
    Then how about
-   '"Red Scorpion?"'
+   'Red Scorpion?'
 
 Kid:
    That's not the
@@ -34811,7 +34811,7 @@ Korcha:
    Well?
    
 Macha:
-   '"Well,"' what?
+   'Well,' what?
    Aren'tCHA happy with
    the way things are, now?
 
@@ -35558,7 +35558,7 @@ Harle:
 Kid:
    Hah!
    It'll take a little more than
-   a '"pleaze"' to let you through.
+   a 'pleaze' to let you through.
    Over my dead body, I say!
 
 Harle:
@@ -35861,7 +35861,7 @@ Kid:
 
 Karsh:
    Then may I recommend our house
-   special, '"Galaxy Night?"'
+   special, 'Galaxy Night?'
    It is a mellow blend of
    bellflower and soda that
    is sure to quench the thirst.
@@ -35872,7 +35872,7 @@ Kid:
 
 Harle:
    I'll have ze
-   '"Denadoro Mountain Blend."'
+   'Denadoro Mountain Blend.'
    Oh, and make zat
    two cream, ten sugar.
    
@@ -35888,7 +35888,7 @@ Harle:
 Marcy:
    Hey, handsome...
    I'd like one of those
-   '"Galaxy Nights,"' too...
+   'Galaxy Nights,' too...
    Won't you buy me a drink?
 
 Serge:
@@ -35901,7 +35901,7 @@ Karsh:
    
 Karsh:
    3 orders of our house special,
-   '"Galaxy Night"'...
+   'Galaxy Night'...
    and one Denadoro Mountain
    Blend...two and ten!
 
@@ -36337,7 +36337,7 @@ Viper:
    And only then shall living
    beings advance forward,
    to a higher level?
-   The '"survival of the fittest?"'
+   The 'survival of the fittest?'
    Is that the true meaning of
    evolution?
 
@@ -36452,8 +36452,8 @@ Zappa:
 
 Orcha:
    The one that's hidin' within
-   me is not '"another me"'...
-   It's just another '"part of me."'
+   me is not 'another me'...
+   It's just another 'part of me.'
    I am who I am...
    Including my dark side.
    It isn't right to think of my
@@ -37058,7 +37058,7 @@ Leah:
  Fortune Teller:
    Umm...
    In a way, you can say
-   it's '"good-um."'
+   it's 'good-um.'
    Ooo, I'm envious of you!
  
  Van:
@@ -37802,7 +37802,7 @@ Harle:
    You've wiped out ze
    whole island.
  
- Viper Manor, "Back to Viper Manor" - Luccia can't be in the party here:
+ Viper Manor, Back to Viper Manor - Luccia can't be in the party here:
  
 Luccia:
    No...
@@ -38530,7 +38530,7 @@ Una:
    a new frame.
    
    Member: received the
-   '"Shellfish"' frame!
+   'Shellfish' frame!
 
  Woman:
    Oh, looks like you found it.030
@@ -38950,8 +38950,8 @@ Poshul:
 
  Old Man:
    It says,
-   ~~'"The ecstasy and anxiety
-   ~~  of the chosen one..."'
+   ~~'The ecstasy and anxiety
+   ~~  of the chosen one...'
    A mega-babe is in
    love with me, WHEEEE!
    I'm on cloud nine!!!
@@ -39204,7 +39204,7 @@ Poshul:
    Yo, Serge.
    Have you heard your message
    of the day from the
-   '"Record of Fate?"'
+   'Record of Fate?'
    It's a green pyramid
    which records your daily
    activities for you.
@@ -39276,11 +39276,11 @@ Poshul:
    
  System:
    No answer...
-   It's just a '"barrel"'...
+   It's just a 'barrel'...
  
  Barrel:
    Whaddaya want, already!?
-   I said I'm just a '"barrel!"'
+   I said I'm just a 'barrel!'
    Tch... Fine!
    Just take it, man!
    HERE!
@@ -39291,7 +39291,7 @@ Poshul:
    in the barrel.
    
    It answered...
-   But it's just a '"barrel"'...
+   But it's just a 'barrel'...
    Probably...
  
  
@@ -39311,7 +39311,7 @@ Poshul:
    Well said, Serge!!!
    You truly are a man of the sea!
    They don't call me the
-   '"Komodo Dragon Expert"'
+   'Komodo Dragon Expert'
    for nothing.
    Let me give you some pointers.
    Clean out your ears and
@@ -39525,7 +39525,7 @@ Poshul:
    other path may have led me...
    I guess the longer you live,
    the more you wonder about
-   another '"you"' that
+   another 'you' that
    might have been.
 
    Boy...
@@ -39557,8 +39557,8 @@ Poshul:
    you happen to meet him...
    I want you to give
    him that amulet.
-   And tell him, '"it's
-   from the other you!"'
+   And tell him, 'it's
+   from the other you!'
 
    Alright then!
    Off to catch some more
@@ -39623,8 +39623,8 @@ Poshul:
    young man!
 
  Poshul's Dog House:
-   '"This ith my houthe!
-    Enter at own rithk!"'
+   'This ith my houthe!
+    Enter at own rithk!'
  
  
  Porre Soldier:
@@ -39842,7 +39842,7 @@ Captain:
    being able to work this closely
    with the wonders of the world!
    By the way, have you heard of a
-   remote island called '"Gaea's Navel?"'
+   remote island called 'Gaea's Navel?'
    ~~~No, I haven't
    ~~~I've heard of it
 
@@ -39850,13 +39850,13 @@ Captain:
    It's a remote island completely
    enclosed by bluffs, located to
    the south of El Nido Archipelago.
-   Legend has it, there's a '"Primeval
-   Forest"' still unexplored to this day.
+   Legend has it, there's a 'Primeval
+   Forest' still unexplored to this day.
    Makes me tingle with excitement!
 
 Captain:
    Legend has it, there's an
-   unexplored '"Primeval Forest"'.
+   unexplored 'Primeval Forest'.
    I hope to make it there
    on my own one of these days.
    I want to explore all the
@@ -40372,11 +40372,11 @@ Una:
    
  System:
    No answer...
-   It seems to be just a '"pot"'...
+   It seems to be just a 'pot'...
 
  Pot:
    Whaddaya want already!?
-   I said I'm just a '"pot!"'
+   I said I'm just a 'pot!'
    Tch... Fine!
    Just take it, man!
    HERE!
@@ -40387,7 +40387,7 @@ Una:
    inside the pot.
 
    No answer...
-   It's just a '"pot"'...
+   It's just a 'pot'...
    
    
  Kiki's Grandpa:
@@ -40563,7 +40563,7 @@ Una:
    WHAT!?
    What did you say!?
    Another me...!?
-   So, the '"other me,"' who
+   So, the 'other me,' who
    became a fisherman,
    asked you to give
    this to me...?
@@ -40651,14 +40651,14 @@ Una:
    several years later...
    
  Sign:
-   '"Thith ith my houthe!!!
+   'Thith ith my houthe!!!
    ~~~Keep out!
    ~And beware of Mad
    ~~~Heckrans!
    Me have embarked
    on a rong journey.
    Pleathe do not come
-   rooking for I."'
+   rooking for I.'
    
  System:
    Member: found
@@ -40765,7 +40765,7 @@ Una:
 
    ......
    So you're saying there's
-   another '"me"' who's
+   another 'me' who's
    a fisherman...?
    That's ridiculous.
    What are you trying to do
@@ -41124,7 +41124,7 @@ Una:
    from Mount Pyre and bake 'em.
    For the finishing touch,
    we even add the famed
-   '"Dragon's Glory!"'
+   'Dragon's Glory!'
    How 'bout it?
    Doesn't that tempt your appetite
    just hearing about it?
@@ -41220,7 +41220,7 @@ Una:
    Here, take this.
 
    Member: received the
-   '"Tea For Three"' frame!
+   'Tea For Three' frame!
 
    What...!?
    Heh, I'm not letting you
@@ -41228,7 +41228,7 @@ Una:
    if you get sunburned!?
    
  System:
-   '"Shrine Area"'
+   'Shrine Area'
    Those not paying respects,
    please refrain from entering.
    
@@ -41462,7 +41462,7 @@ Yu:
    Frozen Flame will pop up here.
    I've got to check everything!
    My motto as a collector is:
-   '"All or nothing!"'
+   'All or nothing!'
    The only way to find something
    is to check everything!!!
 
@@ -41498,7 +41498,7 @@ Yu:
  Girl:
    That Pierre staying at
    Zappa's place says he's a
-   '"hero,"' but it sounds fishy...
+   'hero,' but it sounds fishy...
    In the first place, the way
    he talks is just too strange!
    Anyone that believes him is
@@ -41509,7 +41509,7 @@ Yu:
    become a hero, but...
    I wonder if he'll ever
    tell me,
-   '"I'll be your hero!"'
+   'I'll be your hero!'
    Ahhh...
    
  John:
@@ -41570,7 +41570,7 @@ Yu:
    
  System:
    It's full of
-   '"Dragon's Glory"'...
+   'Dragon's Glory'...
  
  Maid: 
    Master Gogh is an
@@ -41633,7 +41633,7 @@ Gogh:
    
  Man:
    Looks like this
-   '"marketing"' thing is
+   'marketing' thing is
    important, just like
    my brother said.
    After lowering the price
@@ -41814,7 +41814,7 @@ Gogh:
    us on the main island.
    Where in the world
    is there such a thing as
-   the '"Dragon Tear"'?
+   the 'Dragon Tear'?
    
  Child:
    I'm sorry, Mama...
@@ -41903,9 +41903,9 @@ Lisa:
    There's so many, I
    can't decide which one...
    Mom said,
-   '"You can only have
+   'You can only have
    one, because you're
-   still a child!"'
+   still a child!'
    008Sigh...000grown-ups
    have all the fun...
    They get to mess with all
@@ -41976,7 +41976,7 @@ Lisa's Dad:
    my job, and I'm really
    strapped for cash...
    But have you heard about this
-   thing called the '"Frozen Flame"'?
+   thing called the 'Frozen Flame'?
    ~~~Yeah
    ~~~What's that?
 
@@ -41988,7 +41988,7 @@ Lisa's Dad:
    be El Nido's, no, the
    world's richest man!
    That's what I call a
-   '"Terminian Dream!!!"'
+   'Terminian Dream!!!'
    What else can you call it?
    Alright!
    One more toast to my
@@ -41998,7 +41998,7 @@ Lisa's Dad:
    Oh well, I was gonna keep it a
    secret, but I'll make an
    exception for you!
-   The '"Frozen Flame"' is the
+   The 'Frozen Flame' is the
    treasure of treasures!
    It's the ultimate treasure in
    this world!
@@ -42010,14 +42010,14 @@ Lisa's Dad:
    One day, I'll get my hands on
    it and become the richest man
    in the universe!
-   That's my '"Terminian Dream!!!"'
+   That's my 'Terminian Dream!!!'
    Alright!
    One more toast to my bright
    future!
  
  Man:
    This guy thinks that the
-   '"Frozen Flame"' is some
+   'Frozen Flame' is some
    kind of jewel or something.
    I'd say things aren't that easy.
    It's probably a monster
@@ -42584,9 +42584,9 @@ The Boxer Boys:
    Thanks a bunch!
    Stop by again!
 
-   '"Mark my words, you can't win
+   'Mark my words, you can't win
    battles with a blunt sword.
-   Equipment management is key!"'
+   Equipment management is key!'
    ...is what my master always told me!
    
  Man:
@@ -42601,7 +42601,7 @@ The Boxer Boys:
    average human.
    
  Sign:
-   ~'"Welcome to Guldove!"'
+   ~'Welcome to Guldove!'
    
  Demi-human:
    The demi-humans in this village
@@ -42621,16 +42621,16 @@ The Boxer Boys:
    
  Explorer Captain:
    Sorry to be abrupt, but have you
-   ever come across a '"shiny material?"'
+   ever come across a 'shiny material?'
    ~~~...Shiny material?
    ~~~I've seen it
 
    Elements are common items
    nowadays, but there's a special
-   kind called '"Summon Elements."'
+   kind called 'Summon Elements.'
    096This kind releases awesome power
    depending on one of the six attributes...
-   The '"shiny material"' is a mysterious
+   The 'shiny material' is a mysterious
    byproduct of this phenomenon.
 
    This material is an essential
@@ -42657,8 +42657,8 @@ The Boxer Boys:
  Woman:
    To the north of this village
    lies Earth Dragon Isle,
-   which we locals call '"The Land
-   Where the Dragon Sleeps."'
+   which we locals call 'The Land
+   Where the Dragon Sleeps.'
    Until a few years ago, the
    surface was covered with sand,
    but somehow, the sand disappeared
@@ -42744,10 +42744,10 @@ The Boxer Boys:
    6 Dragons? In this world, there's
    supposedly 6 Dragon Gods
    somewhere out there.
-   '"The 6 Great Dragons descend
+   'The 6 Great Dragons descend
    from the heavens to seal away
    the evil and promise eternal
-   prosperity across the land..."'
+   prosperity across the land...'
    This is part of an old song
    that's been passed down in
    El Nido for a long time.
@@ -42801,7 +42801,7 @@ The Boxer Boys:
    
  Demi-human Man:
    Far off in the eastern El Nido
-   sea, there is a village '"Marbule,"'
+   sea, there is a village 'Marbule,'
    homeland to us demi-humans...
    But my friends there hate humans.
    
@@ -43052,7 +43052,7 @@ Gogh:
  Man:
    I heard the Radical Dreamers
    broke into Viper Manor to
-   search for the '"Frozen Flame."'
+   search for the 'Frozen Flame.'
    Ha, I don't know what they
    were thinking. Even Master
    Viper wouldn't have
@@ -43203,7 +43203,7 @@ Gogh:
    U-U-Use it.
 
    Member: received the
-   '"Porre's Furnace"' frame!
+   'Porre's Furnace' frame!
 
    B-B-By the way...
    
@@ -43231,7 +43231,7 @@ Gogh:
    is just pools of acid.
    What once was a beautiful
    living woodland has now
-   become a '"dead forest!"'
+   become a 'dead forest!'
    
  System:
    Member found
@@ -43303,7 +43303,7 @@ Gogh:
    but they make up for it
    by working in numbers!
    Don't go trying any
-   '"Dwarf Tossing"' now,
+   'Dwarf Tossing' now,
    you hear!?
    
    Aha... So you noticed.
@@ -43378,7 +43378,7 @@ BubbaBeeba:
 
 BubbaBeeba:
    It best beeba used in
-   a '"wide open space!"'
+   a 'wide open space!'
    Well, I'll beeba seeing ya!
    
  System:
@@ -43393,7 +43393,7 @@ BobbaBeeba:
    beeba.
    Which might you beeba?
    ~~~Strong as Mr Universe!
-   ~~~Weak as '"Mr Puny-verse!"'
+   ~~~Weak as 'Mr Puny-verse!'
 
    Let the challenge commence!
    
@@ -43479,10 +43479,10 @@ DaffyDwarf:
    A message from the author?
    Hmm... Let's see here...
 
-   '"You will find hope within despair.
+   'You will find hope within despair.
     One who does not experience
     sorrow cannot appreciate joy.
-    Good luck, me!"'
+    Good luck, me!'
 
    This is...!?
 
@@ -43611,7 +43611,7 @@ DaffyDwarf:
 
    Danger is inseparable from travel...
    Be extra-cautious about the
-   '"mist on the sea,"' young travelers.
+   'mist on the sea,' young travelers.
    We humans are inisignificant
    when out on the great seas.
    
@@ -43802,9 +43802,9 @@ Ruling Elder:
    No one knows why, but
    the last ruling elder
    spoke the following:
-   '"The black dream of the Black
+   'The black dream of the Black
    Dragon... Unable to return,
-   it continues to wander..."'
+   it continues to wander...'
    I know not what it means.
    
 Ruling Elder:
@@ -43812,9 +43812,9 @@ Ruling Elder:
    not go near there.
 
 Ruling Elder:
-   '"The black dream of the Black
+   'The black dream of the Black
    Dragon... Unable to return,
-   it continues to wander..."'
+   it continues to wander...'
    I know not what it means.
    
    
@@ -43891,9 +43891,9 @@ Witch Doctor:
    
 Captain:
    The locals call this island,
-   '"Earth Dragon Isle,"'
+   'Earth Dragon Isle,'
    but it's also known as
-   '"The Land Where the Dragons Sleep."'
+   'The Land Where the Dragons Sleep.'
    Our investigation has revealed
    nothing about this so-called dragon...
    This legendary dragon must be a hoax.
@@ -43978,7 +43978,7 @@ Captain:
  Explorer Captain:
    It's hard to believe, but according
    to the fairies here, the legendary
-   '"Dragon God"' really exists...
+   'Dragon God' really exists...
    That thick wall of ice blocking
    the entrance into the underground
    cavern proves it.
@@ -43986,7 +43986,7 @@ Captain:
 
    In El Nido, I've heard that the
    people sometimes refer to the
-   Dragon Gods as '"Gods of Nature."'
+   Dragon Gods as 'Gods of Nature.'
    If you take a different perspective,
    you can say the dragon's powers
    are the forces of nature.
@@ -44019,8 +44019,8 @@ Captain:
  Explorer:
    Ever since I found that bone, a strange
    skeleton thingy has been haunting my
-   dreams saying, '"Put my body back
-   together."' It's been driving me nuts!
+   dreams saying, 'Put my body back
+   together.' It's been driving me nuts!
    Well, now I can say goodbye to that
    nightmare. I'm sorry about you guys,
    but just think of it as helping
@@ -44045,7 +44045,7 @@ Captain:
    We fairies are born from the morning
    dewdrops of an aged tree.
    The large tree that stands in the
-   center is like our '"Fairy Godmother."'
+   center is like our 'Fairy Godmother.'
    
  Blue Fairy:
    The mist of the sea
@@ -44079,7 +44079,7 @@ Rosetta:
    conditions, the fountain has
    run completely dry.
    This island, once called the
-   '"Island of Springs,"'
+   'Island of Springs,'
    is desolate, as you now see...
 
 Rosetta:
@@ -44099,7 +44099,7 @@ Rosetta:
  
  Woman:
    Skelly has a somewhat
-   '"unique"' appearance.
+   'unique' appearance.
    But I'm so glad that he
    has come back! I've never
    seen grandma so happy!
@@ -44279,11 +44279,11 @@ DaffyDwarf:
    After we defeated the Hydra,
    the forest dwellers kept
    murmuring...
-   '"The forest will die..."'
+   'The forest will die...'
    I can't get it out of my head...!
    
  Explorer:
-   We defeated the '"Hydra"'
+   We defeated the 'Hydra'
    that lived in this forest.
    If you want to know more, go
    talk to our leader further down.
@@ -44343,7 +44343,7 @@ DaffyDwarf:
  
  System:
    Member: received the
-   '"Infrared Vision"' frame!
+   'Infrared Vision' frame!
    
  
  Old Man:
@@ -44540,8 +44540,8 @@ DaffyDwarf:
    out for a stroll.
    
    It says,
-   ~~'"The ecstasy and anxiety
-   ~~  of the chosen one..."'
+   ~~'The ecstasy and anxiety
+   ~~  of the chosen one...'
    It appears fate has chosen
    you to face a great test, too.
    One of joy, anguish and...
@@ -44901,7 +44901,7 @@ Gonji:
    He's working hard to join the
    Black Wind of Porre, but...
    I wonder if he'll ever tell me,
-   '"I'll be your wind!"'
+   'I'll be your wind!'
    Sigh...
    
  
@@ -44959,7 +44959,7 @@ Gogh:
    his brother Glenn lived in.
    Some people claim to have seen
    him, so we're currently looking
-   for this '"Dario,"' but...
+   for this 'Dario,' but...
    Just when we thought the
    Acacia Dragoons were gone,
    this troublemaker decides
@@ -44973,7 +44973,7 @@ Gogh:
    dignified man.
    If he's still alive, we
    should enlist him into the
-   '"Black Wind"'...
+   'Black Wind'...
  
  
  Sword:
@@ -44989,7 +44989,7 @@ Gogh:
    ground over there, but it was
    just a rusted sword...
    It's probably called a
-   '"Sacred Sword"' in honor of
+   'Sacred Sword' in honor of
    a lost member...
     
  
@@ -45004,7 +45004,7 @@ Gogh:
    Just last night, a man's spirit
    appeared at my bedside...
    He said his name was
-   '"Ghetz"' or something.
+   'Ghetz' or something.
    He's probably another
    lost soul still attached
    to this world.
@@ -45102,7 +45102,7 @@ Gogh:
    story to myself...
    
  Porre Man:
-   The '"Dragon's Glory"' is
+   The 'Dragon's Glory' is
    a head above the rest!
    It seeps down deep, just as it's
    rumored to be!
@@ -45319,7 +45319,7 @@ Lisa:
    ground over there, but it
    turned out be a rusted sword...
    It's probably called a
-   '"Sacred Sword"' in honor of
+   'Sacred Sword' in honor of
    a lost loved one...
  
  
@@ -45420,7 +45420,7 @@ Lisa:
    There seems to be some
    trick to opening it.
 
-   '"Water Gate"'
+   'Water Gate'
    ~~~Read instructions
    ~~~Look at Water Gate
    ~~~Quit
@@ -45519,8 +45519,8 @@ Lisa:
    ~~~No
  
  Sign:
-   ~'"Maintain your ship,
-   ~ maintain your pride."'
+   ~'Maintain your ship,
+   ~ maintain your pride.'
     -Guldove Boater's Club-
  
  Porre Man:
@@ -45539,7 +45539,7 @@ Lisa:
    of time to disappear forever.
    
  Sign:
-   ~'"Welcome to Guldove!"'
+   ~'Welcome to Guldove!'
    
  Man:
    You, halt.
@@ -45642,13 +45642,13 @@ Lisa:
  Explorer:
    You're travelers, aren't you?
    Have you guys heard about the
-   '"Star Fragment?"'
+   'Star Fragment?'
    ~~~Star Fragment?
    ~~~Yep, I've heard
 
    The sea near Triplet Isles...
    Locals call it the
-   '"El Nido Triangle."'
+   'El Nido Triangle.'
    In that area, you can find
    pretty star-shaped stones.
    That's why they're called
@@ -45733,7 +45733,7 @@ Then have you heard about that
  
  Explorer:
    Far east from here, there's
-   an area called the '"Dead Sea"'
+   an area called the 'Dead Sea'
    that's covered by thick clouds
    all year long.
    The strange thing about it
@@ -45748,13 +45748,13 @@ Then have you heard about that
  Explorer:
    Say, have you heard?
    An ancient Dragonian artifact called
-   the '"Dragon Tear"' is enshrined
+   the 'Dragon Tear' is enshrined
    somewhere in this village.
 
    If it's really a Dragonian artifact,
    then it's an ancient treasure!
    It could be as valuable as the
-   rumored '"Frozen Flame!"'
+   rumored 'Frozen Flame!'
    That might be an overstatement,
    but in any case I'd love to see this
    Dragon Tear at least once!
@@ -45821,7 +45821,7 @@ Rosetta:
    Sky Dragon resides, but after
    the dragon disappeared,
    a gigantic monster moved in...
-   It took away the '"Star Fragment"'
+   It took away the 'Star Fragment'
    I had worked so hard to get.
    Well, if I wouldn't have had it,
    the monster would've taken my
@@ -45961,7 +45961,7 @@ Rosetta:
    
  Crewman:
    Through this door is the
-   '"Grand Slam,"' where
+   'Grand Slam,' where
    only the chosen one
    can participate...
    I can't let you through
@@ -46035,8 +46035,8 @@ Rosetta:
    ~~~Explain again
    ~~~Try it
 
-   We also have the '"Sudden
-   Death"' rule in Vegas Casino,
+   We also have the 'Sudden
+   Death' rule in Vegas Casino,
    but I'll explain it to you
    when the time comes!
 
@@ -46269,7 +46269,7 @@ Rosetta:
    
    That hurts!
    You're misunderstandin'
-   '"punch"' line!
+   'punch' line!
  
  Man:
    Tough break, man...
@@ -46340,7 +46340,7 @@ Rosetta:
    welcome present, meow.
 
    Member received the
-   '"Monster Mouth"' frame!
+   'Monster Mouth' frame!
 
    Use it at your
    leisure, meow.
@@ -46463,7 +46463,7 @@ Rosetta:
    Just the way he holds his mop
    tells of his confidence, meow.
    He truly knows what it
-   means to '"be alive,"' meow.
+   means to 'be alive,' meow.
    
  
  Cat:
@@ -46486,7 +46486,7 @@ Rosetta:
    sat on me...
    
  Jack:
-   I heard '"Fat and Slim"'
+   I heard 'Fat and Slim'
    used to be pirates.
    But now they've taken
    on a new career.
@@ -46528,7 +46528,7 @@ Rosetta:
  
  Operator:
    The ultimate event of events!
-   The '"Grand Slam!!!"'
+   The 'Grand Slam!!!'
    Monsters from all over the
    world are here to battle it out!
    You guys wanna participate?
@@ -46563,7 +46563,7 @@ Rosetta:
  
  Crewman:
    If only he didn't have
-   that '"you know what..."'
+   that 'you know what...'
    
  Crewman:
    Just as his back started
@@ -46622,7 +46622,7 @@ Rosetta:
    But I ain't about to leave
    my island.
    I guess that's what they
-   call, '"Dragon Spirit,"' man...
+   call, 'Dragon Spirit,' man...
    
  
  Kiki's Dad:
@@ -47153,7 +47153,7 @@ Gogh:
 
    It won't open any further.
    
-   '"Water Gate"'
+   'Water Gate'
    ~~~Read instructions
    ~~~Look at water gate
    ~~~Quit
@@ -47284,7 +47284,7 @@ Gogh:
    this as a welcome present!
 
    Member: received the
-   '"Valencian Cloth"' frame!
+   'Valencian Cloth' frame!
  
  Demi-human:
    There's a Black Dragon
@@ -47445,9 +47445,9 @@ Riddel Groupie:
    The other day during
    my watch duty,
    I saw this big, huge bug
-   fly over from '"Hydra Marshes."'
+   fly over from 'Hydra Marshes.'
    I think it was headin' towards
-   '"Gaea's Navel."'
+   'Gaea's Navel.'
    It's surrounded by bluffs
    and inaccessible by sea.
  
@@ -47691,10 +47691,10 @@ Sage:
    one of us! Hah hahaha...!
 
    Don't tell me you're here seeking
-   the '"Powers of the Sleeping Dragon?"'
+   the 'Powers of the Sleeping Dragon?'
    You really believe in that stuff?
    Actually, this place is known as
-   '"Earth Dragon Isle,"' but as you
+   'Earth Dragon Isle,' but as you
    can see, there's nothing but sand.
 
    Just like my buddy was saying,
@@ -47786,7 +47786,7 @@ Sage:
    
    Well, that's about it for my report.
    In conclusion, I would like to say,
-   '"Attack it right by the cliff."'
+   'Attack it right by the cliff.'
    Good luck if you go for it!
  
    You guys are a lot
@@ -47962,12 +47962,12 @@ Witch Doctor:
    Something about praying to
    Lasery, Aurey, and Lickey.
 
-   '"Even if you had all
+   'Even if you had all
     the money in the world,
-    what use is it if you're dead?"'
-   '"Even if you had eternal
+    what use is it if you're dead?'
+   'Even if you had eternal
     life, what's the point of each
-    day if you don't have love?"'
+    day if you don't have love?'
    
    ...Stuff like that.
    Weird, huh?
@@ -47977,16 +47977,16 @@ Witch Doctor:
  
  Explorer:
    Have you guys ever heard of
-   '"Gaea's Navel?"'
+   'Gaea's Navel?'
    It's a remote island surrounded by
    bluffs at the southern tip of El Nido.
    No one's ever set foot on that
    island before.
    We explorers even go as far as
-   calling that place, the '"Holy Ground."'
+   calling that place, the 'Holy Ground.'
 
    From our extensive research, we've
-   discovered that a '"huge bug"' comes
+   discovered that a 'huge bug' comes
    flying into this forest from there.
    The only problem is, how do we get
    a hold of that bug...?
@@ -47998,8 +47998,8 @@ Witch Doctor:
    monsters in this forest which
    don't take too kindly to humans.
    Just between us, I think they
-   know something about that '"huge
-   bug"' you just heard about.
+   know something about that 'huge
+   bug' you just heard about.
 
    I wish I could beat the information
    out of those yellow monsters, but
@@ -48208,7 +48208,7 @@ Witch Doctor:
    You're an adventurer, right!?
    Well, you're in luck!
    I'll sell you my handcrafted
-   '"Master Hammer"' for only
+   'Master Hammer' for only
    10,000G! Cheap, eh!?
    
    ~~~Buy it
@@ -48255,7 +48255,7 @@ Witch Doctor:
    Try this.
 
    Member: received the
-   '"Our Favorite Martian"' frame!
+   'Our Favorite Martian' frame!
  
  
  Overseer:
@@ -48290,7 +48290,7 @@ Witch Doctor:
    Here, I'll give you this.
    No, no, it's alright.
    This time it's not haunted!
-   It's a material called '"Rainbow."'
+   It's a material called 'Rainbow.'
    You can't find this very easily!
    Take it as a token of my appreciation.
 
@@ -48432,12 +48432,12 @@ Witch Doctor:
    Elements, please come again!
  
  Sign:
-   '"For trips to Termina,
+   'For trips to Termina,
     leave it to Korcha's ferry service,
-    where service is priority one!"'
+    where service is priority one!'
   
  Man:
-   That must be the '"Terra Tower"'
+   That must be the 'Terra Tower'
    that the folk legends referred to...
    I never thought I would
    ever see such a legendary
